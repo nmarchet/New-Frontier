@@ -1,8 +1,8 @@
 ---
-title: Detail of the Whakatāne Settlement and Environs
+title: Map | Detail of the Whakatāne Settlement and Environs
 draft: false
-tags: []
+tags:
 ---
-[[Click here | Whakatāne colony detail.jpg]] to view the full-size map. Or, right click on the map below and select "Open image in new tab" from the dropdown menu.
+To view the full-size version of the map, right click on the image below and select "Open image in new tab" from the dropdown menu.
 
 ![[Whakatāne colony detail.jpg]]
