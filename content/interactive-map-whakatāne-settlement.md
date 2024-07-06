@@ -1,3 +1,10 @@
+---
+title: Map | Interactive Whakatāne Settlement and Environs
+draft: false
+tags:
+  - map
+---
+ 
 ```leaflet  
 ### id must be unique  
 id: Whakatāne  
