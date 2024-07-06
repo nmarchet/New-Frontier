@@ -8,8 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    /*pageTitle: "🪴 Quartz 4.0",*/
-    pageTitle: "<img src="https://nmarchet.github.io/New-Frontier/images/new-frontier.jpg" />"
+    pageTitle: "🪴 Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
