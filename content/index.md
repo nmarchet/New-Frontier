@@ -1,5 +1,5 @@
 ---
-title: Welcome to Glenbour TEST
+title: Welcome to Glenbour
 ---
 The red sun looms large over the land and lends a slight orange tint to the sky. Sometimes during the day, you can see the faint outlines of one or both of Glenbour’s twin moons. However, you can always see the gossamer threads of the rings that encircle Glenbour’s equator and stretch from horizon to horizon.
 
