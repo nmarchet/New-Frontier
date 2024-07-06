@@ -5,7 +5,7 @@ tags:
   - locations
   - whakatāne
 ---
-[Map | Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement])
+[Map | Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement)
 
 Settlements of the Whakatāne colony as of 1864 DE, the fortieth year since landfall:
 
