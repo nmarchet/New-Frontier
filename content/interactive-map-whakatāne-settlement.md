@@ -1,5 +1,5 @@
 ---
-title: Map | Interactive Whakatāne Settlement and Environs
+title: Map | Detail of the Whakatāne Settlement and Environs (Interactive)
 draft: false
 tags:
   - map
