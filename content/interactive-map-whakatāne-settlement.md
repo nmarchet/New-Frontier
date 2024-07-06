@@ -4,8 +4,7 @@ draft: false
 tags:
   - map
 ---
- 
-```leaflet  
+ ```leaflet  
 ### id must be unique  
 id: Whakatāne  
 ### Lock pins so they can't be moved  
