@@ -2,7 +2,10 @@
 title: Welcome to Glenbour
 tags: []
 ---
-![Gendron's Post]("https://nmarchet.github.io/New-Frontier/images/gendrons-post.jpg"){:style="float: right;margin-right: 7px;margin-top: 7px;"}The red sun looms large over the land and lends a slight orange tint to the sky. Sometimes during the day, you can see the faint outlines of one or both of Glenbour’s twin moons. However, you can always see the gossamer threads of the rings that encircle Glenbour’s equator and stretch from horizon to horizon.
+<p style="max-width: 50%; float: right;">
+![Gendron's Post](gendrons-post.jpg)
+</p>
+The red sun looms large over the land and lends a slight orange tint to the sky. Sometimes during the day, you can see the faint outlines of one or both of Glenbour’s twin moons. However, you can always see the gossamer threads of the rings that encircle Glenbour’s equator and stretch from horizon to horizon.
 
 At night, the Caelean rings—named for Caelus, god of the sky—catch and reflect the sun’s light in a brilliant display. It is such a vivid and dependable sight that navigators of the Wayfinders’ Union mark their ships’ positions and plot courses in reference to it. Periodically a Union navigator claims to have devised a purely lunar method of navigation, but none of those techniques have ever proved reliable. 
 
