@@ -1,7 +1,6 @@
 ---
 title: Detail of the Whakatāne Settlement and Environs
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
-![[Whakatāne colony detail.jpg]]
+![[Whakatāne colony detail.jpg|725]]
