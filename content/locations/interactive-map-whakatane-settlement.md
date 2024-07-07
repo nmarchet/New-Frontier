@@ -3,6 +3,7 @@ title: Map | Detail of the Whakatāne Settlement and Environs (Interactive)
 draft: false
 tags:
   - map
+  - locations
 ---
  ```leaflet  
 ### id must be unique  

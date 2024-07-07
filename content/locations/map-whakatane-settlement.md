@@ -3,6 +3,7 @@ title: Map | Detail of the Whakatāne Settlement and Environs
 draft: false
 tags:
   - map
+  - locations
 ---
 Click the image below to view the full-size map.
 
