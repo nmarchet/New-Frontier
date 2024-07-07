@@ -18,6 +18,9 @@ Glenbour is a mystery in the most fundamental sense—most parts of the world re
 In this case, there is some truth to that belief as Meredosia does straddle Glenbour’s equator. However, the people of the continent know little of what lies beyond Meredosia—just the various islands off the coasts like Rosslyn and a handful of trading kingdoms across the Sunward Ocean. How far do those kingdoms stretch? What lies across the Western Ocean or beyond the perpetual hurricanes of the Seas of Chaos to the south? Has anyone made their way over the treacherous ice sheets that stretch across the North Sea to the icy wastes at the pole?
 
 Most folks outside the Wayfinders’ Union don’t even ask the questions let alone have answers.
+
+![[wayfinders-union-ship.jpg]]
+*A Wayfinders' Union ship in port at one of the mysterious trading kingdoms across the Sunward Ocean.*
 # Seven True Things
 1. **There is no magic.** Stage magicians may perform simple tricks to delight children or elaborate deceptions that baffle adults, but, in the end, everyone knows it's not real; it's just illusion. 
 
