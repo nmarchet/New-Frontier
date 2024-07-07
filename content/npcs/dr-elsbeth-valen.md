@@ -11,4 +11,4 @@ Dr. Valen is a brilliant botanist and healer who was one of the founding members
 
 **Personality:** Dr. Valen is highly respected by her peers and apprentices alike for her wisdom and hands-on leadership. She is strict when it comes to scientific rigor.
 
-**Appearance:** Short with salt-and-pepper hair worn up in a neat bun. Elsbeth has light blue eyes, dark skin and deep laugh lines. She wears a white apron over professional attire, a stethoscope and small, round glasses perched on her nose.
+**Appearance:** Short with salt-and-pepper hair worn up in a neat bun. Elsbeth has light blue eyes, fair skin and deep laugh lines. She wears a white apron over professional attire, a stethoscope and small, round glasses perched on her nose.
