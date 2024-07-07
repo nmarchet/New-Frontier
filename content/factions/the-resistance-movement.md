@@ -16,4 +16,4 @@ Decisions in the movement are made collectively during secret meetings, and comm
 **Reputation:** Mostly skepticism, but also worry about the instability their radical agenda may bring
 **Allies:** Original survivors who harbor grudges against the Sovereign Mercantile Council, certain factions within the Wayfinders' Union sympathetic to the cause.
 **Enemies:** The oligarchs of Rosslyn generally and the Sovereign Mercantile Council specifically
-**Notable Member:** [Rowan Mercer](rowan-mercer)
+**Notable Member:** [Rowan Mercer](rowan-mercer.md)

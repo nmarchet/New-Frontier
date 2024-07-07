@@ -16,4 +16,4 @@ The Consortium has been known to contract with the Haven Syndicate to pursue les
 **Reputation:** Ruthless but effective; viewed with suspicion and distrust by the general populace
 **Allies:** Business interests in [Glendale](glendale) and [Scotsglen](scotsglen), corrupt officials willing to accept bribes
 **Enemies:** [The People’s Council](the-peoples-council), [Panacea](panacea), individual businesses harmed by their aggressive tactics
-**Notable Members:** [Dominic Ashley](dominic-ashley), [Miranda Hawke](miranda-hawke)
+**Notable Members:** [Dominic Ashley](dominic-ashley.md), [Miranda Hawke](miranda-hawke.md)

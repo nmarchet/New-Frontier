@@ -18,4 +18,4 @@ According to its charter, the People’s Council is duty-bound to:
 **Reputation:** Generally seen as a legitimate and fair governing body
 **Allies:** [Panacea](panacea)
 **Enemies:** [The Consortium](the-consortium)
-**Notable Member:** [Emily Norrin](emily-norrin)
+**Notable Member:** [Emily Norrin](emily-norrin.md)

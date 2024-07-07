@@ -14,4 +14,4 @@ While the Union shares much of its knowledge with the world, it keeps certain di
 **Reputation:** The Wayfinders' Union is highly respected for its expertise and contributions to navigation and exploration. They are seen as pioneers and innovators, crucial for the continued expansion and understanding of the world. Their maps and navigational techniques are considered the gold standard.
 **Allies:** Merchants and traders who rely on the Union’s expertise for safe and efficient travel; world governments that benefit from the Union’s discoveries and trade routes
 **Enemies:** Pirates, isolationist factions and rival exploratory groups
-**Notable Members:** [Elara Windrider](elara-windrider), [Lydia Marlowe](lydia-marlowe)
+**Notable Members:** [Elara Windrider](elara-windrider.md), [Lydia Marlowe](lydia-marlowe.md)

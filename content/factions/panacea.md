@@ -14,4 +14,4 @@ The guild’s primary mission is to catalog and study the unique plant and anima
 **Reputation:** Highly respected for scientific rigor and ethical practices; known as Whakatāne’s main source for affordable and effective healthcare
 **Allies:** Communities and settlers who benefit from their services
 **Enemies:** Medical charlatans, any groups or individuals looking to restrict or profit from healthcare
-**Notable Members:** [Liora Arden](liora-arden), [Dr. Elsbeth Valen](dr-elsbeth-valen), [Thoren Kael](thoren-kael)
+**Notable Members:** [Liora Arden](liora-arden.md), [Dr. Elsbeth Valen](dr-elsbeth-valen.md), [Thoren Kael](thoren-kael.md)

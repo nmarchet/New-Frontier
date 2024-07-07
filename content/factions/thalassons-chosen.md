@@ -16,4 +16,4 @@ This aggressive rhetoric is another source of social and political tension in Wh
 **Reputation:** Respect and suspicion; seen by many as a disruptive and potentially dangerous force
 **Allies:** Traditionalists, some [Consortium](the-consortium) members who see the faith as a potential means for manipulation of the public 
 **Enemies:** [Spiritualists](new-spiritualism), government officials concerned about the group's potential for militancy and social disruption
-**Notable Member:** [Gideon Thorne](gideon-thorne)
+**Notable Member:** [Gideon Thorne](gideon-thorne.md)

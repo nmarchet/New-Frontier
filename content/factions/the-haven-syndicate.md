@@ -18,4 +18,4 @@ Loyalty to the Syndicate is paramount. Any betrayal by employees or other associ
 **Reputation:** Ruthless but effective; a mix of fear and grudging respect
 **Allies:** [The Consortium](the-consortium), which is a frequent client and collaborator, and some government officials who are paid to turn a blind eye 
 **Enemies:** [Panacea](panacea), the anti-oligarch resistance movement and small business owners and independent operators
-**Notable Members:** [Malcolm Graves](malcolm-graves), [Helena Voss](helena-voss), [Thaddeus Cole](thaddeus-cole), [Gabrielle Foster](gabrielle-foster)
+**Notable Members:** [Malcolm Graves](malcolm-graves.md), [Helena Voss](helena-voss.md), [Thaddeus Cole](thaddeus-cole.md), [Gabrielle Foster](gabrielle-foster.md)
