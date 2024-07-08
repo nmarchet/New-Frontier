@@ -31,6 +31,9 @@ With the basics of survival addressed, the provisional council sent out explorat
 * On the other side of the Shards, loggers in **Glendale** provided much needed lumber for the rapidly expanding colony.
 * **Scotsglen** grew up around the camps at the foot of the Shards that processed the iron ore and granite from the mines there.
 * Later, miners established **Port J** west of Fairhaven, where the Shards meet the shoreline. It’s an ideal location from which to move the ore and stone coming out of Scotsglen.
+
+![[rider-approaches-carrington-pass.jpg]]
+*A rider approaches Carrington Pass on the journey from Kapama to Glendale.*
 # Growth and Development
 Over time, roads, trains, telegraph lines and even pigeon-size messenger lizards called pterodactyls connected the new outposts, and the individual settlements began to function together as a single, cohesive colony.
 
