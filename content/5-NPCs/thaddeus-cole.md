@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate)
+**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
 **Role:** Senior Operative
 
 Thaddeus is one of the Syndicate's most skilled and trusted operatives. He handles missions ranging from protection to breaking and entering to sabotage. He is known for his resourcefulness and combat skills.

@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [The Wayfinders' Union](the-wayfinders-union)
+**Faction/Organization:** [The Wayfinders' Union](the-wayfinders-union.md)
 **Role:** Captain and Expedition Leader
 
 Captain Windrider made history by leading her crew on the first successful circumnavigation of the Seas of Chaos. While her arrival in Port J was a significant achievement in its own right, the ensuing trade agreements Captain Windrider negotiated were, perhaps, even more momentous for Whakatāne and the outside world.

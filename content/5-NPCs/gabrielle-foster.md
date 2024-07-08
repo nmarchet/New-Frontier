@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate)
+**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
 **Role:** Covert Specialist
 
 Gabrielle handles espionage and propaganda missions that require discretion and subtlety. Her ability to blend in and adapt to different environments makes her invaluable to the Syndicate.

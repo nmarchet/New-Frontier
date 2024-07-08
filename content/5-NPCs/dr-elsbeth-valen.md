@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [Panacea](panacea)
+**Faction/Organization:** [Panacea](panacea.md)
 **Role:** Head of Research and Development
 
 Dr. Valen is a brilliant botanist and healer who was one of the founding members of Panacea. She has a deep passion for discovering new medicinal properties in the island's flora and fauna. Her extensive knowledge and innovative approaches have led to several groundbreaking treatments.

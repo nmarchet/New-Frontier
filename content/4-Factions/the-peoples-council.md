@@ -14,8 +14,8 @@ According to its charter, the People’s Council is duty-bound to:
 
 **Structure:** Representative council with two members elected by each incorporated settlement
 **Number of Members:** 10 elected members and one governor chosen by the members
-**Headquarters:** The Civic Hall in [Fairhaven](fairhaven) (formerly a tavern called the Second Chance Saloon)
+**Headquarters:** The Civic Hall in [Fairhaven](fairhaven.md) (formerly a tavern called the Second Chance Saloon)
 **Reputation:** Generally seen as a legitimate and fair governing body
-**Allies:** [Panacea](panacea)
-**Enemies:** [The Consortium](the-consortium)
+**Allies:** [Panacea](panacea.md)
+**Enemies:** [The Consortium](the-consortium.md)
 **Notable Member:** [Emily Norrin](emily-norrin.md)

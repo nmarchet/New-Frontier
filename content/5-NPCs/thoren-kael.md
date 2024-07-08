@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [Panacea](panacea)
+**Faction/Organization:** [Panacea](panacea.md)
 **Role:** Field Research Coordinator
 
 Thoren leads expeditions to collect and study new plant and animal specimens. With a background in herbalism and survival, he excels in navigating the wild and uncharted territories of the island.

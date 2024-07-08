@@ -10,7 +10,7 @@ The guild’s primary mission is to catalog and study the unique plant and anima
 
 **Structure:** Collective
 **Number of Members:** 30-40 doctors, herbalists, apprentices and field researchers
-**Headquarters:** Research centers and clinics in [Fairhaven](fairhaven) and [Kapama](kapama)
+**Headquarters:** Research centers and clinics in [Fairhaven](fairhaven.md) and [Kapama](kapama.md)
 **Reputation:** Highly respected for scientific rigor and ethical practices; known as Whakatāne’s main source for affordable and effective healthcare
 **Allies:** Communities and settlers who benefit from their services
 **Enemies:** Medical charlatans, any groups or individuals looking to restrict or profit from healthcare

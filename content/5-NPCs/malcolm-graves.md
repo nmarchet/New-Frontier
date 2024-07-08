@@ -4,7 +4,7 @@ draft: false
 tags:
   - npcs
 ---
-**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate)
+**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
 **Role:** Partner for Risk Management
 
 Malcolm oversees logistics and strategic planning for the Syndicate's protection services.

@@ -10,7 +10,7 @@ While the Union shares much of its knowledge with the world, it keeps certain di
 
 **Structure:** A council of senior members make decisions and direct major expeditions. Membership is gained through demonstrating exceptional skill in navigation, survival or scholarship.
 **Number of Members:** About 2,000
-**Headquarters:** The University of Aubrey in Cresca, the capital city of Manton; several outposts and trading posts in strategic locations, including one near [Port J](port-j) in Whakatāne
+**Headquarters:** The University of Aubrey in Cresca, the capital city of Manton; several outposts and trading posts in strategic locations, including one near [Port J](port-j.md) in Whakatāne
 **Reputation:** The Wayfinders' Union is highly respected for its expertise and contributions to navigation and exploration. They are seen as pioneers and innovators, crucial for the continued expansion and understanding of the world. Their maps and navigational techniques are considered the gold standard.
 **Allies:** Merchants and traders who rely on the Union’s expertise for safe and efficient travel; world governments that benefit from the Union’s discoveries and trade routes
 **Enemies:** Pirates, isolationist factions and rival exploratory groups

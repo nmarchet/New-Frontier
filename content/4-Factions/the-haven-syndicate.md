@@ -14,8 +14,8 @@ Loyalty to the Syndicate is paramount. Any betrayal by employees or other associ
 
 **Structure:** Limited liability partnership
 **Number of Members:** About 80 active employees or contractors
-**Headquarters:** [Fairhaven](fairhaven), with safe houses and operational outposts in [Port J](port-j), [Kapama](kapama) and other strategic locations
+**Headquarters:** [Fairhaven](fairhaven.md), with safe houses and operational outposts in [Port J](port-j.md), [Kapama](kapama.md) and other strategic locations
 **Reputation:** Ruthless but effective; a mix of fear and grudging respect
-**Allies:** [The Consortium](the-consortium), which is a frequent client and collaborator, and some government officials who are paid to turn a blind eye 
-**Enemies:** [Panacea](panacea), the anti-oligarch resistance movement and small business owners and independent operators
+**Allies:** [The Consortium](the-consortium.md), which is a frequent client and collaborator, and some government officials who are paid to turn a blind eye 
+**Enemies:** [Panacea](panacea.md), the anti-oligarch resistance movement and small business owners and independent operators
 **Notable Members:** [Malcolm Graves](malcolm-graves.md), [Helena Voss](helena-voss.md), [Thaddeus Cole](thaddeus-cole.md), [Gabrielle Foster](gabrielle-foster.md)
