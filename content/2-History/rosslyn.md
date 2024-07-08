@@ -37,3 +37,5 @@ The Council stripped House Velyra of its assets and seized its properties. Then,
 Nevertheless, on Sept. 18, in the year 1824 of the divine era, a fleet of Council galleons escorted the three coastal vessels south to the Seas of Chaos and drove them into the band of hurricanes that rage there perpetually. Witnesses aboard the Council fleet saw the exiles scattered by wind that tore at their rigging and waves that overtopped the smaller ships. Even one of the Council galleons, Grand Horizon, failed to break free of the storms and was lost as the fleet turned about.
 
 The Judgment of Thalasson is brutal and decisive and does not come without a cost.
+
+[Next | Whakatāne](whakatane.md)
