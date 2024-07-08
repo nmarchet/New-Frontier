@@ -60,6 +60,9 @@ And, they have been successful. In their most prominent victory to-date, the Con
 **The resistance movement.** The arrival of the Wayfinders’ Union renewed contact between Whakatāne and the outside world. For some, this brought back memories of the exile and the harrowing passage through the Chaos. A small but vocal movement has begun advocating for revenge against Rosslyn and the oppressive regime that cast them out.
 
 Despite their passionate rhetoric, the resistance movement struggles with a lack of concrete plans. Nevertheless, it is yet another source of tension in present day Whakatāne.
+
+![[gendrons-post.jpg]]
+*Sunset over Gendron's Post, the latest settlement on the newly discovered island of Whakatāne.*
 # Key Events and Milestones
 > 
 > **Year 3 (1827 DE):** First domestication of hadrosaurs
