@@ -5,10 +5,8 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 650-700
-
-**Founded:** Year 1 (1824 DE)
-
+**Population:** 650-700<br>
+**Founded:** Year 1 (1824 DE)<br>
 **Trade Goods, Resources:** Agriculture, fishing, medicine
 
 Nestled among the islands at the mouth of the Salas River delta, Fairhaven is the first permanent settlement founded by the survivors of the exiled House Velyra. It began as a smattering of shacks and lean-tos cobbled together from their beached derelict ships, but now it’s the hub of a larger, well-established colony. Now, most of the main streets are even paved with granite scraps from the mines of Scotsglen.
