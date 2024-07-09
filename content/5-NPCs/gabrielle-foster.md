@@ -6,7 +6,7 @@ tags:
 ---
 ![[npc-gabrielle-foster-alt.jpg]]
 
-**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
+**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)<br>
 **Role:** Covert Specialist
 
 Gabrielle handles espionage and propaganda missions that require discretion and subtlety. Her ability to blend in and adapt to different environments makes her invaluable to the Syndicate.

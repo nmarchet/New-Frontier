@@ -12,10 +12,10 @@ The Syndicate is organized by lines of business, each headed by a senior partner
 
 Loyalty to the Syndicate is paramount. Any betrayal by employees or other associates is met with severe consequences.
 
-**Structure:** Limited liability partnership
-**Number of Members:** About 80 active employees or contractors
-**Headquarters:** Fairhaven, with safe houses and operational outposts in [Port J](port-j.md), [Kapama](kapama.md) and other strategic locations
-**Reputation:** Ruthless but effective; a mix of fear and grudging respect
-**Allies:** [The Consortium](the-consortium.md), which is a frequent client and collaborator, and some government officials who are paid to turn a blind eye 
-**Enemies:** [Panacea](panacea.md), the anti-oligarch resistance movement and small business owners and independent operators
+**Structure:** Limited liability partnership<br>
+**Number of Members:** About 80 active employees or contractors<br>
+**Headquarters:** Fairhaven, with safe houses and operational outposts in [Port J](port-j.md), [Kapama](kapama.md) and other strategic locations<br>
+**Reputation:** Ruthless but effective; a mix of fear and grudging respect<br>
+**Allies:** [The Consortium](the-consortium.md), which is a frequent client and collaborator, and some government officials who are paid to turn a blind eye<br>
+**Enemies:** [Panacea](panacea.md), the anti-oligarch resistance movement and small business owners and independent operators<br>
 **Notable Members:** [Malcolm Graves](malcolm-graves.md), [Helena Voss](helena-voss.md), [Thaddeus Cole](thaddeus-cole.md), [Gabrielle Foster](gabrielle-foster.md)

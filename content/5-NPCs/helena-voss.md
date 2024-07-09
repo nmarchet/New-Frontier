@@ -6,7 +6,7 @@ tags:
 ---
 ![[npc-helena-voss-alt.jpg]]
 
-**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
+**Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)<br>
 **Role:** Director of Intelligence
 
 Helena is responsible for gathering and analyzing information for clients, and she manages the Syndicate's network of informants.

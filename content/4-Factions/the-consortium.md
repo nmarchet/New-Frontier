@@ -10,10 +10,10 @@ It is organized as a board of directors representing influential business leader
 
 The Consortium has been known to contract with the [Haven Syndicate](the-haven-syndicate) to pursue less scrupulous tactics when traditional influence and persuasion have failed. 
 
-**Structure:** Cartel
-**Number of Members:** About 15 member businesses, 15-20 staffers
-**Headquarters:** [Port J](port-j.md)
-**Reputation:** Ruthless but effective; viewed with suspicion and distrust by the general populace
-**Allies:** Business interests in [Glendale](glendale.md) and [Scotsglen](scotsglen.md), corrupt officials willing to accept bribes
-**Enemies:** [The People’s Council](the-peoples-council.md), [Panacea](panacea.md), individual businesses harmed by their aggressive tactics
+**Structure:** Cartel<br>
+**Number of Members:** About 15 member businesses, 15-20 staffers<br>
+**Headquarters:** [Port J](port-j.md)<br>
+**Reputation:** Ruthless but effective; viewed with suspicion and distrust by the general populace<br>
+**Allies:** Business interests in [Glendale](glendale.md) and [Scotsglen](scotsglen.md), corrupt officials willing to accept bribes<br>
+**Enemies:** [The People’s Council](the-peoples-council.md), [Panacea](panacea.md), individual businesses harmed by their aggressive tactics<br>
 **Notable Members:** [Dominic Ashley](dominic-ashley.md), [Miranda Hawke](miranda-hawke.md)

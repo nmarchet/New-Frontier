@@ -6,7 +6,7 @@ tags:
 ---
 ![[npc-gideon-thorne-alt.jpg]]
 
-**Faction/Organization:** [Thalasson's Chosen](thalassons-chosen.md)
+**Faction/Organization:** [Thalasson's Chosen](thalassons-chosen.md)<br>
 **Role:** Street Preacher
 
 Gideon is the most charismatic and well-known of the street preachers calling for a return to belief in the [Elemental Trinity](elemental-trinity.md). He has drawn many settlers back to the traditional faith, creating a strong core of believers who view him as a spiritual guide—all while protesting that he’s no leader. His influence has ramped up tensions with nonbelievers and spiritualists, making him both a revered figure and a source of concern for the authorities.

@@ -6,7 +6,7 @@ tags:
 ---
 ![[npc-dominic-ashley-alt.jpg]]
 
-**Faction/Organization:** [The Consortium](the-consortium.md)
+**Faction/Organization:** [The Consortium](the-consortium.md)<br>
 **Role:** Chief Executive Officer
 
 Dominic oversees all Consortium operations. Under his leadership, the Consortium's influence on Whakatāne’s industries has grown in both strength and scope.

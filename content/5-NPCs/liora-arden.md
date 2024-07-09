@@ -6,7 +6,7 @@ tags:
 ---
 ![[npc-liora-arden-alt.jpg]]
 
-**Faction/Organization:** [Panacea](panacea.md)
+**Faction/Organization:** [Panacea](panacea.md)<br>
 **Role:** Chief Medical Officer
 
 Liora oversees the day-to-day medical operations at Panacea’s clinics. She is responsible for implementing new treatments and ensuring the highest standards of care for Panacea’s patients.

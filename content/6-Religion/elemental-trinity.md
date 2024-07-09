@@ -9,12 +9,9 @@ Back in Rosslyn, most folks continue to follow a tradition of worship centered o
 
 Priests call this the Time of Miracles, and it was marked by harmony and prosperity. The Trinity's presence was felt in every aspect of life, and their guidance was directly evident in the daily lives of the people. Temples were erected in their honor, and rituals were performed to seek their continued favor.
 
-> 1 In ancient days, the sky was split asunder, and the Three entered from realms beyond the veil.
-> 
-> 2 Glennon, the earthshaper, seized the mountains and valleys as his own domain.
-> 
-> 3 Caelus, the skywarden, spread her wings over the heavens, claiming the winds and clouds.
-> 
+> 1 In ancient days, the sky was split asunder, and the Three entered from realms beyond the veil.<br>
+> 2 Glennon, the earthshaper, seized the mountains and valleys as his own domain.<br> 
+> 3 Caelus, the skywarden, spread her wings over the heavens, claiming the winds and clouds.<br> 
 > 4 Thalasson, seaguard, her embrace of the oceans and rivers, filled them with life.
 > 
 > *—The Triadic Scriptures, Beginnings 1:1-4. New Rosslyn Revised Edition, 1818*
@@ -39,16 +36,11 @@ Caelus and Thalasson tried to calm Glennon, but his fury was too great, and they
 
 Underground, Caelus and Thalasson struggled to contain the destruction of Glennon's rage. In a desperate bid to protect the world from ruination, Caelus and Thalasson combined their powers to seal Glennon away. But Glennon, in a final act of defiance, ensured that they would be trapped beneath the earth too.
 
-> 22 But Avarion, in his pride, dared to wield the power of the gods.
-> 
-> 23 Glennon’s wrath shook the earth, and Caelus and Thalasson strove to contain him.
-> 
-> 24 Yet Glennon, in his fury, dragged them beneath the ground, where his power was greatest.
-> 
-> 25 There, amidst the roots of the mountains, the gods did clash, and the world quaked.
-> 
-> 26 Desperate Caelus and Thalasson combined their might to seal Glennon away, and he, in turn, bound them with him.
-> 
+> 22 But Avarion, in his pride, dared to wield the power of the gods.<br> 
+> 23 Glennon’s wrath shook the earth, and Caelus and Thalasson strove to contain him.<br> 
+> 24 Yet Glennon, in his fury, dragged them beneath the ground, where his power was greatest.<br> 
+> 25 There, amidst the roots of the mountains, the gods did clash, and the world quaked.<br> 
+> 26 Desperate Caelus and Thalasson combined their might to seal Glennon away, and he, in turn, bound them with him.<br> 
 > 27 Thus, the time of miracles had passed, and the Three were sealed in the depths, for the sake of mankind.
 > 
 > *—The Triadic Scriptures, Rift 8:22-27. New Rosslyn Revised Edition, 1818*

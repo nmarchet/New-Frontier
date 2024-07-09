@@ -10,10 +10,10 @@ Resistance leaders and propagandists spread their message through pamphlets, cla
 
 Decisions in the movement are made collectively during secret meetings, and communication is maintained through a network of trusted messengers. The movement relies heavily on passionate rhetoric to inspire and mobilize supporters.
 
-**Structure:** Little to no formal organization; de facto leadership is distributed among a few key figures
-**Number of Members:** 30-40 active members, with a larger circle of sympathizers and supporters
-**Headquarters:** None; any gatherings occur at private homes or other informal meeting places; locations change frequently to avoid any potential crackdown.
-**Reputation:** Mostly skepticism, but also worry about the instability their radical agenda may bring
-**Allies:** Original survivors who harbor grudges against the Sovereign Mercantile Council, certain factions within the Wayfinders' Union sympathetic to the cause.
-**Enemies:** The oligarchs of Rosslyn generally and the Sovereign Mercantile Council specifically
+**Structure:** Little to no formal organization; de facto leadership is distributed among a few key figures<br>
+**Number of Members:** 30-40 active members, with a larger circle of sympathizers and supporters<br>
+**Headquarters:** None; any gatherings occur at private homes or other informal meeting places; locations change frequently to avoid any potential crackdown<br>
+**Reputation:** Mostly skepticism, but also worry about the instability their radical agenda may bring<br>
+**Allies:** Original survivors who harbor grudges against the Sovereign Mercantile Council, certain factions within the Wayfinders' Union sympathetic to the cause<br>
+**Enemies:** The oligarchs of Rosslyn generally and the Sovereign Mercantile Council specifically<br>
 **Notable Member:** [Rowan Mercer](rowan-mercer.md)
