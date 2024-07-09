@@ -5,8 +5,8 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 60-70  
-**Founded:** Year 9 (1833 DE)  
+**Population:** 60-70<br>
+**Founded:** Year 9 (1833 DE)<br>
 **Trade Goods, Resources:** Granite, quartz, copper, sliver, gold, stonecraft
 
 Scotsglen is a bustling mining encampment located southwest of [Fairhaven](fairhaven), in the foothills of the Shards. It has grown from a rough-and-tumble hillside camp into an established settlement. Miners and mine owners live here for convenient access to the rich veins of iron ore and granite as well as copper, silver, gold and quartz crystals nearby. Scotsglen is also home to milling and smelting facilities. In fact, visitors can hear the relentless grinding and clanging of the mills and the refinery echo off neighboring mountain faces for miles before they can even see Scotsglen.

@@ -5,8 +5,10 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 130-150  
-**Founded:** Year 10 (1834 DE)  
+**Population:** 130-150
+
+**Founded:** Year 10 (1834 DE)
+
 **Trade Goods, Resources:** Mining, lumber, fishing, advanced imported goods
 
 Port J is a bustling harbor town located where the Shards meet the coastline west of [Fairhaven](fairhaven). It was first established to facilitate the transportation of ore and stone from the nearby [Scotsglen](scotsglen) mines. Since then, with the arrival of the [Wayfinders’ Union](the-wayfinders-union), Port J has become a vital commercial hub for Whakatāne and the island’s primary port. Today, the settlement—home of the business syndicate known as [the Consortium](the-consortium)—is a focus of intrigue and tensions with the government at Fairhaven.
