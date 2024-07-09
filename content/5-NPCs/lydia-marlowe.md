@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-lydia-marlowe-alt.jpg]]
+
 **Faction/Organization:** [The Wayfinders' Union](the-wayfinders-union.md)
 **Role:** Senior Cartographer.
 

@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-gideon-thorne-alt.jpg]]
+
 **Faction/Organization:** [Thalasson's Chosen](thalassons-chosen.md)
 **Role:** Street Preacher
 

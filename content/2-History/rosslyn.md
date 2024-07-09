@@ -8,7 +8,7 @@ Rosslyn, a small island nation off the coast of Meredosia, has quietly emerged a
 # Significance of the Sea
 Today, Rosslyn is an economic power, but first it was a country of fishers, shipwrights and weavers. One of the main exports of Rosslyn is still a fine thread spun from the fibrous seaweed that covers the seabed for miles around Rosslyn. It’s tied into nets for fishing, twisted into cord for ships’ rigging and woven into tacky, water repellent cloth that’s used to make the ponchos that are so popular with seafaring people all across Meredosia. 
 # Rooted in Religion
-The very identity and governance of modern Rosslyn are rooted in an apocryphal story of the Elemental Trinity. Rosslyn—specifically a large rock outcropping in the market district in the capital city of Bessemer—is supposedly where Glennon, Caelus and Thalasson first set foot on Glenbour and claimed their respective domains of land, sky and sea. It’s the event from which the Meredosian calendar is reckoned (divine era/pre-divine era). The oldest temple in Rosslyn was built around that rock, which has been worn smooth by the hands of hundreds of thousands of pilgrims who wanted to feel close to the divine.
+The very identity and governance of modern Rosslyn are rooted in an apocryphal story of the [Elemental Trinity](elemental-trinity). Rosslyn—specifically a large rock outcropping in the market district in the capital city of Bessemer—is supposedly where Glennon, Caelus and Thalasson first set foot on Glenbour and claimed their respective domains of land, sky and sea. It’s the event from which the Meredosian calendar is reckoned (divine era/pre-divine era). The oldest temple in Rosslyn was built around that rock, which has been worn smooth by the hands of hundreds of thousands of pilgrims who wanted to feel close to the divine.
 
 Nearly everyone in Rosslyn professes belief in the Trinity. For many, it’s a sincere and very literal faith. They believe the narratives of the Triadic Scriptures actually happened. The lessons within aren’t poetic parables; they’re specific directives on how to live a good life. Others simply draw spiritual strength from the stories but don’t turn to them as any kind of an accurate history.
 
@@ -17,6 +17,9 @@ Still others perform faith publicly for the social benefit. A skeptical observer
 For more than 300 years, the great families have ruled Rosslyn. These rich and powerful merchant dynasties began as small, enterprising families who capitalized on the island nation’s strategic location. Centuries ago, Rosslyn was a modest collection of fishing villages and small ports. During a period of political instability and fragmented rule, these families began to accumulate wealth through shrewd trading, seafaring prowess and the exploitation of local resources.
 
 As their wealth grew, the families worked to consolidate their power. Through negotiation, bribes and coercion, they secured exclusive trade rights from early rulers of Rosslyn—including monopolies over certain goods, such as spices, silk and precious metals.
+
+![[patriarch-house-golden.jpg]]
+*Merrick Golden, patriarch of House Golden.*
 
 The great families parlayed that economic dominance into political authority. 
 

@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-dr-elsbeth-valen-alt.jpg]]
+
 **Faction/Organization:** [Panacea](panacea.md)
 **Role:** Head of Research and Development
 

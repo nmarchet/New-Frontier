@@ -4,6 +4,8 @@ draft: false
 tags:
   - factions
 ---
+![[npc-helena-voss-alt.jpg]]
+
 **Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
 **Role:** Director of Intelligence
 

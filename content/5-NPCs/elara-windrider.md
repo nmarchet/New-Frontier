@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-elara-windrider-alt.jpg]]
+
 **Faction/Organization:** [The Wayfinders' Union](the-wayfinders-union.md)
 **Role:** Captain and Expedition Leader
 

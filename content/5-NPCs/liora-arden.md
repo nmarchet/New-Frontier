@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-liora-arden-alt.jpg]]
+
 **Faction/Organization:** [Panacea](panacea.md)
 **Role:** Chief Medical Officer
 

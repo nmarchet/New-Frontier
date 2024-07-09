@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-thoren-kael-alt.jpg]]
+
 **Faction/Organization:** [Panacea](panacea.md)
 **Role:** Field Research Coordinator
 

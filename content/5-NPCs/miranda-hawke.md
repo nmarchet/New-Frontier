@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-miranda-hawke-alt.jpg]]
+
 **Faction/Organization:** [The Consortium](the-consortium.md)
 **Role:** Board Member
 

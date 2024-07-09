@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-dominic-ashley-alt.jpg]]
+
 **Faction/Organization:** [The Consortium](the-consortium.md)
 **Role:** Chief Executive Officer
 

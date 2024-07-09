@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-emily-norrin-alt.jpg]]
+
 **Faction/Organization:** [The People's Council](the-peoples-council.md)
 **Role:** Governor
 
@@ -11,4 +13,4 @@ As governor, Emily Norrin implements the decisions made by the People's Council 
 
 **Personality:** Emily is known for her pragmatic and inclusive approach to governance. She is a strong advocate for transparency and community involvement, holding regular town hall meetings to listen to citizens' concerns.
 
-**Appearance:** Tall and broad shouldered with long, dark brown hair, hazel eyes and fair skin. Emily wears tailored suits when working in her professional capacity, but she is seen around Fairhaven in practical clothes like jeans and a broadcloth shirt. She wears a silver pendant with a stylized tree, symbolizing growth and balance.
+**Appearance:** Tall and broad shouldered with long hair, hazel eyes and dark skin. Emily wears tailored suits when working in her professional capacity, but she is seen around Fairhaven in practical clothes like jeans and a broadcloth shirt. She wears a silver pendant with a stylized tree, symbolizing growth and balance.

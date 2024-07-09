@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-rowan-mercer-alt.jpg]]
+
 **Faction/Organization:** [The Resistance Movement](the-resistance-movement.md)
 **Role:** Lead Propagandist
 
@@ -11,4 +13,4 @@ Rowan was 6 years old when his ship, Golden Wave, was forced into the Seas of Ch
 
 **Personality:** Rowan is shy and awkward, but, when he speaks of justice for the exiled people of Whakatāne, he is overcome with a fiery determination. He becomes eloquent and inspiring.
 
-**Appearance:** Average height with short brown hair, hazel eyes and a scar across the left eyebrow—a souvenir from an altercation with Haven Syndicate agents. Rowan dresses in simple, functional clothing and carries a satchel full of pamphlets and notes.
+**Appearance:** Average height with short brown hair, hazel eyes and a scar near his left eye—a souvenir from an altercation with Haven Syndicate agents. Rowan dresses in simple, functional clothing and carries a satchel full of pamphlets and notes.

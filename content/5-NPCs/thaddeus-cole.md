@@ -4,6 +4,8 @@ draft: false
 tags:
   - npcs
 ---
+![[npc-thaddeus-cole-alt.jpg]]
+
 **Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)
 **Role:** Senior Operative
 
