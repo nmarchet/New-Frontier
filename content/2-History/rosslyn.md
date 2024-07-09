@@ -6,7 +6,10 @@ tags:
 ---
 Rosslyn, a small island nation off the coast of Meredosia, has quietly emerged as the stable economic center of a continent often plagued by conflict. Its strategic location along major maritime trade routes has made it an indispensable hub for commerce. Strategic neutrality, and sophisticated diplomacy allow Rosslyn to quietly control regional trade while avoiding the pitfalls of war.
 # Significance of the Sea
-Today, Rosslyn is an economic power, but first it was a country of fishers, shipwrights and weavers. One of the main exports of Rosslyn is still a fine thread spun from the fibrous seaweed that covers the seabed for miles around Rosslyn. It’s tied into nets for fishing, twisted into cord for ships’ rigging and woven into tacky, water repellent cloth that’s used to make the ponchos that are so popular with seafaring people all across Meredosia. 
+Today, Rosslyn is an economic power, but first it was a country of fishers, shipwrights and weavers. One of the main exports of Rosslyn is still a fine thread spun from the fibrous seaweed that covers the seabed for miles around Rosslyn. It’s tied into nets for fishing, twisted into cord for ships’ rigging and woven into tacky, water repellent cloth that’s used to make the ponchos that are so popular with seafaring people all across Meredosia.
+
+![[shiphand-rosslyn-poncho.jpg]]
+*A ship's officer wearing the popular Rosslyn poncho.*
 # Rooted in Religion
 The very identity and governance of modern Rosslyn are rooted in an apocryphal story of the [Elemental Trinity](elemental-trinity). Rosslyn—specifically a large rock outcropping in the market district in the capital city of Bessemer—is supposedly where Glennon, Caelus and Thalasson first set foot on Glenbour and claimed their respective domains of land, sky and sea. It’s the event from which the Meredosian calendar is reckoned (divine era/pre-divine era). The oldest temple in Rosslyn was built around that rock, which has been worn smooth by the hands of hundreds of thousands of pilgrims who wanted to feel close to the divine.
 

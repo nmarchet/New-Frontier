@@ -21,6 +21,9 @@ The survivors beached Mercy’s Wake and Golden Wave on an island in what would 
 
 The settlers established the [City of Fairhaven](fairhaven) at the delta with a provisional council. Led by Captain Elias Thorne of Mercy’s Wake and First Mate Anara Greaves of Golden Wave, the council coordinated the initial efforts to secure food, water and shelter. The ships were quickly scrapped for building materials. (Even today, it’s not unusual to find a tavern or inn that claims to have an original spar or deck plank from the ships.)
 
+![[mercys-wake-golden-wave-beached.jpg]]
+*Mercy's Wake and Golden Wave were beached and soon stripped for building materials.*
+
 Out of necessity, the settlers adapted quickly to hunting, fishing and foraging. They learned to utilize local flora in medicines and even made use of the unusual fauna native to the island, including enormous plant-eating lizards that they called [hadrosaurs](https://www.dndbeyond.com/monsters/2560844-hadrosaurus). 
 
 Hadrosaurs ran wild in packs through the head-high grasses of the nearby plains, sometimes on two legs and sometimes on four. But—when a young woman named Betsy Danforth found an abandoned egg, hatched it and raised it—the settlers found that hadrosaurs could be trained to carry a rider or pull a plow.
