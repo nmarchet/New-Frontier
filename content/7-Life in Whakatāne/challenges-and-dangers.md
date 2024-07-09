@@ -22,7 +22,7 @@ The Scour is the name folks have given to the extreme winds that occasionally dr
 
 They have only happened twice in the colony's history: first in year 18 (1842 DE), and then again in year 31 (1855 DE). Each time, the devastating force of the Scour caused tremendous damage and wiped out fledgling independent settlements all along its path. Now, no one settles in what has come to be known as the Scour Barrens.
 
-The Scour may very well have a natural cause. Certainly scientists from the Wayfinders’ Union who have heard of the phenomenon think it does. However, most Whakatāne citizens believe that the Scour is caused by furious spirits of the island who are upset by the settlers' presence or by something they’ve done. Some go as far as to perform rituals to appease these spirits in an attempt to prevent future occurrences.
+The Scour may very well have a natural cause. Certainly scientists from the [Wayfinders’ Union](the-wayfinders-union) who have heard of the phenomenon think it does. However, most Whakatāne citizens believe that the Scour is caused by furious spirits of the island who are upset by the settlers' presence or by something they’ve done. Some go as far as to perform rituals to appease these spirits in an attempt to prevent future occurrences.
 # The Unknown
 Who knows what dangers could lurk for explorers who delve into the vast unexplored regions of Whakatāne. No matter what settlement you call home or which stratum of society you occupy, odds are you’ve had more than a few conversations turn to conjecture about what we might find in the blank place on maps. 
 

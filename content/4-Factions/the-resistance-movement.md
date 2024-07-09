@@ -4,7 +4,7 @@ draft: false
 tags:
   - factions
 ---
-The resistance movement in Whakatāne emerged following the arrival of the Wayfinders' Union. For some, this renewed connection with the outside world brought back memories of the community's exile and the perilous journey through the Chaos. This small but vocal movement advocates for revenge against Rosslyn and its oppressive regime, which initially cast them out.
+The resistance movement in Whakatāne emerged following the arrival of the [Wayfinders' Union](the-wayfinders-union). For some, this renewed connection with the outside world brought back memories of the community's exile and the perilous journey through the Chaos. This small but vocal movement advocates for revenge against Rosslyn and its oppressive regime, which initially cast them out.
 
 Resistance leaders and propagandists spread their message through pamphlets, clandestine meetings and public speeches. They emphasize themes of justice, retribution and liberation. They paint a vivid picture of a future where the people of Whakatāne return to Rosslyn as heroes and liberators, toppling the oligarchs and establishing a fair and just society. The movement attracts those who never forgot or forgave the actions of the Sovereign Mercantile Council.
 

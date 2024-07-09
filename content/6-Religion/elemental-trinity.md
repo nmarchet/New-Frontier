@@ -19,6 +19,9 @@ Priests call this the Time of Miracles, and it was marked by harmony and prosper
 > 
 > *—The Triadic Scriptures, Beginnings 1:1-4. New Rosslyn Revised Edition, 1818*
 
+![[arrival-of-the-trinity.jpg]]
+*The Trinity arrived on Glenbour from another realm.* 
+
 However, the scriptures tell of an obsessive recluse, known in the gospel as Avarion the Ambitious. Driven by an insatiable desire for knowledge and control, Avarion sought to harness the divine powers of the Trinity.
 
 In this time, the gods walked among people, and Avarion followed them, always watching. When he wasn’t watching, he was practicing. Every gesture, every utterance that accompanied a miracle, Avarion recreated countless times, watching himself in a polished brass serving platter.
@@ -26,6 +29,9 @@ In this time, the gods walked among people, and Avarion followed them, always wa
 And then, one day, something in Avarion changed, and he knew. 
 
 He took up a knife and slashed it across the palm of his hand. He set down the knife, took a deep breath and recreated gestures he’d seen Thalasson do countless times. Avarion’s fingers flowed through the movements, each as inevitable as the next wave. Then, he spoke a word of the divine language that he’d heard countless times. His chest thrummed as he breathed out, and his tongue danced to shape the syllables he spoke. Blood stopped flowing from the deep gash in his hand. Then, it started retreating back into his palm. Then, skin stitched itself back together without a trace of a scar.
+
+![[blastphemy-of-avarion.jpg]]
+*The blastphemy of Avarion ended the Time of Miracles.*
 
 The Trinity felt Avarion’s working. Glennon was enraged by the audacity of a mortal daring to claim their power. His rage shook the foundations of the earth, causing massive earthquakes and volcanic eruptions.
 

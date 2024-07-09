@@ -35,6 +35,9 @@ At an emergency meeting, the Council unanimously voted to take decisive action. 
 
 After the decision, violence erupted in city streets all across Rosslyn as mercenaries of House Velyra warred with those of the other families. Warehouses were set ablaze, ships were sabotaged and city markets became battlegrounds. Weeks of intense conflict ended at last when a coalition of rival families besieged the Velyra estate. Overwhelmed and outmaneuvered, Lord Velyra was captured. 
 
+![[street-warfare-between-houses.jpg]]
+*Violence in the streets as war broke out among the great families.* 
+
 The Council stripped House Velyra of its assets and seized its properties. Then, the last head of House Velyra, the entire extended family and all of its retainers were forced aboard three ships that were left to them: a coastal brig, Azure Crest, and two sloops, Mercy’s Wake and Golden Wave. These ships were provisioned with only token stores, and, while seaworthy, none of them were intended for deepwater traversals.
 
 Nevertheless, on Sept. 18, in the year 1824 of the divine era, a fleet of Council galleons escorted the three coastal vessels south to the Seas of Chaos and drove them into the band of hurricanes that rage there perpetually. Witnesses aboard the Council fleet saw the exiles scattered by wind that tore at their rigging and waves that overtopped the smaller ships. Even one of the Council galleons, Grand Horizon, failed to break free of the storms and was lost as the fleet turned about.

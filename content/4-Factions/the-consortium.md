@@ -8,7 +8,7 @@ The Consortium wields significant influence over Whakatāne's key industries—f
 
 It is organized as a board of directors representing influential business leaders from the island's major industries. A chief executive officer manages day-to-day activities. Then there are the staff who do the actual work lobbying and negotiations.
 
-The Consortium has been known to contract with the Haven Syndicate to pursue less scrupulous tactics when traditional influence and persuasion have failed. 
+The Consortium has been known to contract with the [Haven Syndicate](the-haven-syndicate) to pursue less scrupulous tactics when traditional influence and persuasion have failed. 
 
 **Structure:** Cartel
 **Number of Members:** About 15 member businesses, 15-20 staffers

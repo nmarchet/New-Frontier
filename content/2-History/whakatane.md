@@ -19,7 +19,7 @@ Gradually, cries of seagulls filled the air, and a sailor on Mercy’s Wake crie
 # Settlement and Survival
 The survivors beached Mercy’s Wake and Golden Wave on an island in what would come to be called the Salas River delta. With the loss of Azure Crest, very few blood relatives of House Velyra made it to Whakatāne. So, there was a shared sense of injustice and adversity among the new settlers who felt unjustly dragged into exile, and that fostered a strong community spirit.
 
-The settlers established the City of Fairhaven at the delta with a provisional council. Led by Captain Elias Thorne of Mercy’s Wake and First Mate Anara Greaves of Golden Wave, the council coordinated the initial efforts to secure food, water and shelter. The ships were quickly scrapped for building materials. (Even today, it’s not unusual to find a tavern or inn that claims to have an original spar or deck plank from the ships.)
+The settlers established the [City of Fairhaven](fairhaven) at the delta with a provisional council. Led by Captain Elias Thorne of Mercy’s Wake and First Mate Anara Greaves of Golden Wave, the council coordinated the initial efforts to secure food, water and shelter. The ships were quickly scrapped for building materials. (Even today, it’s not unusual to find a tavern or inn that claims to have an original spar or deck plank from the ships.)
 
 Out of necessity, the settlers adapted quickly to hunting, fishing and foraging. They learned to utilize local flora in medicines and even made use of the unusual fauna native to the island, including enormous plant-eating lizards that they called [hadrosaurs](https://www.dndbeyond.com/monsters/2560844-hadrosaurus). 
 
@@ -27,23 +27,23 @@ Hadrosaurs ran wild in packs through the head-high grasses of the nearby plains,
 # Expansion and Exploration
 With the basics of survival addressed, the provisional council sent out exploratory missions to map the immediate surroundings. These missions discovered fertile plains, dense forests and mineral-rich mountains where new settlements were established to take advantage of the natural resources:
 
-* In the fertile grasslands between the Vein River and River Romul, **Kapama** became the agricultural center of the colony.
-* On the other side of the Shards, loggers in **Glendale** provided much needed lumber for the rapidly expanding colony.
-* **Scotsglen** grew up around the camps at the foot of the Shards that processed the iron ore and granite from the mines there.
-* Later, miners established **Port J** west of Fairhaven, where the Shards meet the shoreline. It’s an ideal location from which to move the ore and stone coming out of Scotsglen.
+* In the fertile grasslands between the Vein River and River Romul, [**Kapama**](kapama) became the agricultural center of the colony.
+* On the other side of the Shards, loggers in [**Glendale**](glendale) provided much needed lumber for the rapidly expanding colony.
+* [**Scotsglen**](scotsglen) grew up around the camps at the foot of the Shards that processed the iron ore and granite from the mines there.
+* Later, miners established [**Port J**](port-j) west of Fairhaven, where the Shards meet the shoreline. It’s an ideal location from which to move the ore and stone coming out of Scotsglen.
 
 ![[rider-approaches-carrington-pass.jpg]]
 *A rider approaches Carrington Pass on the journey from Kapama to Glendale.*
 # Growth and Development
 Over time, roads, trains, telegraph lines and even pigeon-size messenger lizards called pterodactyls connected the new outposts, and the individual settlements began to function together as a single, cohesive colony.
 
-The provisional council evolved into a more structured government in Fairhaven with representatives elected from each incorporated settlement. The new People’s Council appointed the colony’s first sheriff, Mariah Drayton, to maintain law and order. Her deputies make regular patrols of the incorporated settlements.
+The provisional council evolved into a more structured government in Fairhaven with representatives elected from each incorporated settlement. The new [People’s Council](the-peoples-council) appointed the colony’s first sheriff, Mariah Drayton, to maintain law and order. Her deputies make regular patrols of the incorporated settlements.
 
-Pioneering homesteaders still push out into the unexplored Wilds for a bit of land to call their own. There is safety in numbers, so even more settlements emerged—Sand Lake and Gendron’s Post being the latest. Many people living in these outposts hope for official recognition from Fairhaven, while some business interests instead work to keep the territories unincorporated to avoid the scrutiny of Fairhaven’s sheriffs.
+Pioneering homesteaders still push out into the unexplored Wilds for a bit of land to call their own. There is safety in numbers, so even more settlements emerged—[Sand Lake](sand-lake) and [Gendron’s Post](gendrons-post) being the latest. Many people living in these outposts hope for official recognition from Fairhaven, while some business interests instead work to keep the territories unincorporated to avoid the scrutiny of Fairhaven’s sheriffs.
 
-In Port J, a new business collective known simply as the Consortium began emulating the sharp practices of Rosslyn's great families. They allied with interests in Glendale and Scotsglen to control key industries and began to challenge Fairhaven’s primacy.
+In Port J, a new business collective known simply as [the Consortium](the-consortium) began emulating the sharp practices of Rosslyn's great families. They allied with interests in Glendale and Scotsglen to control key industries and began to challenge Fairhaven’s primacy.
 # The Outside World Encroaches
-Eight years ago, in year 32 of the settlement of Whakatāne, a large, well-maintained galleon sailed into the harbor of Port J. It was flying the compass rose flag of the Wayfinders’ Union. A determined captain, Elara Windrider, had set out on an ambitious mission to circumnavigate the Seas of Chaos. Against all odds, she and her crew succeeded, making them the first outsiders to reach Whakatāne since the exile of House Velyra.
+Eight years ago, in year 32 of the settlement of Whakatāne, a large, well-maintained galleon sailed into the harbor of Port J. It was flying the compass rose flag of the [Wayfinders’ Union](the-wayfinders-union). A determined captain, [Elara Windrider](elara-windrider), had set out on an ambitious mission to circumnavigate the Seas of Chaos. Against all odds, she and her crew succeeded, making them the first outsiders to reach Whakatāne since the exile of House Velyra.
 
 Overcoming their ingrained suspicion of anything from Rosslyn or the old world, People’s Council members traveled to Port J and met with Captain Windrider. Negotiations were tense but ultimately fruitful. In the end, they reached an agreement: Whakatāne would export its resources—timber, ore and the island’s unique medicinal plants—in exchange for advanced tools, technologies and manufactured goods from the Union.
 
@@ -57,7 +57,7 @@ Tensions escalated as the Consortium began to exert political influence. They at
 
 And, they have been successful. In their most prominent victory to-date, the Consortium managed to block a Council initiative to build a new railway line connecting Fairhaven to Glendale and Scotsglen. Council members saw this project as essential for the equitable distribution of resources and fostering economic growth across all settlements. The Consortium viewed it as a direct threat to their control over the island's industries.
 
-**The resistance movement.** The arrival of the Wayfinders’ Union renewed contact between Whakatāne and the outside world. For some, this brought back memories of the exile and the harrowing passage through the Chaos. A small but vocal movement has begun advocating for revenge against Rosslyn and the oppressive regime that cast them out.
+**The resistance movement.** The arrival of the Wayfinders’ Union renewed contact between Whakatāne and the outside world. For some, this brought back memories of the exile and the harrowing passage through the Chaos. A [small but vocal movement](the-resistance-movement) has begun advocating for revenge against Rosslyn and the oppressive regime that cast them out.
 
 Despite their passionate rhetoric, the resistance movement struggles with a lack of concrete plans. Nevertheless, it is yet another source of tension in present day Whakatāne.
 
