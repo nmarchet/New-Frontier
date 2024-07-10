@@ -4,7 +4,7 @@ draft: false
 tags:
   - history
 ---
-# History
+# Contents
 
 * [Rosslyn](rosslyn)
 * [Whakatāne](whakatane)

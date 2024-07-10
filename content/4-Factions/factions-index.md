@@ -1,10 +1,10 @@
 ---
-title: Factions and Organization
+title: Factions, Organizations and Associates
 draft: false
 tags:
   - factions
 ---
-# Factions, Organizations and Associates
+# Contents
 
 * [Panacea](panacea)
 	* [Liora Arden](liora-arden.md)

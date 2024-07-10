@@ -5,6 +5,7 @@ tags:
   - life-in-whakatane
   - whakatāne
 ---
-# Life in Whakatāne
+# Contents
+
 * [Challenges and Dangers](challenges-and-dangers)
 * [Social Norms](social-norms)
