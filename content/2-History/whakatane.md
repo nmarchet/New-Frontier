@@ -5,7 +5,7 @@ tags:
   - history
   - whakatāne
 ---
-On Sept. 18, in the year 1824 of the divine era, a fleet of galleons under flag of Rosslyn's Sovereign Mercantile Council set out to impose the Judgment of Thalasson on the last head of House Velyra, the entire extended family and all of its retainers.
+On Sept. 18, in the year 1824 of the divine era, a fleet of galleons under flag of Rosslyn's [Sovereign Mercantile Council](rosslyn#the-sovereign-mercantile-council) set out to impose the Judgment of Thalasson on the last head of House Velyra, the entire extended family and all of its retainers.
 
 They escorted House Velyra's three coastal vessels south to the Seas of Chaos and drove them into the band of hurricanes that rage there perpetually. Witnesses aboard the Council fleet saw the exiles scattered by wind that tore at their rigging and waves that overtopped the smaller ships. Even one of the Council galleons, Grand Horizon, failed to break free of the storms and was lost as the fleet turned about.
 
