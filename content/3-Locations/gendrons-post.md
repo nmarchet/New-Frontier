@@ -7,6 +7,7 @@ tags:
 ---
 **Population:** 20-30<br>
 **Founded:** Year 39 (1863 DE)<br>
+**Status:** Unincorporated<br>
 **Trade Goods, Resources:** N/A
 
 Gendron's Post is a fledgling settlement strategically located where the desert meets the fertile plains on the trail from [Sand Lake](sand-lake) to [Kapama](kapama). It was established as a rest and resupply station for those making that arduous journey. The settlement is named after its founder, Jane Gendron, a former merchant who recognized an opportunity to provide essential services and amenities and to ensure the safety and well-being of travelers and their goods.

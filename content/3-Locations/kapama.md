@@ -7,6 +7,7 @@ tags:
 ---
 **Population:** 90-100<br>
 **Founded:** Year 7 (1831 DE)<br>
+**Status:** Incorporated<br>
 **Trade Goods, Resources:** Agriculture, textiles, leather products, pottery
 
 Kapama is located in the fertile grasslands between the Vein River and River Romul. Established just a few years into the settlement of Whakatāne, Kapama has grown into the colony's primary source of food and agricultural products. This thriving settlement is characterized by its vast expanses of farmland, where settlers grow a variety of crops—wheat, barley, corn, potatoes and various vegetables—and raise livestock—cows, sheep, goats and chickens—that sustain the colony. 

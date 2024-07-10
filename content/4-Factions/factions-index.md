@@ -4,8 +4,7 @@ draft: false
 tags:
   - factions
 ---
-Factions, Organizations and Associates
-======
+# Factions, Organizations and Associates
 
 * [Panacea](panacea)
 	* [Liora Arden](liora-arden.md)

@@ -10,7 +10,6 @@ tags:
 * [Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
 
 # Settlements of the Whakatāne Colony
-======
 
 * [Fairhaven](fairhaven.md)
 * [Kapama](kapama.md)

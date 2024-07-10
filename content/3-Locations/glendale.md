@@ -7,6 +7,7 @@ tags:
 ---
 **Population:** 30-40<br>
 **Founded:** Year 10 (1834 DE)<br>
+**Status:** Incorporated<br>
 **Trade Goods, Resources:** Lumber, furs, herbs/medicinal plants, handcrafted goods
 
 Located on the edge of a vast forest just beyond Carrington Pass, which winds its way through to the other side of the Shards, Glendale is the smallest of the incorporated settlements. However, its position provides access to an essential natural resource—the lumber that made it possible for all other settlements to grow. The settlement is known for its serene, natural beauty and its close-knit community.
