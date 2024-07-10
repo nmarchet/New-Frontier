@@ -22,7 +22,7 @@ tags:
 * [Sand Lake](sand-lake.md)
 * [Gendron’s Post](gendrons-post.md)
 
-**[Factions and Organizations](factions-index)**
+**[Factions, Organizations and Associates](factions-index)**
 * [Panacea](panacea.md)
 * [Thalasson’s Chosen](thalassons-chosen.md)
 * [The Consortium](the-consortium.md)
