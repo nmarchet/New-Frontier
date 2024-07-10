@@ -14,7 +14,7 @@ Priests call this the Time of Miracles, and it was marked by harmony and prosper
 > 3. Caelus, the skywarden, spread her wings over the heavens, claiming the winds and clouds. 
 > 4. Thalasson, seaguard, her embrace of the oceans and rivers, filled them with life.
 > 
-> *—The Triadic Scriptures, Beginnings 1:1-4. New Rosslyn Revised Edition, 1818*
+> 	*—The Triadic Scriptures, Beginnings 1:1-4. New Rosslyn Revised Edition, 1818*
 
 ![[arrival-of-the-trinity.jpg]]
 *The Trinity arrived on Glenbour from another realm.* 
@@ -36,14 +36,14 @@ Caelus and Thalasson tried to calm Glennon, but his fury was too great, and they
 
 Underground, Caelus and Thalasson struggled to contain the destruction of Glennon's rage. In a desperate bid to protect the world from ruination, Caelus and Thalasson combined their powers to seal Glennon away. But Glennon, in a final act of defiance, ensured that they would be trapped beneath the earth too.
 
-> 22 But Avarion, in his pride, dared to wield the power of the gods.<br> 
-> 23 Glennon’s wrath shook the earth, and Caelus and Thalasson strove to contain him.<br> 
-> 24 Yet Glennon, in his fury, dragged them beneath the ground, where his power was greatest.<br> 
-> 25 There, amidst the roots of the mountains, the gods did clash, and the world quaked.<br> 
-> 26 Desperate Caelus and Thalasson combined their might to seal Glennon away, and he, in turn, bound them with him.<br> 
-> 27 Thus, the time of miracles had passed, and the Three were sealed in the depths, for the sake of mankind.
+> 22. But Avarion, in his pride, dared to wield the power of the gods. 
+> 23. Glennon’s wrath shook the earth, and Caelus and Thalasson strove to contain him. 
+> 24. Yet Glennon, in his fury, dragged them beneath the ground, where his power was greatest. 
+> 25. There, amidst the roots of the mountains, the gods did clash, and the world quaked. 
+> 26. Desperate Caelus and Thalasson combined their might to seal Glennon away, and he, in turn, bound them with him. 
+> 27. Thus, the time of miracles had passed, and the Three were sealed in the depths, for the sake of mankind.
 > 
-> *—The Triadic Scriptures, Rift 8:22-27. New Rosslyn Revised Edition, 1818*
+> 	*—The Triadic Scriptures, Rift 8:22-27. New Rosslyn Revised Edition, 1818*
 # Crisis of faith
 The ordeal that the survivors of House Velyra endured and their sense of betrayal by the traditional faith of the Elemental Trinity led most to seek [new spiritual explanations](new-spiritualism.md) for their survival and the bountiful new land that they now call home.
 
