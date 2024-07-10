@@ -9,10 +9,10 @@ Back in Rosslyn, most folks continue to follow a tradition of worship centered o
 
 Priests call this the Time of Miracles, and it was marked by harmony and prosperity. The Trinity's presence was felt in every aspect of life, and their guidance was directly evident in the daily lives of the people. Temples were erected in their honor, and rituals were performed to seek their continued favor.
 
-> 1 In ancient days, the sky was split asunder, and the Three entered from realms beyond the veil.<br>
-> 2 Glennon, the earthshaper, seized the mountains and valleys as his own domain.<br> 
-> 3 Caelus, the skywarden, spread her wings over the heavens, claiming the winds and clouds.<br> 
-> 4 Thalasson, seaguard, her embrace of the oceans and rivers, filled them with life.
+> 1. In ancient days, the sky was split asunder, and the Three entered from realms beyond the veil.
+> 2. Glennon, the earthshaper, seized the mountains and valleys as his own domain. 
+> 3. Caelus, the skywarden, spread her wings over the heavens, claiming the winds and clouds. 
+> 4. Thalasson, seaguard, her embrace of the oceans and rivers, filled them with life.
 > 
 > *—The Triadic Scriptures, Beginnings 1:1-4. New Rosslyn Revised Edition, 1818*
 
