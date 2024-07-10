@@ -5,6 +5,5 @@ tags:
   - history
 ---
 # Contents
-
 * [Rosslyn](rosslyn)
 * [Whakatāne](whakatane)

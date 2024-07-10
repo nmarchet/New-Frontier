@@ -6,6 +6,5 @@ tags:
   - whakatāne
 ---
 # Contents
-
 * [Challenges and Dangers](challenges-and-dangers)
 * [Social Norms](social-norms)

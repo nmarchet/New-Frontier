@@ -5,7 +5,6 @@ tags:
   - factions
 ---
 # Contents
-
 * [Panacea](panacea)
 	* [Liora Arden](liora-arden.md)
 	* [Dr. Elsbeth Valen](dr-elsbeth-valen.md)
