@@ -1,7 +1,8 @@
 ---
 title: Social Norms
 draft: false
-tags: []
+tags:
+  - life-in-whakatane
 ---
 # Jobs
 Desirable jobs in Whakatāne include: sheriff/deputy sheriffs, merchants, farmers, private protection/bounty hunters and trappers. Sailing, mining, homesteading and foraging are considered undesirable.

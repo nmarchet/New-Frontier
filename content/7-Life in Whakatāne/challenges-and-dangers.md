@@ -3,6 +3,7 @@ title: Challenges and Dangers
 draft: false
 tags:
   - whakatāne
+  - life-in-whakatane
 ---
 # Discovery by Rosslyn
 Rosslyn is a looming threat for the Whakatāne colony—especially in the minds of those who weren’t born on Whakatāne and survived the Judgment of Thalasson imposed by the Sovereign Mercantile Council. 

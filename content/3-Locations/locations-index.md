@@ -5,9 +5,12 @@ tags:
   - locations
   - whakatāne
 ---
-[Map | Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
+# Maps
 
-Settlements of the Whakatāne colony as of 1864 DE, the fortieth year since landfall:
+* [Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
+
+# Settlements of the Whakatāne Colony
+======
 
 * [Fairhaven](fairhaven.md)
 * [Kapama](kapama.md)
