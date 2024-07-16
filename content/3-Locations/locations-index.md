@@ -1,5 +1,5 @@
 ---
-title: Whakatāne Gazetteer
+title: Glenbour Gazetteer
 draft: false
 tags:
   - locations

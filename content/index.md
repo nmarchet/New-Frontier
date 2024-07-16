@@ -12,7 +12,7 @@ tags:
 * [Rosslyn](rosslyn.md)
 * [Whakatāne](whakatane.md)
 
-**[Whakatāne Gazetteer](locations-index)**
+**[Glenbour Gazetteer](locations-index)**
 * [Map | Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
 * [Map | Meredosia Continent with Local Trade Routes](map-meredosia-continent)
 * [Fairhaven](fairhaven.md)
