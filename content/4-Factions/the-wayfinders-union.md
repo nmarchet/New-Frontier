@@ -15,3 +15,6 @@ While the Union shares much of its knowledge with the world, it keeps certain di
 **Allies:** Merchants and traders who rely on the Union’s expertise for safe and efficient travel; world governments that benefit from the Union’s discoveries and trade routes<br>
 **Enemies:** Pirates, isolationist factions and rival exploratory groups<br>
 **Notable Members:** [Elara Windrider](elara-windrider.md), [Lydia Marlowe](lydia-marlowe.md)
+
+![[wayfinders-union-logo.png]]
+*The compass rose logo of the Wayfinders' Union.*
