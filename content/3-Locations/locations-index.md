@@ -6,8 +6,9 @@ tags:
   - whakatāne
 ---
 # Contents
-## Map
+## Maps
 * [Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
+* [Meredosia Continent with Local Trade Routes](map-meredosia-continent)
 ## Settlements of the Whakatāne Colony
 * [Fairhaven](fairhaven.md)
 * [Kapama](kapama.md)
