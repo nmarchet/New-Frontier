@@ -16,15 +16,18 @@ The very identity and governance of modern Rosslyn are rooted in an apocryphal s
 Nearly everyone in Rosslyn professes belief in the Trinity. For many, it’s a sincere and very literal faith. They believe the narratives of the Triadic Scriptures actually happened. The lessons within aren’t poetic parables; they’re specific directives on how to live a good life. Others simply draw spiritual strength from the stories but don’t turn to them as any kind of an accurate history.
 
 Still others perform faith publicly for the social benefit. A skeptical observer of Rosslyn politics might point to the nation’s government officials as a prime example of such cynical lip service. Nine representatives from Rosslyn’s wealthiest and most powerful families sit on the Sovereign Mercantile Council that controls trade and appoints all local officials. Its members are considered divinely sanctioned and are functionally the highest ranking clerics in Rosslyn. All Council decrees begin with the phrase, “By the grace of the Divine and the mandate of Prosperity, it is so ordered ….”
+
+![[first-temple-of-the-divine.jpg]]
+*Pilgrims in the First Temple of the Divine in the market district of Bessemer in Rosslyn.*
 # The Sovereign Mercantile Council
 For more than 300 years, the great families have ruled Rosslyn. These rich and powerful merchant dynasties began as small, enterprising families who capitalized on the island nation’s strategic location. Centuries ago, Rosslyn was a modest collection of fishing villages and small ports. During a period of political instability and fragmented rule, these families began to accumulate wealth through shrewd trading, seafaring prowess and the exploitation of local resources.
 
 As their wealth grew, the families worked to consolidate their power. Through negotiation, bribes and coercion, they secured exclusive trade rights from early rulers of Rosslyn—including monopolies over certain goods, such as spices, silk and precious metals.
 
+The great families parlayed that economic dominance into political authority. 
+
 ![[patriarch-house-golden.jpg]]
 *Merrick Golden, patriarch of House Golden.*
-
-The great families parlayed that economic dominance into political authority. 
 
 They financed local leaders and infrastructure projects to earn favor and influence. Strategic marriages with prominent families and nobility helped cement their status and integrate them into the political elite. Gradually they gained control over key institutions—the judiciary, local councils, regulatory bodies and more—to enact and enforce laws that favored their interests. Investing in cultural and religious institutions, they built temples, funded festivals and patronized the arts. This patronage enhanced their image, allowed them to sway public opinion and brought them moral authority.
 
