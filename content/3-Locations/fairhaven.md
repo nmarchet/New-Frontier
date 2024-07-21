@@ -5,7 +5,7 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 650-700<br>
+**Population:** 1,200-1,300<br>
 **Founded:** Year 1 (1824 DE)<br>
 **Status:** Incorporated<br>
 **Trade Goods, Resources:** Agriculture, fishing, medicine

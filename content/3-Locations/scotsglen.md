@@ -5,7 +5,7 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 60-70<br>
+**Population:** 100-150<br>
 **Founded:** Year 9 (1833 DE)<br>
 **Status:** Incorporated<br>
 **Trade Goods, Resources:** Granite, quartz, copper, sliver, gold, stonecraft

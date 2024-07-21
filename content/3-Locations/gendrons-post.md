@@ -5,7 +5,7 @@ tags:
   - locations
   - whakatāne
 ---
-**Population:** 20-30<br>
+**Population:** 100-125<br>
 **Founded:** Year 39 (1863 DE)<br>
 **Status:** Unincorporated<br>
 **Trade Goods, Resources:** N/A
