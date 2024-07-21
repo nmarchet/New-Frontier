@@ -2,7 +2,14 @@
 title: Table of Contents
 tags:
 ---
+# Game Play
+**[Players](players-index)**
+* [Erastis Freyn](erastis-freyn)
+* [Herbert "Dakota" Hicks](herbert-hicks)
 
+**[Game Log](gamelog-index)**
+* Miracle Tonic Medicine Show (coming soon)
+# The World
 **[Overview](overview-index)**
 * [Welcome to Glenbour](welcome-to-glenbour.md)
 * [The Known World](the-known-world.md)
