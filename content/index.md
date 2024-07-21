@@ -3,25 +3,27 @@ title: Table of Contents
 tags:
 ---
 # Game Play
-**[Players](players-index)**
+## [Players](players-index)
 * [Erastis Freyn](erastis-freyn)
 * [Herbert "Dakota" Hicks](herbert-hicks)
 
-**[Game Log](gamelog-index)**
+## [Game Log](gamelog-index)
 * Miracle Tonic Medicine Show (coming soon)
 # The World
-**[Overview](overview-index)**
+## [Overview](overview-index)
 * [Welcome to Glenbour](welcome-to-glenbour.md)
 * [The Known World](the-known-world.md)
 * [Seven True Things](seven-true-things.md)
 
-**[History](history-index)**
+## [History](history-index)
 * [Rosslyn](rosslyn.md)
 * [Whakatāne](whakatane.md)
 
-**[Glenbour Gazetteer](locations-index)**
-* [Map | Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
-* [Map | Meredosia Continent with Local Trade Routes](map-meredosia-continent)
+## [Glenbour Gazetteer](locations-index)
+### Maps
+* [Detail of the Whakatāne Settlement and Environs](map-whakatane-settlement.md)
+* [Meredosia Continent with Local Trade Routes](map-meredosia-continent)
+### Locations
 * [Fairhaven](fairhaven.md)
 * [Kapama](kapama.md)
 * [Scotsglen](scotsglen.md)
@@ -30,7 +32,7 @@ tags:
 * [Sand Lake](sand-lake.md)
 * [Gendron’s Post](gendrons-post.md)
 
-**[Factions, Organizations and Associates](factions-index)**
+## [Factions, Organizations and Associates](factions-index)
 * [Panacea](panacea.md)
 * [Thalasson’s Chosen](thalassons-chosen.md)
 * [The Consortium](the-consortium.md)
@@ -39,10 +41,10 @@ tags:
 * [The Resistance Movement](the-resistance-movement.md)
 * [The Wayfinders’ Union](the-wayfinders-union.md)
 
-**[Religion](religion-index)**
+## [Religion](religion-index)
 * [The Elemental Trinity](elemental-trinity.md)
 * [New Spiritualism](new-spiritualism.md)
 
-**[Life in Whakatāne](life-index)**
+## [Life in Whakatāne](life-index)
 * [Challenges and Dangers](challenges-and-dangers.md)
 * [Social Norms](social-norms.md)
