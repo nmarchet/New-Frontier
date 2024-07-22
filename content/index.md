@@ -2,13 +2,6 @@
 title: Table of Contents
 tags:
 ---
-# Game Play
-## [Players](players-index)
-* [Erastis Freyn](erastis-freyn)
-* [Herbert "Dakota" Hicks](herbert-hicks)
-
-## [Game Log](gamelog-index)
-* Miracle Tonic Medicine Show (coming soon)
 # The World
 ## [Overview](overview-index)
 * [Welcome to Glenbour](welcome-to-glenbour.md)
@@ -48,3 +41,10 @@ tags:
 ## [Life in Whakatāne](life-index)
 * [Challenges and Dangers](challenges-and-dangers.md)
 * [Social Norms](social-norms.md)
+# Game Play
+## [Players](players-index)
+* [Erastis Freyn](erastis-freyn)
+* [Herbert "Dakota" Hicks](herbert-hicks)
+
+## [Game Log](gamelog-index)
+* Miracle Tonic Medicine Show (coming soon)
