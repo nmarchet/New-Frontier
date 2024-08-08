@@ -32,7 +32,7 @@ The great families parlayed that economic dominance into political authority. 
 They financed local leaders and infrastructure projects to earn favor and influence. Strategic marriages with prominent families and nobility helped cement their status and integrate them into the political elite. Gradually they gained control over key institutions—the judiciary, local councils, regulatory bodies and more—to enact and enforce laws that favored their interests. Investing in cultural and religious institutions, they built temples, funded festivals and patronized the arts. This patronage enhanced their image, allowed them to sway public opinion and brought them moral authority.
 
 The culmination of their power was the formation of the Sovereign Mercantile Council. This council, composed of the heads of the leading merchant dynasties, became the governing body of Rosslyn. They justified their rule through a veneer of piety and civic duty, claiming divine favor and the mandate of prosperity.
-# The Exile of House Velyra
+# War of the Houses
 Forty years ago, the political equilibrium of Rosslyn was shattered by House Velyra, one of the most prominent and influential families with a seat on the Sovereign Mercantile Council. Spying, secret deals, hostile takeovers and more are normal among the great families, however House Velyra went far beyond accepted custom.
 
 In an effort to secure a complete monopoly on the spice trade, Lord Aric Velyra sanctioned unprecedented bribery and blackmail operations that undermined the Council’s integrity and threatened the balance of power among the oligarchs. But, open hostilities only broke out after a foiled attempt on the life of Lady Eveline of House Marquet and the subsequent investigation that revealed an ongoing scheme of targeted assassinations.
@@ -44,6 +44,7 @@ After the decision, violence erupted in city streets all across Rosslyn as merce
 ![[street-warfare-between-houses.jpg]]
 *Violence in the streets as war broke out among the great families.* 
 
+# The Exile of House Velyra
 The Council stripped House Velyra of its assets and seized its properties. Then, the last head of House Velyra, the entire extended family and all of its retainers were forced aboard three ships that were left to them: a coastal brig, Azure Crest, and two sloops, Mercy’s Wake and Golden Wave. These ships were provisioned with only token stores, and, while seaworthy, none of them were intended for deepwater traversals.
 
 Nevertheless, on Sept. 18, in the year 1824 of the divine era, a fleet of Council galleons escorted the three coastal vessels south to the Seas of Chaos and drove them into the band of hurricanes that rage there perpetually. Witnesses aboard the Council fleet saw the exiles scattered by wind that tore at their rigging and waves that overtopped the smaller ships. Even one of the Council galleons, Grand Horizon, failed to break free of the storms and was lost as the fleet turned about.
