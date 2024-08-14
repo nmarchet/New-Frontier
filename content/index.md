@@ -37,6 +37,7 @@ tags:
 ## [Religion](religion-index)
 * [The Elemental Trinity](elemental-trinity.md)
 * [New Spiritualism](new-spiritualism.md)
+* [Kenjitzu](kenjitzu.md)
 
 ## [Life in Whakatāne](life-index)
 * [Challenges and Dangers](challenges-and-dangers.md)

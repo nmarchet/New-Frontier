@@ -7,3 +7,4 @@ tags:
 # Contents
 * [The Elemental Trinity](elemental-trinity)
 * [New Spiritualism](new-spiritualism)
+* [Kenjitzu](kenjitzu)
