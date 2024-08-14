@@ -34,7 +34,7 @@ tags:
 * [The Resistance Movement](the-resistance-movement.md)
 * [The Wayfinders’ Union](the-wayfinders-union.md)
 
-## [Religion](religion-index)
+## [Religion, Philosophy](religion-index.md)
 * [The Elemental Trinity](elemental-trinity.md)
 * [New Spiritualism](new-spiritualism.md)
 * [Kenjitzu](kenjitzu.md)

@@ -5,6 +5,9 @@ tags:
   - religion
 ---
 Kenjitzu, a martial art and philosophy practiced in the nation of Kamiah in the north of Meredosia. It is a philosophy focused on service and the Three Tenets.
+
+![[kenjitzu-sword-forms.jpg]]
+*A Kenjitzu disciple practices sword forms on a rooftop in Fairhaven.* 
 # The Three Tenets
 1. **Rei.** Respect, especially for the enemy, even in the face of adversity.
 
