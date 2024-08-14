@@ -64,8 +64,8 @@ And, they have been successful. In their most prominent victory to-date, the Con
 
 Despite their passionate rhetoric, the resistance movement struggles with a lack of concrete plans. Nevertheless, it is yet another source of tension in present day Whakatāne.
 
-![[gendrons-post.jpg]]
-*Sunset over Gendron's Post, the latest settlement on the newly discovered island of Whakatāne.*
+![[rider-surveys-the-wastes.jpg]]
+*A rider scouts ahead for an expedition out of Sand Lake that is exploring the Wastes.*
 # Key Events and Milestones
 > 
 > **Year 3 (1827 DE):** First domestication of hadrosaurs
