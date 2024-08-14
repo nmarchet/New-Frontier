@@ -7,3 +7,4 @@ tags:
 # Contents
 * [Rosslyn](rosslyn)
 * [Whakatāne](whakatane)
+* [Key Events in Whakatāne](timeline.md)

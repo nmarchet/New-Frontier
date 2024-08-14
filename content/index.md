@@ -11,6 +11,7 @@ tags:
 ## [History](history-index)
 * [Rosslyn](rosslyn.md)
 * [Whakatāne](whakatane.md)
+* [Key Events in Whakatāne](timeline.md)
 
 ## [Glenbour Gazetteer](locations-index)
 ### Maps
