@@ -17,3 +17,6 @@ tags:
 6. **The oligarchs of Rosslyn are continually at war.** Usually, it is a cold war of spying, political intrigue and economic manipulation. However, periodically fighting breaks out. The most recent of these civil wars was 40 years ago.
 
 7. **A new land was recently discovered.** It’s a bountiful island with extraordinary natural resources and significant strategic potential. Only a select few who don’t live there know of its existence, but that could soon change.
+
+![[train-arrives-at-kapama.jpg]]
+*The train from Fairhaven arrives at Kapama.*
