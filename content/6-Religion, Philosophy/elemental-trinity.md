@@ -4,8 +4,10 @@ draft: false
 tags:
   - religion
 ---
-# The Gospel
-Back in Rosslyn, most folks continue to follow a tradition of worship centered on the Elemental Trinity, and some people in Whakatāne still do too. Glennon is the god of earth; Caelus is the god of air; and Thalasson is the god of the seas. According to the gospel, the Trinity arrived on Glenbour from another realm. They divided the world among themselves and worked in harmony to create a place where mankind would thrive—crops grew abundantly, storms were calmed and the seas teemed with fish. 
+# The Triadic Scriptures
+Back in Rosslyn, most folks continue to follow a tradition of worship centered on the Elemental Trinity, and some people in Whakatāne still do too. Glennon is the god of earth; Caelus is the god of air; and Thalasson is the god of the seas. 
+## Time of Miracles
+According to the gospel, the Trinity arrived on Glenbour from another realm. They divided the world among themselves and worked in harmony to create a place where mankind would thrive—crops grew abundantly, storms were calmed and the seas teemed with fish. 
 
 Priests call this the Time of Miracles, and it was marked by harmony and prosperity. The Trinity's presence was felt in every aspect of life, and their guidance was directly evident in the daily lives of the people. Temples were erected in their honor, and rituals were performed to seek their continued favor.
 
@@ -19,6 +21,7 @@ Priests call this the Time of Miracles, and it was marked by harmony and prosper
 ![[arrival-of-the-trinity.jpg]]
 *The Trinity arrived on Glenbour from another realm.* 
 
+## The Blastphemy of Avarion
 However, the scriptures tell of an obsessive recluse, known in the gospel as Avarion the Ambitious. Driven by an insatiable desire for knowledge and control, Avarion sought to harness the divine powers of the Trinity.
 
 In this time, the gods walked among people, and Avarion followed them, always watching. When he wasn’t watching, he was practicing. Every gesture, every utterance that accompanied a miracle, Avarion recreated countless times, watching himself in a polished brass serving platter.
@@ -29,7 +32,7 @@ He took up a knife and slashed it across the palm of his hand. He set down the k
 
 ![[blastphemy-of-avarion.jpg]]
 *The blastphemy of Avarion ended the Time of Miracles.*
-
+## Clash of the Gods
 The Trinity felt Avarion’s working. Glennon was enraged by the audacity of a mortal daring to claim their power. His rage shook the foundations of the earth, causing massive earthquakes and volcanic eruptions.
 
 Caelus and Thalasson tried to calm Glennon, but his fury was too great, and they had no choice but to confront him. A devastating battle shook the very foundations of Glenbour. Glennon, seeking to turn the fight in his favor, dragged the three of them deep into the earth where he was strongest.
