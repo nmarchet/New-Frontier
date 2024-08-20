@@ -11,6 +11,9 @@ tags:
 **Trade Goods, Resources:** Granite, quartz, copper, sliver, gold, stonecraft
 
 Scotsglen is a bustling mining encampment located southwest of [Fairhaven](fairhaven), in the foothills of the Shards. It has grown from a rough-and-tumble hillside camp into an established settlement. Miners and mine owners live here for convenient access to the rich veins of iron ore and granite as well as copper, silver, gold and quartz crystals nearby. Scotsglen is also home to milling and smelting facilities. In fact, visitors can hear the relentless grinding and clanging of the mills and the refinery echo off neighboring mountain faces for miles before they can even see Scotsglen.
+
+![[settlements-scotsglen.jpg]]
+*Scotsglen is built on steep terraces in the foothills of the Shards.*
 # Notable Buildings
 **Scotsglen Mill and Smelting Works.** The [Consortium](the-consortium)-owned facility is used by multiple mine owners. Here, extracted ores are rough milled before they are sent to [Port J](port-j) and Fairhaven for refining. Some iron is smelted here too, and transported as ingots or basic tools instead of as ore.
 
