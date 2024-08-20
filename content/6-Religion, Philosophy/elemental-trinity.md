@@ -31,7 +31,7 @@ He took up a knife and slashed it across the palm of his hand. He set down the k
 
 ![[blastphemy-of-avarion.jpg]]
 *The blastphemy of Avarion ended the Time of Miracles.*
-# The Gods Divided
+# Divine Schism
 The Trinity felt Avarion’s working. Glennon was enraged by the audacity of a mortal daring to claim their power. His rage shook the foundations of the earth, causing massive earthquakes and volcanic eruptions.
 
 Caelus and Thalasson tried to calm Glennon, but his fury was too great, and they had no choice but to confront him. A devastating battle shook the very foundations of Glenbour. Glennon, seeking to turn the fight in his favor, dragged the three of them deep into the earth where he was strongest.
