@@ -11,6 +11,9 @@ tags:
 **Trade goods, resources:** N/A
 
 Sand Lake is an isolated outpost deep in the desert east of [Fairhaven](fairhaven) and far removed from any major settlement or trade route. The [Wayfinders' Union](the-wayfinders-union) established it as a forward base for explorers and prospectors. Based on their experience with similar deserts around the world, the Union believes that there may be valuable mineral deposits such as silver, tungsten, iron or gold. A rotating crew of Union geologists, miners and support staff live here next to the dried out river bed of the Springburst River, which briefly floods for two to three weeks each year.
+
+![[settlements-sand-lake.jpg]]
+*Sand Lake a few days after the flood of the Springburst River.*
 # Notable Buildings
 **Living Quarters.** A cluster of simple, sturdy tents and prefabricated huts.
 
