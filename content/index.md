@@ -42,6 +42,7 @@ tags:
 
 ## Life in Whakatāne
 * [Challenges and Dangers](challenges-and-dangers.md)
+* [Currency in Whakatāne](currency)
 * [Social Norms](social-norms.md)
 # Game Play
 ## Players

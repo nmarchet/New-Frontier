@@ -7,4 +7,5 @@ tags:
 ---
 # Contents
 * [Challenges and Dangers](challenges-and-dangers)
+* [Currency in Whakatāne](currency)
 * [Social Norms](social-norms)
