@@ -2,7 +2,7 @@
 title: Game Log
 draft: false
 tags:
-  - players
+  - game_log
 ---
 # Contents
-* Miracle Tonic Medicine Show (coming soon)
+* [Miracle Tonic Medicine Show](01-medicine-show)

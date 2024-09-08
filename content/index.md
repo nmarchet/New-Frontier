@@ -50,6 +50,5 @@ tags:
 * [Erastis Freyn](erastis-freyn)
 * [Herbert "Dakota" Hicks](herbert-hicks)
 * [Himari](himari)
-
 ## Game Log
-* Miracle Tonic Medicine Show (coming soon)
+* [Miracle Tonic Medicine Show](01-medicine-show)
