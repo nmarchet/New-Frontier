@@ -14,7 +14,7 @@ Gendron's Post is a fledgling settlement strategically located where the desert 
 # Notable Buildings
 **Rest House.** A sturdy building offering lodging for weary travelers, with simple but comfortable rooms and a communal dining area where meals are served.
 
-**The Staging Yard.** Storage and corrals for the hadrosaurs, wagons and tack for the caravans passing through. There are separate enclosures for animals and secure storage of goods.
+**The Staging Yard.** Storage and corrals for the hadrosaurs, wagons and tack for the caravans passing through. There are separate enclosures for animals and storage of goods.
 
 **Repair Shop.** An unnamed workshop offering repairs for wagons, tools and equipment.
 

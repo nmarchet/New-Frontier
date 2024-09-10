@@ -9,6 +9,8 @@ tags:
 **Faction/Organization:** [The Consortium](the-consortium.md)<br>
 **Role:** Chief Executive Officer
 
+**Primary Location:** [Port J](port-j)
+
 Dominic oversees all Consortium operations. Under his leadership, the Consortium's influence on Whakatāne’s industries has grown in both strength and scope.
 
 **Personality:** Dominic is calculating, ambitious and unyielding. He commands respect and fear in equal measure.
