@@ -13,13 +13,13 @@ tags:
 ---
 # Day 2 (29 Sept. 1864)
 ## Evening
-* Himari receives a job from Thaddeus Cole, his handler in the [Haven Syndicate](the-haven-syndicate). He is to provide supplemental protection for a Panacea healer in Gendron’s Post.
+* Himari receives a job from [Thaddeus Cole](thaddeus-cole), his handler in the [Haven Syndicate](the-haven-syndicate). He is to provide supplemental protection for a Panacea healer in Gendron’s Post.
 ---
 # Day 3 (30 Sept. 1864)
 ## Evening
 * Hicks wraps up his shift collecting payment from caravanners at the local well.
 * Ella finishes a long shift making nails as an apprentice for the local blacksmith, Marcus Stone.
-* At dinner, at the Rusty Spur, Jane Gendron delivers a message from Sheriff Drayton, who asks Hicks to be on the lookout for any oddly violent behavior.
+* At dinner, at the Rusty Spur, Jane Gendron delivers a message from [Sheriff Drayton](mariah-drayton), who asks Hicks to be on the lookout for any oddly violent behavior.
 * Jane asks Hicks to keep an eye on Dr. Horne as well.
 ---
 # Day 4 (1 Oct. 1864)
