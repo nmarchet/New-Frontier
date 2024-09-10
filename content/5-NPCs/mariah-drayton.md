@@ -7,7 +7,8 @@ tags:
 ![[npc-mariah-drayton-alt.jpg]]
 
 **Faction/Organization:** [The People's Council](the-peoples-council.md)<br>
-**Role:** Sheriff
+**Role:** Sheriff<br>
+**Primary Location:** [Fairhaven](fairhaven)
 
 Mariah Drayton was appointed as the first sheriff of Whakatāne. She established many of the colony's first law enforcement policies and plays a crucial role in ensuring the safety and security of the island's inhabitants.
 

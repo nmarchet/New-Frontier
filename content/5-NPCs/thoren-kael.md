@@ -7,7 +7,8 @@ tags:
 ![[npc-thoren-kael-alt.jpg]]
 
 **Faction/Organization:** [Panacea](panacea.md)<br>
-**Role:** Field Research Coordinator
+**Role:** Field Research Coordinator<br>
+**Primary Location:** [Fairhaven](fairhaven)
 
 Thoren leads expeditions to collect and study new plant and animal specimens. With a background in herbalism and survival, he excels in navigating the wild and uncharted territories of the island.
 

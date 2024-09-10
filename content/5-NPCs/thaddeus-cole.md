@@ -7,7 +7,8 @@ tags:
 ![[npc-thaddeus-cole-alt.jpg]]
 
 **Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)<br>
-**Role:** Senior Operative
+**Role:** Senior Operative<br>
+**Primary Location:** [Fairhaven](fairhaven)
 
 Thaddeus is one of the Syndicate's most skilled and trusted operatives. He handles missions ranging from protection to breaking and entering to sabotage. He is known for his resourcefulness and combat skills.
 

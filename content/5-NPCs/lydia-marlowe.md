@@ -7,7 +7,8 @@ tags:
 ![[npc-lydia-marlowe-alt.jpg]]
 
 **Faction/Organization:** [The Wayfinders' Union](the-wayfinders-union.md)<br>
-**Role:** Senior Cartographer.
+**Role:** Senior Cartographer<br>
+**Primary Location:** [Port J](port-j)
 
 Lydia Marlowe was the one who proposed the route by which Captain Windrider and the Stormbreaker circumnavigated the Seas of Chaos and (re)discovered Whakatāne. She also drafted the first comprehensive maps of the colony, providing invaluable insights into the island's geography, resources, and potential routes for exploration and trade.
 

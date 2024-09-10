@@ -7,7 +7,8 @@ tags:
 ![[npc-malcolm-graves-alt.jpg]]
 
 **Faction/Organization:** [The Haven Syndicate](the-haven-syndicate.md)<br>
-**Role:** Partner for Risk Management
+**Role:** Partner for Risk Management<br>
+**Primary Location:** [Fairhaven](fairhaven)
 
 Malcolm oversees logistics and strategic planning for the Syndicate's protection services.
 

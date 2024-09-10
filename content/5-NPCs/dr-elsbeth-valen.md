@@ -7,7 +7,8 @@ tags:
 ![[npc-dr-elsbeth-valen-alt.jpg]]
 
 **Faction/Organization:** [Panacea](panacea.md)<br>
-**Role:** Head of Research and Development
+**Role:** Head of Research and Development<br>
+**Primary Location:** [Fairhaven](fairhaven)
 
 Dr. Valen is a brilliant botanist and healer who was one of the founding members of Panacea. She has a deep passion for discovering new medicinal properties in the island's flora and fauna. Her extensive knowledge and innovative approaches have led to several groundbreaking treatments.
 
