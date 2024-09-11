@@ -19,7 +19,6 @@ Priests call this the Time of Miracles, and it was marked by harmony and prosper
 
 ![[arrival-of-the-trinity.jpg]]
 *The Trinity arrived on Glenbour from another realm.* 
-
 # The Blastphemy of Avarion
 However, the scriptures tell of an obsessive recluse, known in the gospel as Avarion the Ambitious. Driven by an insatiable desire for knowledge and control, Avarion sought to harness the divine powers of the Trinity.
 
@@ -35,6 +34,9 @@ He took up a knife and slashed it across the palm of his hand. He set down the k
 The Trinity felt Avarion’s working. Glennon was enraged by the audacity of a mortal daring to claim their power. His rage shook the foundations of the earth, causing massive earthquakes and volcanic eruptions.
 
 Caelus and Thalasson tried to calm Glennon, but his fury was too great, and they had no choice but to confront him. A devastating battle shook the very foundations of Glenbour. Glennon, seeking to turn the fight in his favor, dragged the three of them deep into the earth where he was strongest.
+
+![[divine-schism.jpg]]
+*Deep underground Caelus and Thalasson fought to subdue Glennon.*
 
 Underground, Caelus and Thalasson struggled to contain the destruction of Glennon's rage. In a desperate bid to protect the world from ruination, Caelus and Thalasson combined their powers to seal Glennon away. But Glennon, in a final act of defiance, ensured that they would be trapped beneath the earth too.
 
