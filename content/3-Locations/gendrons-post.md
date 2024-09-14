@@ -22,8 +22,8 @@ Gendron's Post is a fledgling settlement strategically located where the desert 
 
 **General Store.** An unnamed, one-room establishment where travelers can purchase supplies, trade goods, and stock up on essentials before continuing their journey. The general store is run by husband and wife, Rufus and Maria O’Hare.
 
-**Clinic.** A clean and orderly, single-room building with several cots for patients. The shelves are stocked with medicinal herbs and supplies. A folding screen cordons off living quarters for Eliza Brooks, the resident healer.
+**Clinic.** A clean and orderly, single-room building with several cots for patients. The shelves are stocked with medicinal herbs and supplies. A folding screen cordons off living quarters for [Eliza Brooks](eliza-brooks), the resident healer.
 
-**Gendron’s Post.** The eponymous lookout tower at the heart of the settlement was built by Jane Gendron to watch for travelers and potential threats. A narrow trestle structure supports a small, one-room cabin with a ladder leading up to it. There’s a full-perimeter balcony that allows for clear views of the nearby countryside. Jane's ward, Eliot, is often on self-imposed lookout duty.
+**Gendron’s Post.** The eponymous lookout tower at the heart of the settlement was built by Jane Gendron to watch for travelers and potential threats. A narrow trestle structure supports a small, one-room cabin with a ladder leading up to it. There’s a full-perimeter balcony that allows for clear views of the nearby countryside. Jane's ward, [Eliot](eliot), is often on self-imposed lookout duty.
 
 **The Well.** It’s a public well. Fresh water for 8 cents a bucket—a vital resource so close to the desert. Sometimes it is manned by Jane Gendron's young ward, Eliot, but usually a former deputy sheriff named [Dakota Hicks](herbert-hicks) watches the well.

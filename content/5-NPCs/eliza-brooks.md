@@ -7,11 +7,11 @@ tags:
 ![[npc-eliza-brooks.jpg]]
 
 **Faction/Organization:** N/A<br>
-**Role:** Tavern owner<br>
+**Role:** Panacea healer<br>
 **Primary Location:** [Gendron's Post](gendrons-post)
 
-Jeb Cartwright works for his mother, [Mae Cartwright](mae-cartwright), as the bouncer for the Rusty Spur tavern.
+Eliza Brooks was dispatched from [Panacea](panacea) headquarters in [Fairhaven](fairhaven) to establish a clinic at the rapidly growing settlement of Gendron's Post.
 
-**Personality:** Jeb is kind-hearted and easy-going, with a knack for making people feel at ease. His  charm hides a more serious side  that emerges when he's performing his duties as the tavern's bouncer. He’s fiercely loyal to his mother and the Rusty Spur, always putting their needs first.
+**Personality:** Eliza does not have the best bedside manner. Her patients often endure sarcastic asides or outright lectures about primitive home remedies or untimely treatment of an illness. Eliza is also serious, pragmatic and fiercely independent, and these are the qualities that earned her the daunting task of establishing the new clinic.
 
-**Appearance:** Jeb is a young man with curly brown hair and bright, hazel eyes. He is deceptively strong with a solid frame, and he's taller than one would think at glance.
+**Appearance:** Eliza is a woman in her late thirties, with wavy red hair. Streaks of gray are beginning to show at her temples. Her pale skin contrasts with her sharp, dark eyes that seem to miss nothing, giving her an air of constant consternation. Eliza dresses in practical, earth-toned clothing, usually wearing an apron filled with herbs and the tools of her trade.

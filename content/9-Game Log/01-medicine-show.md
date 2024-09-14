@@ -6,8 +6,8 @@ tags:
 ---
 # Day 1 (28 Sept. 1864)
 ## Midday
-* Dr. Ezekiel Horne’s Miracle Tonic traveling medicine show arrives in [Gendron’s Post](gendrons-post).
-* Eliza Brooks, the local [Panacea](panacea) healer sends for investigators from headquarters in Fairhaven.
+* [Dr. Ezekiel Horne](npc-dr-ezekiel-horne.jpg)’s Miracle Tonic traveling medicine show arrives in [Gendron’s Post](gendrons-post).
+* [Eliza Brooks](eliza-brooks), the local [Panacea](panacea) healer sends for investigators from headquarters in [Fairhaven](fairhaven).
 ## Evening
 * Elena and Erastis receive a telegraph order to go to Gendron’s Post. They set out that evening.
 ---
@@ -18,8 +18,8 @@ tags:
 # Day 3 (30 Sept. 1864)
 ## Evening
 * Hicks wraps up his shift collecting payment from caravanners at the local well.
-* Ella finishes a long shift making nails as an apprentice for the local blacksmith, Marcus Stone.
-* At dinner, at the Rusty Spur, Jane Gendron delivers a message from [Sheriff Drayton](mariah-drayton), who asks Hicks to be on the lookout for any oddly violent behavior.
+* Ella finishes a long shift making nails as an apprentice for the local blacksmith, [Marcus Stone](marcus-stone).
+* At dinner, at the Rusty Spur, [Jane Gendron](jane-gendron) delivers a message from [Sheriff Drayton](mariah-drayton), who asks Hicks to be on the lookout for any oddly violent behavior.
 * Jane asks Hicks to keep an eye on Dr. Horne as well.
 ---
 # Day 4 (1 Oct. 1864)
@@ -44,15 +44,15 @@ tags:
 * Meanwhile, Dr. Horne shouts to his assistant, Lila, for more stock. 
 * Erastis follows Dr. Horne’s assistant to the tack room of the staging yard. She continues through into the equipment corral where caravanners store their wagons and coaches.
 * Himari follows Erastis and posts up outside the staging yard tack room.
-* Hicks has been watching Elena, Erastis and Himari and senses there might be trouble. He has the bouncer of the Rusty Spur fetch Ella to join him. They watch the developments at the staging yard from just outside the Rusty Spur.
-* The tack room is occupied by the staging yard proprietor, Darren Smithson, and Erastis makes the strategic decision to inquire about boarding the hadrosaurs he and Elena rode in on instead of continuing to follow Lila.
+* Hicks has been watching Elena, Erastis and Himari and senses there might be trouble. He has [Jeb Cartwright](jeb-cartwright), the bouncer of the Rusty Spur fetch Ella to join him. They watch the developments at the staging yard from just outside the Rusty Spur.
+* The tack room is occupied by the staging yard proprietor, [Darren Smithson](npc-darren-smithson.jpg), and Erastis makes the strategic decision to inquire about boarding the hadrosaurs he and Elena rode in on instead of continuing to follow Lila.
 * Ella decides to get closer. She runs over to the repair shop and grabs the last batch of bridle bits from Stone and uses the delivery as cover to head into the staging yard tack room and to try to pickpocket Erastis.
 * Erastis notices Ella’s attempt, but before he can say anything, Ella makes a scene and yells at Erastis for crowding her.
 * Ella rejoins Hicks in front of the Rusty Spur.
 * Horne’s assistant, Lila, comes back into the staging yard tack room from the equipment corral and leaves carrying a good-size box.
 * Himari greets Erastis as Erastis leaves the staging yard tack room.
 * Elena, having purchased a vial of Dr. Horne’s tonic, rejoins Erastis in front of the staging yard office. Erastis introduces Himari.
-* On her way back to Dr. Horne, Lila is stopped by a man raving in the street.
+* On her way back to Dr. Horne, Lila is stopped by [a man raving in the street](npc-carson-grundy.jpg).
 * He grabs her by the shoulders and is shouting at her about how everyone is going to die.
 * Everyone—Ella, Hicks, Erastis, Himari and Elena—witnesses this, as well as the bouncer for the Rusty Spur.
 * Ella and Hicks react first. 
@@ -103,7 +103,7 @@ tags:
 * Ella, Hicks, Erastis, Himari and Elena meet up outside the clinic.
 * Hicks helps Erastis, Himari and Elena sort out sleeping accommodations for the night, and Himari makes arrangements for his hadrosaur as well.
 * Elena wants to send an update back to Panacea headquarters in Fairhaven, so they stop by the watchtower that also houses the local ‘dactyl loft.
-* After some negotiation with Jane Gendron’s ward, a 12-year-old boy named Eliot, Elena is able to report back regarding the relatively innocuous nature of the tonic and requests guidance on how to proceed. It may be a day or two before a response comes back.
+* After some negotiation with Jane Gendron’s ward, a 12-year-old boy named [Eliot](eliot), Elena is able to report back regarding the relatively innocuous nature of the tonic and requests guidance on how to proceed. It may be a day or two before a response comes back.
 * Ella, Hicks, Erastis, Himari and Elena head to the Rusty Spur for dinner.
 * There, they discuss the mission that Elena, Erastis and Himari are on for Panacea.
 * Hicks surreptitiously shares the message he received from Sheriff Drayton with Ella.
