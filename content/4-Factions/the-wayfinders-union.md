@@ -10,7 +10,7 @@ While the Union shares much of its knowledge with the world, it keeps certain di
 
 **Structure:** A council of senior members make decisions and direct major expeditions; membership recruited for exceptional skill in navigation, survival or scholarship<br>
 **Number of Members:** About 2,000<br>
-**Headquarters:** The University of Aubrey in Cresca, the capital city of Manton; several outposts and trading posts in strategic locations, including one near [Port J](port-j.md) in <br>
+**Headquarters:** The University of Aubrey in Cresca, the capital city of Manton; several outposts and trading posts in strategic locations, including one near [Port J](port-j.md) in Whakatāne.<br>
 **Reputation:** Highly respected for its expertise and contributions to navigation and exploration;  seen as pioneers and innovators, crucial for the continued expansion; gold standard maps and navigational techniques<br>
 **Allies:** Merchants and traders who rely on the Union’s expertise for safe and efficient travel; world governments that benefit from the Union’s discoveries and trade routes<br>
 **Enemies:** Pirates, isolationist factions and rival exploratory groups<br>
