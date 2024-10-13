@@ -13,6 +13,8 @@ tags:
 ## Rituals
 * **Rite of the Threefold Blessing.** A daily ritual performed at dawn, noon and dusk, involving prayers and offerings to each of the three gods.
 * **Offering of Gratitude.** A ritual "sacrifice" performed at mealtime. Each person eating offers a small portion of their meal to a special three-footed brazier purpose-kept at the center of most dining room tables. As they do, they offer prayers of thanks to the Three for their blessings.
+ ![[offering-of-gratitude.jpg]]
+ *A family in Rosslyn performs the traditional offering of gratitude to the Elemental Trinity.*
 ## Phrases and Aphorisms
 
 | Exclamations                                                                              |
