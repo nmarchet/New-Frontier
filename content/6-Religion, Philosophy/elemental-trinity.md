@@ -48,7 +48,7 @@ Underground, Caelus and Thalasson struggled to contain the destruction of Glenno
 > 27. Thus, the time of miracles had passed, and the Three were sealed in the depths, for the sake of mankind.
 > 
 > 	*—The Triadic Scriptures, Rift 8:22-27. New Rosslyn Revised Edition, 1818*
-# Crisis of faith
+# Crisis of Faith
 The ordeal that the survivors of House Velyra endured and their sense of betrayal by the traditional faith of the Elemental Trinity led most to seek [new spiritual explanations](new-spiritualism.md) for their survival and the bountiful new land that they now call home.
 
 However, in Rosslyn, nothing has changed for the majority of people who still follow the traditions of the Trinity. Farmers still offer prayers to Glennon for fertile soil; sailors make offerings to Thalasson for safe voyages; and everyone looks to Caelus for favorable weather.

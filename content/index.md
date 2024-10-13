@@ -38,8 +38,8 @@ tags:
 ## Religion, Philosophy
 * [The Elemental Trinity](elemental-trinity.md)
 * [New Spiritualism](new-spiritualism.md)
+* [Religious Practices](religious-practices.md)
 * [Kenjitzu](kenjitzu.md)
-
 ## Life in Whakatāne
 * [Challenges and Dangers](challenges-and-dangers.md)
 * [Currency in Whakatāne](currency)
