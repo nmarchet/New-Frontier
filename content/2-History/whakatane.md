@@ -45,6 +45,9 @@ The provisional council evolved into a more structured government in Fairhaven w
 Pioneering homesteaders still push out into the unexplored Wilds for a bit of land to call their own. There is safety in numbers, so even more settlements emerged—[Sand Lake](sand-lake) and [Gendron’s Post](gendrons-post) being the latest. Many people living in these outposts hope for official recognition from Fairhaven, while some business interests instead work to keep the territories unincorporated to avoid the scrutiny of Fairhaven’s sheriffs.
 
 In Port J, a new business collective known simply as [the Consortium](the-consortium) began emulating the sharp practices of Rosslyn's great families. They allied with interests in Glendale and Scotsglen to control key industries and began to challenge Fairhaven’s primacy.
+
+![[training-a-messenger-pterodactyl.jpg]]
+*Tyrl Danforth—son of Betsy Danforth, who first domesticated the island's hadrosaurs—trains a pterodactyl for messenger duty.*
 # The Outside World Encroaches
 Eight years ago, in year 32 of the settlement of Whakatāne, a large, well-maintained galleon sailed into the harbor of Port J. It was flying the compass rose flag of the [Wayfinders’ Union](the-wayfinders-union). A determined captain, [Elara Windrider](elara-windrider), had set out on an ambitious mission to circumnavigate the Seas of Chaos. Against all odds, she and her crew succeeded, making them the first outsiders to reach Whakatāne since the exile of House Velyra.
 
