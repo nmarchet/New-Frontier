@@ -7,11 +7,15 @@ tags:
 # The Elemental Trinity
 ## Holidays
 * **Glennon's Feast.** Celebrated each year on October 15, at the end of the harvest season. The holiday honors Glennon's bounty. It's a time to give thanks for the abundance of the earth.
+
 * **Caelus's Ascent.** Celebrated each year June 20, the summer solstice. The holiday honors Caelus's dominion over the sky and the sun.
+
 * **Thalasson's Embrace**. Celebrated each year on January 2, when Glennon is closest to the sun and Glennon, the moons and the sun are aligned at perigee and perihelion, resulting in the highest king tides of the year. The holiday honors Thalasson's control over the seas. It's a time to give thanks for the life-giving waters she provides.
+
 * **Day of Remembrance.** A solemn observance of the schism that divided the gods and the role one man's hubris played in driving the gods from the world.
 ## Rituals
 * **Rite of the Threefold Blessing.** A daily ritual performed at dawn, noon and dusk, involving prayers and offerings to each of the three gods.
+
 * **Offering of Gratitude.** A ritual "sacrifice" performed at mealtime. Each person eating offers a small portion of their meal to a special three-footed brazier purpose-kept at the center of most dining room tables. As they do, they offer prayers of thanks to the Three for their blessings.
  ![[offering-of-gratitude.jpg]]
  *A family in Rosslyn performs the traditional offering of gratitude to the Elemental Trinity.*
@@ -21,16 +25,24 @@ tags:
 | ----------------------------------------------------------------------------------------- |
 | Elements' grace!                                                                          |
 | Trinity guide me!                                                                         |
-| **Oaths**                                                                                 |
-| By the Three ….                                                                           |
-| Trinity witness.                                                                          |
-| **Curses**                                                                                |
-| The Three forsake you!                                                                    |
-| Trinity damn you.                                                                         |
-| **Blessings**                                                                             |
-| Blessings of the Trinity be upon you.                                                     |
-| Trinity guide your steps.                                                                 |
-| **Aphorisms**                                                                             |
+
+| Oaths            |
+| ---------------- |
+| By the Three ….  |
+| Trinity witness. |
+
+| Curses                 |
+| ---------------------- |
+| The Three forsake you! |
+| Trinity damn you.      |
+
+| Blessings                             |
+| ------------------------------------- |
+| Blessings of the Trinity be upon you. |
+| Trinity guide your steps.             |
+
+| Aphorisms                                                                                 |
+| ----------------------------------------------------------------------------------------- |
 | The Three are one, and we are one with them.                                              |
 | In the harmony of earth, sky, and sea, we find the path to peace.                         |
 | The wind carries your deeds, the earth remembers your steps, the sea reflects your heart. |
