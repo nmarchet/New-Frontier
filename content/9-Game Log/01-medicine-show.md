@@ -6,8 +6,8 @@ tags:
 ---
 In which Dr. Ezekiel Horne’s Miracle Tonic Medicine Show arrives in Gendron’s Post and we meet the players for the first time.
 
-[Session 1](#session-1)
-[Session 2](#session-2)
+* <a href="#session-1">Session 1</a>
+* <a href="#session-2">Session 2</a>
 <a name="session-1"></a>
 - - -
 # Day 1 (28 Sept. 1864)
