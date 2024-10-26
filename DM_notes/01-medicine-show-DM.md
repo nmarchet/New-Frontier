@@ -12,18 +12,15 @@ tags:
 * [Eliza Brooks](eliza-brooks), the local [Panacea](panacea) healer sends for investigators from headquarters in [Fairhaven](fairhaven).
 ## Evening
 * Elena and Erastis receive a telegraph order to go to Gendron’s Post. They set out that evening.
----
 # Day 2 (29 Sept. 1864)
 ## Evening
 * Himari receives a job from [Thaddeus Cole](thaddeus-cole), his handler in the [Haven Syndicate](the-haven-syndicate). He is to provide supplemental protection for a Panacea healer in Gendron’s Post.
----
 # Day 3 (30 Sept. 1864)
 ## Evening
 * Hicks wraps up his shift collecting payment from caravanners at the local well.
 * Ella finishes a long shift making nails as an apprentice for the local blacksmith, [Marcus Stone](marcus-stone).
 * At dinner, at the Rusty Spur, [Jane Gendron](jane-gendron) delivers a message from [Sheriff Drayton](mariah-drayton), who asks Hicks to be on the lookout for any oddly violent behavior.
 * Jane asks Hicks to keep an eye on Dr. Horne as well.
----
 # Day 4 (1 Oct. 1864)
 
 ## Morning
@@ -144,7 +141,6 @@ tags:
 * ==An hour or so after midnight, the Rusty Spur closes for the night, and Dr. Horne goes back to his wagon to sleep.==
 * ==Dr. Horne finds Lila’s body.==
 * ==He panics and flees toward Sand Lake riding his hadrosaur as hard as he can in hopes of landing a spot on a Wayfinders’ Union expedition into the deep desert and using it as cover to lose his expected pursuers.==
----
 # Day 5 (2 Oct. 1864)
 
 ## Morning
@@ -157,3 +153,82 @@ tags:
 * Erastis, Himari and Elena head out of the rest house and realize that no one is in front of the general store; Dr. Horne and his usual crowd of customers are gone.
 * Erastis, Himari and Elena head to the staging yard.
 * They manage to pry up enough boards to get into Dr. Horne’s wagon and find the body of Horne’s assistant.
+
+- - -
+
+- Lila’s body has significant blunt force wounds on the back of her head, but there is hardly any blood in the wagon    
+- Elena searches Lila’s body but doesn’t find anything. In a supply cabinet, she finds a large amount of mottled yellow-black bark.
+- Erastis and Himari search the wagon. Himari finds two journals hidden under Lila’s bunk:
+	- One is a sales ledger with detailed observations about positive and negative effects of previous formulations of the tonic. 
+	- The other is a personal journal. In the most recent entry, Lila recounts finding the healer near the wagon acting suspiciously and how Horne refused to believe the healer would attempt anything nefarious. Lila is determined to prove it’s true.
+- They hear a gunshot and out to the street in front of the staging yard.
+- While Erastis, Himari and Elena were investigating the wagon, Ella returned to town and joined Hicks at his post at the well.
+- The town begins to come alive as dawn breaks, but not in the usual way.
+	- There’s no crowd in front of the general store at the end of town; Dr. Horne’s medicine show is missing.
+	- A growing number of folks are stumbling out of the rest house clutching their stomachs. They are banging on the clinic door, but Eliza isn’t answering.
+- Hicks asks Ella to investigate.
+- Ella tries to talk to the people gathering in front of the clinic, but they’re much too sick to hold a conversation. Ella narrowly misses one caravaner’s projectile vomit. 
+- Ella remembers the clinic has a back door.
+- The back door is locked, but Ella uses a hammer and a punch to knock the pins from the door.
+- Inside, she is hit with a strong smell of vinegar, and she finds Eliza closing up a hastily thrown together bag about to leave.
+- Eliza attempts to push past Ella, but Ella pushes her back.
+- Ella asks Eliza why she’s leaving, why she’s not helping the people she’s supposedly here to help.
+- Eliza reaches in her pockets. She pulls out two handfuls of powders and flings them together at Ella, somehow sparking them into a spout of flame.
+- Eliza pushes past Ella as Ella swings at her with a hidden wrist knife.
+- Hicks comes to the back of the clinic to investigate, intercepts Eliza and tells her to stop or he’ll shoot.
+- She doesn’t stop and Hicks shoots, hitting Eliza in the shoulder.
+- Eliza is badly injured, but she manages to get to a hadrosaur hitched up behind the rest house next to the clinic. She rides off, heading toward Fairhaven.
+- Hicks tries to grab Eliza and pull her off her hadrosaur, but he misses.
+- Hicks and Ella mount two other hadrosaurs hitched behind the rest house and give chase.
+- Erastis, Himari and Elena exit the staging yard in time to see Hicks and Ella chasing after the healer.
+- The three of them “borrow” mounts from the staging yard’s paddock and join the chase.
+- Unfortunately, they forgot to close the paddock gate, and 12 or so other hadrosaurs joined them as a small-scale herd.
+- Elena and Himari peel off from the herd trying to lead them back to Gendron’s Post. Only five of the hadrosaurs follow them.
+- Erastis stops and tries to stop the racing herd with the temptation of hard tack and beef jerky. However, they resist the allure of human trail food and keep running down the road to Fairhaven.
+## Midday
+- Meanwhile, up ahead, Hicks and Ella haven’t been able to close the distance with Eliza, although Hicks can see Eliza’s gunshot wound has left her clinging to the neck of her hadrosaur.
+- As the chase continues, the wind sweeping down from the Shards intensifies suddenly. Vision is reduced and the sand kicking up begins biting painfully into exposed skin.
+- The wind only seems to be intensifying, so Hicks and Ella give up the chase and return to Gendron’s Post.
+- The group reconnects on the way back.
+## Afternoon
+- Back in Gendron’s Post, Erastis and Himari return the five hadrosaurs they were able to separate from the herd to the staging yard.
+- The staging yard foreman, Darren, is grateful for their help and doesn’t seem to catch on to the fact Erastis was the one who let them out.
+- Ella heads to the general store to investigate purchasing a rifle. Rufus and Maria quote her a price of 500 wheels.
+- Hicks and Elena head to the lookout tower. Hicks wants to report back to Jane Gendron, and Elena wants to send a ‘dactyl with a report back to Panacea in Fairhaven.
+- From the tower they get a clear look at the sandstorm that’s now raging to the north. 
+- Jane is leaning against the railing, looking out at the storm. She tells Hicks and Elena, “They’re getting closer, you know. The Scours? Each one has come on sooner than the last.”
+- The survivors of House Velyra arrived in the fall of 1824. The first Scour event happened in 1842, 18 years later. The second was 13 years after that, in 1855. This is 1864, only nine years later.
+- They discuss the morning’s events and which suspect to pursue once the Scour subsides. They agree Eliza seems like the most likely suspect, and Dr. Horne may just have been spooked.
+- Elena agrees to treat the ailing townsfolk, and Jane lets her send the ‘dactyl to Panacea headquarters free of charge.
+- Hicks, Himari and Erastis investigate the wagon again. There’s not much else to be gleaned.
+- Elena heads to the clinic to begin treating the crowd of sick people. She notices that a single drug—a potent emetic—is entirely out of stock. The clinic is otherwise well supplied..  
+- Ella joins Elena in the clinic to look around. 
+- The smell of vinegar reminds Ella of when her mother used to scrub the floors. Looking carefully, she sees a faint red stain where a large pool of blood wasn’t fully cleaned.
+## Evening
+- The party shares the information they’ve collected with each other.
+- They get some sleep.
+# Day 6 (3 Oct. 1864)
+## Morning
+- The Scour has died down by morning, and the party sets out on the trail of Eliza.
+- Where the sandstorm passed, there is no sign of life—not even desert scrub plants.
+## Afternoon
+- Near the foundation of a building devastated by a previous Scour event, the player find a body in the road. Sand has worn the side of the body facing the Shards entirely down to the bone. However, there is enough remaining on the opposite side to identify Eliza the healer.
+- The party feels a rumbling in the ground.
+- Hicks runs to his hadrosaur to grab his pack and rifle.
+- The rest of the party runs to a nearby rock formation.
+- An enormous creature erupts out of the ground and attacks Hicks. Its mouth looks like a snapping turtle’s, and it’s nearly a third of its body. The rest is broad, interconnecting plates, like an armadillo. Powerful front legs have 6-inch claws for burrowing.
+- The hadrosaurs are spooked and scatter.
+- The party is able to kill the creature.
+- Ella harvests four of the creature's armor plates.
+- Himari removes three of the creature’s long claws.
+- The party is able to find two of their hadrosaurs, and they head back to Gendron’s Post.
+## Late Evening
+- The party arrives back in Gendron’s Post.
+- Hicks reports their findings to Jane Gendron. 
+- Jane thanks the party and asks them to stick around a couple days while she puts together an appropriate reward.
+- Hicks sends a report to Sheriff Drayton by ‘dactyl.
+# Days 7-8 (4-5 Oct. 1864)
+- Ella shows Stone the plates she harvested. He thinks they can make some kind of armor out of them, but it will involve a good bit of preparation and cleaning.
+- Hicks receives a response from Sheriff Drayton. She thanks him and asks him to come back to Fairhaven. She has work for him and, perhaps, for his new friends.
+- Jane Gendron thanks the players again and gives each of them 25 wheels.
+- Hicks passes on Sheriff Drayton’s offer, and they agree to return with him to Fairhaven. Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to Panacea headquarters. Himari should meet back up with his handler, Thaddeus Cole, for the usual debrief.
