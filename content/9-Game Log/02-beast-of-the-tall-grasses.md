@@ -13,13 +13,13 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 # 8 Oct. 1864
 - The party arrives in Fairhaven.
 - <p>They head to the Civic Hall at the center of Fairhaven, across from the bustling Market Square.</p> 
-	<blockquote><em>*It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></blockquote>
+	<blockquote><em>It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></blockquote>
 - Sheriff Drayton isn't in her office. Instead, her secretary hand Hicks a note that reads, “Settlers’ Rest Inn, second bell.”
-- The party makes its way to the Settlers' Rest Inn just a few blocks away.
-	<br>
-	*The inn is a two-story, timber framed structure. Worn stone steps lead up to the entrance, which is framed by thick beams carved with symbols of local spirits. Leaded glass windows glow with flickering fire light.*
-	<br>
-	*The front entrance opens into the inn’s main hall and dining room. Hull ribs from one or both of the founding ships have been repurposed as trusses for a vaulted ceiling. Several tables have been arranged around a large stone fireplace. There is a long bar to the left with a door behind it leading back to a kitchen. On the right, a narrow staircase leads up to a mezzanine overlooking the dining room with a hallway leading back to guest rooms. Under the stairs, a doorway leads to another room.*
+- <p>The party makes its way to the Settlers' Rest Inn just a few blocks away.</p>
+	<blockquote>
+	<p><em>The inn is a two-story, timber framed structure. Worn stone steps lead up to the entrance, which is framed by thick beams carved with symbols of local spirits. Leaded glass windows glow with flickering fire light.</em></p>
+	<p><em>The front entrance opens into the inn’s main hall and dining room. Hull ribs from one or both of the founding ships have been repurposed as trusses for a vaulted ceiling. Several tables have been arranged around a large stone fireplace. There is a long bar to the left with a door behind it leading back to a kitchen. On the right, a narrow staircase leads up to a mezzanine overlooking the dining room with a hallway leading back to guest rooms. Under the stairs, a doorway leads to another room.</em></p>
+	</blockquote>
 - The owner of the Settlers’ Rest Inn, Martha Trelawney is behind the bar when the party arrives. She directs them to a doorway under the stairs. In the evening there is a fairly exclusive poker game in this room, but today Sheriff Drayton sits in the corner in an overstuffed armchair sipping tea.
 - The sheriff thanks everyone for coming. She briefly discusses the events in Gendron's Post with Hicks and explains to the rest of the party that they seem to be part of a larger pattern.
 	- "As I wrote Hicks, I've been seeing a pattern of escalating violence in my deputies’ reports for a year or so now."
