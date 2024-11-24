@@ -13,7 +13,9 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 # 8 Oct. 1864
 - The party arrives in Fairhaven.
 - <p>They head to the Civic Hall at the center of Fairhaven, across from the bustling Market Square.</p> 
-	<blockquote><em>It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></blockquote>
+	<blockquote>
+	<p><em>It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></p>
+	</blockquote>
 - Sheriff Drayton isn't in her office. Instead, her secretary hand Hicks a note that reads, “Settlers’ Rest Inn, second bell.”
 - <p>The party makes its way to the Settlers' Rest Inn just a few blocks away.</p>
 	<blockquote>
@@ -36,21 +38,22 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 # 8-13 Oct. 1864
 - A week or so passed before Sheriff Drayton has a job for the party. In the meantime, the party members take care of whatever personal business they might have.
 ## Elena
-- Elena and Erastis make their way to Panacea headquarters.
-	<br>
-	*The main building recalls the old edifices of Rosslyn, but smaller and with a mix of materials that marks sharp deviation from the homogeneous stone facades of its inspiration. It's a classical structure with fluted oak pillars and broad, widely spaced steps leading up to a Scotsdale granite plinth and intricately carved double doors. Panacea's original clinic is right next door, with a line of sick and injured outside waiting to be seen.*
-	*Inside the main building, the offices are oddly quiet, with just one lit with lamp light.*
+- <p>Elena and Erastis make their way to Panacea headquarters.</p>
+	<blockquote>
+	<p><em>The main building recalls the old edifices of Rosslyn, but smaller and with a mix of materials that marks sharp deviation from the homogeneous stone facades of its inspiration. It's a classical structure with fluted oak pillars and broad, widely spaced steps leading up to a Scotsdale granite plinth and intricately carved double doors. Panacea's original clinic is right next door, with a line of sick and injured outside waiting to be seen.</em></p>
+	<p><em>Inside the main building, the offices are oddly quiet, with just one lit with lamp light.</em></p>
+	</blockquote>
 - The pair knock on the office door, but enter without waiting for an answer.
 - A woman with auburn hair tied back in a braid is hunched over a desk. Elena recognizes Liora Arden, Panacea's chief medical officer, who oversees the day-to-day medical operations at all of Panacea’s clinics.
 - Elena reports the events from Gendron's Post.
 - Liora only seems marginally interested, however. Her main takeaway is that now she has to find a new healer to staff the Gendron's Post clinic.
 - Citing a lack of evidence, Liora declines to invest resources to investigate either the aberrant behavior that seems to be spreading around the colony or Dr. Horne's tonic.
 - Elena and Erastis are dismissed offhandedly.
-- The pair walk past Market Square.
-	<br>
-	*Market Square―more like an oval, really―is an open plaza near the center of Fairhaven that’s been paved with the same granite remnants from Scotsglen as the other main streets here. From early morning to late at night, it’s filled with the sounds of traders hawking their wares and the laughing shrieks of children running between the wooden stalls and makeshift tents that line the square.*
-	<br>
-	*There’s a large notice board with job postings, announcements from the People’s Council and messages from families searching for lost items or loved ones. In the center, statues of Elias Thorne of Mercy’s Wake and Anara Greaves of Golden Wave―the officers who sailed the surviving ships through the Seas of Chaos―look over the ocean to the horizon. A small bronze plaque reads, “Stormbreakers.” Around the statues’ plinth, political propagandists and proselytizing faithful make their cases in overlapping oratory that is largely drowned out by the other sounds of Market Square.*
+- <p>The pair walk past Market Square.</p>
+	<blockquote>
+	<p><em>Market Square―more like an oval, really―is an open plaza near the center of Fairhaven that’s been paved with the same granite remnants from Scotsglen as the other main streets here. From early morning to late at night, it’s filled with the sounds of traders hawking their wares and the laughing shrieks of children running between the wooden stalls and makeshift tents that line the square.</em></p>
+	<p><em>There’s a large notice board with job postings, announcements from the People’s Council and messages from families searching for lost items or loved ones. In the center, statues of Elias Thorne of Mercy’s Wake and Anara Greaves of Golden Wave―the officers who sailed the surviving ships through the Seas of Chaos―look over the ocean to the horizon. A small bronze plaque reads, “Stormbreakers.” Around the statues’ plinth, political propagandists and proselytizing faithful make their cases in overlapping oratory that is largely drowned out by the other sounds of Market Square.</em></p>
+	</blockquote>
 - Despite her best efforts, Rowan Mercer, lead propagandist of the resistance movement and Elena's intermittent romantic partner, catches her eye. He's one of the orators competing for the market goers' attention.
 - Rowan tries to get the attention of the crowd.
 	- "Can’t you feel it? Can’t you feel the weight of our exile still pressing on our souls? Some people say we should forget our past, forgive our oppressors and live in quiet exile. But I ask you: how can we forget the boot that crushed our ancestors' dreams, the storms that were meant to drown us, the distant tyranny that haunts us still today? No, my friends! We remember, and with memory comes a duty to act!"
@@ -64,9 +67,10 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Erastis leaves to go fishing, and Elena manages to avoid committing to a date with Rowan.
 ## Erastis
 - Just a couple blocks away from Market Square, Erastis feels a clumsy hand lift his purse.
-- Instinctively, he grabs the wrist of the would be cutpurse. It's Nell Hayes―Nelly―one of kids Erastis used to run around with, all grown up.
-	<br>
-	*Nell has short, choppy brown hair tucked under a cap. Her face is gaunt and weathered. But, when she meets Erastis' eyes, there’s a familiar glint there. The woman Erastis sees today is thinner than the plump little girl he ran the streets with―and not in a healthy way.*
+- <p>Instinctively, he grabs the wrist of the would be cutpurse. It's Nell Hayes―Nelly―one of kids Erastis used to run around with, all grown up.</p>
+	<blockquote>
+	<p><em>Nell has short, choppy brown hair tucked under a cap. Her face is gaunt and weathered. But, when she meets Erastis' eyes, there’s a familiar glint there. The woman Erastis sees today is thinner than the plump little girl he ran the streets with―and not in a healthy way.</em></p>
+	</blockquote>
 - There's some brief reminiscing. Nell asks Erastis whether he's still chasing that girl … Lena? Lana? (She's referring to Elena.)
 - Feeling a bit self-conscious, Nell tells Erastis that he's not so special, that the Shades (street slang for members of the Haven Syndicate) are recruiting everyone now.
 	- "You know, they’re taking everyone now. Word is they’re staffin’ up proper like and heading down south your way, I’m guessing."
@@ -80,11 +84,10 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Himari lives in his father's old house, a small cottage near the train terminal at Station Plaza. So, he doesn't make use of Sheriff Drayton's offer of lodging.
 - He checks in on the house; everything seems to be as he left it.
 - As Himari makes his way around town, he works in his usual routes that take him past those key locations looking for signs. He sees three small stones stacked on a certain windowsill: it looks like a walk on the beach.
-- Himari heads to the south end of town, past the docks, to the shipyards.
-	<br>
-	*Even with guidance from the Wayfinders’ Union masters, the new shipyards in Fairhaven are rudimentary. Elaborate bracing hold three hulls in various stages of completion upright on a seaweed-strewn beach. All manner of structures that toe the line between permanent and temporary have been built up around the ships-in-progress, including one fairly sizable crane.*
-	<br>
-	*Apparently, once they’re complete, the plan is to dig trenches under the ships and out to the ocean. Then, they’ll just wait for a king tide and float them out.*
+- <p>Himari heads to the south end of town, past the docks, to the shipyards.</p>
+	<blockquote>
+	<p><em>Even with guidance from the Wayfinders’ Union masters, the new shipyards in Fairhaven are rudimentary. Elaborate bracing hold three hulls in various stages of completion upright on a seaweed-strewn beach. All manner of structures that toe the line between permanent and temporary have been built up around the ships-in-progress, including one fairly sizable crane.</em></p>
+	<p><em>Apparently, once they’re complete, the plan is to dig trenches under the ships and out to the ocean. Then, they’ll just wait for a king tide and float them out.</em></p></blockquote>
 - Himari's handler, Thaddeus Cole, is waiting for him further down the beach―well away from Fairhaven and the shipyard. He is holding a handkerchief over his nose.
 - Himari reports the events from Gendron's Post, emphasizing the aberrant behavior that's on the rise and the prophecies of doom from the raving vagabond.
 - Cole acknowledges the report, but doesn't tip his hand as to how seriously he's taking the affair.
@@ -94,14 +97,15 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 ## Ella
 - Before she left Gendron’s Post, her blacksmithing mentor, Marcus Stone, gave her the name of a blacksmith in Fairhaven.
 	- “Mara Alder. She taught me most of what I know. I’ll send a ‘dactyl ahead with an introduction.”
-- Ella finds Mara’s smithy in the transition area between the main body of Fairhaven and the shipyard and docks, where you start to see more warehouses than shops, taverns or homes.
-	<br>
-	*The building is a long, low structure of weathered stone and timber. A small iron sign hangs above the door with just the initials, M.A. On one side of the building, the eaves have been extended 10 or 12 feet. The area underneath is filled with pallets of bar stock and barrels of scrap metal―remnants of past projects to reuse someday. A chimney pours out a steady trail of smoke that floats away and disperses over the sea.*
-	<br>
-	*Inside, the forge dominates the space. Coals glow bright red in the furnace, ready to reignite into a roaring fire if given the slightest push of air. Assorted tongs, hammers and other tools hang on the walls. There are a pair of slack tubs for quenching, and an enormous anvil sits at the center of the room.*
-- Mara is working at the anvil.
-	<br>
-	*Mara is hammering a workpiece there with a rocksteady rhythm. She’s old―very old―but definitely not weak. In fact, individual muscles are visible in her arm move as she hammers. Her grey hair is tied back. She’s wearing a heavy leather apron over denim overalls.*
+- <p>Ella finds Mara’s smithy in the transition area between the main body of Fairhaven and the shipyard and docks, where you start to see more warehouses than shops, taverns or homes.</p>
+	<blockquote>
+	<p><em>The building is a long, low structure of weathered stone and timber. A small iron sign hangs above the door with just the initials, M.A. On one side of the building, the eaves have been extended 10 or 12 feet. The area underneath is filled with pallets of bar stock and barrels of scrap metal―remnants of past projects to reuse someday. A chimney pours out a steady trail of smoke that floats away and disperses over the sea.</em></p>
+	<p><em>Inside, the forge dominates the space. Coals glow bright red in the furnace, ready to reignite into a roaring fire if given the slightest push of air. Assorted tongs, hammers and other tools hang on the walls. There are a pair of slack tubs for quenching, and an enormous anvil sits at the center of the room.</em></p>
+	</blockquote>
+- <p>Mara is working at the anvil.</p>
+	<blockquote>
+	<p><em>Mara is hammering a workpiece there with a rocksteady rhythm. She’s old―very old―but definitely not weak. In fact, individual muscles are visible in her arm move as she hammers. Her grey hair is tied back. She’s wearing a heavy leather apron over denim overalls.</em></p>
+	</blockquote>
 - Mara asks Ella about her purpose here.
 	- "What do you want?"
 	- "Yeah, yeah I know: Ella Wilson. Parents are dead. Husband’s dead. Big damn tragedy. Marcus wrote me. But what do you want."
@@ -129,26 +133,26 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - After a week or so, Sheriff Drayton has a job for her irregulars.
 - She's sending them to Kapama. For months, small animals―cats, dogs, the occasional goat―have gone missing periodically. Then it was cattle. Farmers began barn feeding their hadrosaurs instead of letting them loose to graze out in the pastures. Most recently, a farm hand has gone missing.
 - The train to Kapama is already running again, not even two weeks after the Scour event, but the sheriff arranges mounts for the party so they are free to move about during their investigation.
-- Between Fairhaven and Gendron's Post, the party sees the effects of the Scour.
-	<br>
-	*There is a lingering smell between Fairhave and Gendron’s Post―not quite sulfur, not quite char, but something in that range. When the wind blows, it stirs up a haze of fine sand and dust, you need to breathe through your handkerchiefs to keep from coughing.* 
-	<br>
-	*After the last Scour event, fast-growing pin oaks and willow trees had quickly grown back around the Salas River, which runs north from the Shards to Fairhaven and out to sea. The force of this latest event left those young groves devastated. Most were uprooted entirely. Those still standing are splintered and warped. Their branches twist at odd angles, and most trunks are cracked and stripped of bark, showing the pale wood beneath.*
-	<br>
-	*On the edge of the Wastes, the shape of the land has changed. Hills of sand rise up where it used to be flat. Small pools of murky water have collected where the altered terrain has left nowhere for rain to drain.*
+- <p>Between Fairhaven and Gendron's Post, the party sees the effects of the Scour.</p>
+	<blockquote>
+	<p><em>There is a lingering smell between Fairhave and Gendron’s Post―not quite sulfur, not quite char, but something in that range. When the wind blows, it stirs up a haze of fine sand and dust, you need to breathe through your handkerchiefs to keep from coughing.</em></p>
+	<p><em>After the last Scour event, fast-growing pin oaks and willow trees had quickly grown back around the Salas River, which runs north from the Shards to Fairhaven and out to sea. The force of this latest event left those young groves devastated. Most were uprooted entirely. Those still standing are splintered and warped. Their branches twist at odd angles, and most trunks are cracked and stripped of bark, showing the pale wood beneath.</em></p>
+	<p><em>On the edge of the Wastes, the shape of the land has changed. Hills of sand rise up where it used to be flat. Small pools of murky water have collected where the altered terrain has left nowhere for rain to drain.</em></p>
+	</blockquote>
 - The party makes it Gendron's Post without incident.
 - Hicks takes the opportunity to bully Eliot, who is on duty at the well in Hicks' absence.
 - The party stays the night in Gendron's Post
 # 15 Oct. 1864
 - In the morning, they continue on to Kapama.
-- South of Gendron’s Post, the landscape returns to normal, and soon the party is walking their hadrosaurs through a valley of high grasses.
-	<br>
-	*Tall grasses―a mix of green, gold, and soft purple―sway in the breeze on gently rolling hills. The effect is almost iridescent. The grass on either side of the road rises up 7-8 feet tall, reaching up to the hadrosaurs’ flanks. An occasional butterfly zig-zags aimlessly across the path.*
-- Just outside of town, the party comes across the Kapama grainery and an old windmill. Elena and Erastis saw them when they passed through coming from Glendale to Gendron's Post, but the windmill wasn’t moving then.
-	<br>
-	*The road climbs a hill. At the top, an old windmill catches a breeze and turns slowly. There’s a man in a harness hanging from a window. He’s wearing a blue-green Rosslyn poncho. It looks like he’s shouting something periodically to someone further down the road.*
-	<br>
-	*Cresting the hill several grain silos line the road ahead. They are surrounded by an unusually tall barbed wire fence. Another man in overalls and a floppy sun hat is standing next to the fence with his hands on his hips.*
+- <p>South of Gendron’s Post, the landscape returns to normal, and soon the party is walking their hadrosaurs through a valley of high grasses.</p>
+	<blockquote>
+	<p><em>Tall grasses―a mix of green, gold, and soft purple―sway in the breeze on gently rolling hills. The effect is almost iridescent. The grass on either side of the road rises up 7-8 feet tall, reaching up to the hadrosaurs’ flanks. An occasional butterfly zig-zags aimlessly across the path.</em></p>
+	</blockquote>
+- <p>Just outside of town, the party comes across the Kapama grainery and an old windmill. Elena and Erastis saw them when they passed through coming from Glendale to Gendron's Post, but the windmill wasn’t moving then.</p>
+	<blockquote>
+	<p><em>The road climbs a hill. At the top, an old windmill catches a breeze and turns slowly. There’s a man in a harness hanging from a window. He’s wearing a blue-green Rosslyn poncho. It looks like he’s shouting something periodically to someone further down the road.</em></p>
+	<p><em>Cresting the hill several grain silos line the road ahead. They are surrounded by an unusually tall barbed wire fence. Another man in overalls and a floppy sun hat is standing next to the fence with his hands on his hips.</em></p>
+	</blockquote>
 - The two men seem to be working together to troubleshoot something.
 	- “Try it now. Yes, just try it. Oh, don’t be a baby, Emmett; just give it a quick tap.”
 	- “No? We’re leaking current somewhere. Could be poor insulation or maybe the stator coils need another wrap to handle the load.”
@@ -161,11 +165,11 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- Ivor is here retrofitting the old windmill to generate something called electricity. He and Emmett are using it to enhance the Grainery's fence. The effort is part of the Wayfarers’ Union holding up its end of the original agreement with the People’s Council.
 	- There was a break in at the Grainery last week. Two shipments worth of grain were stolen as well as samples of several rare Whakatāne native species from the collective’s seed library.
 	- The men also confirmed the general information the party received from Sheriff Drayton about the missing animals and a farm hand who was killed.
-- The players reach Kapama.
-	<br>
-	*Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.*
-	<br>
-	*The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.*
+- <p>The players reach Kapama.</p>
+	<blockquote>
+	<p><em>Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.</em></p>
+	<p><em>The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.</em></p>
+	</blockquote>
 - In town, the players split up.
 ## Hicks and Ella
 - Hicks and Ella begin their investigation at the Harvest Inn.[^1]
@@ -196,22 +200,19 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- The vendor is thankful and slightly nonplussed. Himari is told the best place to find people in charge is the Agricultural Hall, where the Kapama Farmers’ Collective co-op board meets.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
 ## Erastis
-- Erastis goes to the local Panacea clinic[^5].
-	<br>
-	*The clinic is a old house. The exterior is plain except for a small sign bearing the Panacea emblem―a stylized sprig of herbs crossed with a feather.*
-- Inside he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.
-	<br>
-	*Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.*
+- <p>Erastis goes to the local Panacea clinic where he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.</p>
+	<blockquote>
+	<p><em>Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.</em></p>
+	</blockquote>
 - Erastis pitches in and is able to help the healer work through the waiting patients quickly.
 - Talking afterward, Erastis learns several things.
 	- Erastis is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been  running the clinic alone since the expedition went missing.
+	- This clinic was originally built as a small research outpost. While it now serves as Kapama’s primary source of medical care, this clinic still serves as a base of operations for expeditions to the south. Promising samples are returned here as well to be packaged for transport to back to Fairhaven.
+	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been running the clinic alone since the expedition went missing.
 - As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes Gabrielle Foster as an agent of the Haven Syndicate.
 - Erastis surreptitiously follows her to a home on the edge of town. There is a short gravel drive that leads to a two-story farmhouse with a wrap-around porch situated on the edge of a large wheat field.
 - The agent walks up the front step, opens the front door and goes inside. As she does, Erastis catches a glimpse of two gun hands who definitely aren't farmers.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
-
-[^5]: Originally built as a small research outpost and treatment center, the clinic now serves as Kapama’s primary source of medical care. This Panacea clinic does still serve as a base of operations for expeditions to the south. Promising samples are returned here to be packaged for transport to Fairhaven.
 ## Together again
 - The party reunites in front of the Agricultural Hall around dinner time. 
 - They quickly exchange information and decide to find Old Tom and ask him about the beast he saw.
