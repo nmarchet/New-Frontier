@@ -13,8 +13,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 # 8 Oct. 1864
 - The party arrives in Fairhaven.
 - They head to the Civic Hall at the center of Fairhaven, across from the bustling Market Square.
-	<br>
-	*It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but you can still see parts of the original tavern sided in tar-stained hull planks.*
+	<p>*It was one of the first structures of the young colony―first it served as overcrowded community housing, then as a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but you can still see parts of the original tavern sided in tar-stained hull planks.*</p>
 - Sheriff Drayton isn't in her office. Instead, her secretary hand Hicks a note that reads, “Settlers’ Rest Inn, second bell.”
 - The party makes its way to the Settlers' Rest Inn just a few blocks away.
 	*The inn is a two-story, timber framed structure. Worn stone steps lead up to the entrance, which is framed by thick beams carved with symbols of local spirits. Leaded glass windows glow with flickering fire light.*
