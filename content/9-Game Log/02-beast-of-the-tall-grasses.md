@@ -9,7 +9,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - - -
 # 7 Oct. 1864
 - The party leaves Gendron's Post 
-- Hicks passes on Sheriff Drayton’s offer, and they agree to return with him to Fairhaven. Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to Panacea headquarters. Himari should meet back up with his handler, Thaddeus Cole, for the usual debrief.
+- Hicks passes on [Sheriff Drayton](mariah-drayton)’s offer, and they agree to return with him to [Fairhaven](fairhaven). Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to [Panacea](panacea) headquarters. Himari should meet back up with his handler, [Thaddeus Cole](thaddeus-cole), for the usual debrief.
 # 8 Oct. 1864
 - The party arrives in Fairhaven.
 - <p>They head to the Civic Hall at the center of Fairhaven, across from the bustling Market Square.</p> 
@@ -25,12 +25,12 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The owner of the Settlers’ Rest Inn, Martha Trelawney is behind the bar when the party arrives. She directs them to a doorway under the stairs. In the evening there is a fairly exclusive poker game in this room, but today Sheriff Drayton sits in the corner in an overstuffed armchair sipping tea.
 - The sheriff thanks everyone for coming. She briefly discusses the events in Gendron's Post with Hicks and explains to the rest of the party that they seem to be part of a larger pattern.
 	- "As I wrote Hicks, I've been seeing a pattern of escalating violence in my deputies’ reports for a year or so now."
-	- "I think your report about the incident in Gendron’s Post is the worst yet. Assault, theft, murder―all from a healer of Panacea."
+	- "I think your report about the incident in [Gendron’s Post](gendrons-post) is the worst yet. Assault, theft, murder―all from a healer of Panacea."
 	- "It’s like this colony is suddenly a boiler with no release valve."
 	- "Then, just for good measure, add in another Scour event and whatever that creature is you encountered."
 	- "I don’t know what it all means, or if it’s even connected to any one thing. But it’s feeling less and less like coincidence."
 - The sheriff explains that she wants to find out what's driving all this, and official channels are no help or actively working against her efforts.
-	- "I’m sick of not knowing, and the Council for some reason seems to be blocking any official investigation I try to make. Hicks, you’re well aware this is not a new direction for the Council. It’s been a while since I’ve trusted anyone completely."
+	- "I’m sick of not knowing, and the [Council](the-peoples-council) for some reason seems to be blocking any official investigation I try to make. Hicks, you’re well aware this is not a new direction for the Council. It’s been a while since I’ve trusted anyone completely."
 	- "But, I have discretionary funds, and I have money of my own. So, by the Three, I’m not just going to sit around doing nothing."
 	- "You all handled yourselves well in Gendron’s Post. You’ve got ability and courage."
 	- "I’d like you to work for me―unofficially. I’d like you to go out when things happen and be my eyes and ears―and maybe even my hand from time to time."
@@ -40,30 +40,30 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 ## Elena
 - <p>Elena and Erastis make their way to Panacea headquarters.</p>
 	<blockquote>
-	<p><em>The main building recalls the old edifices of Rosslyn, but smaller and with a mix of materials that marks sharp deviation from the homogeneous stone facades of its inspiration. It's a classical structure with fluted oak pillars and broad, widely spaced steps leading up to a Scotsdale granite plinth and intricately carved double doors. Panacea's original clinic is right next door, with a line of sick and injured outside waiting to be seen.</em></p>
+	<p><em>The main building recalls the old edifices of Rosslyn, but smaller and with a mix of materials that marks sharp deviation from the homogeneous stone facades of its inspiration. It's a classical structure with fluted oak pillars and broad, widely spaced steps leading up to a Scotsglen granite plinth and intricately carved double doors. Panacea's original clinic is right next door, with a line of sick and injured outside waiting to be seen.</em></p>
 	<p><em>Inside the main building, the offices are oddly quiet, with just one lit with lamp light.</em></p>
 	</blockquote>
 - The pair knock on the office door, but enter without waiting for an answer.
-- A woman with auburn hair tied back in a braid is hunched over a desk. Elena recognizes Liora Arden, Panacea's chief medical officer, who oversees the day-to-day medical operations at all of Panacea’s clinics.
+- A woman with auburn hair tied back in a braid is hunched over a desk. Elena recognizes [Liora Arden](liora-arden), Panacea's chief medical officer, who oversees the day-to-day medical operations at all of Panacea’s clinics.
 - Elena reports the events from Gendron's Post.
 - Liora only seems marginally interested, however. Her main takeaway is that now she has to find a new healer to staff the Gendron's Post clinic.
-- Citing a lack of evidence, Liora declines to invest resources to investigate either the aberrant behavior that seems to be spreading around the colony or Dr. Horne's tonic.
+- Citing a lack of evidence, Liora declines to invest resources to investigate either the aberrant behavior that seems to be spreading around the colony or [Dr. Horne](npc-dr-ezekiel-horne.jpg)'s tonic.
 - Elena and Erastis are dismissed offhandedly.
 - <p>The pair walk past Market Square.</p>
 	<blockquote>
 	<p><em>Market Square―more like an oval, really―is an open plaza near the center of Fairhaven that’s been paved with the same granite remnants from Scotsglen as the other main streets here. From early morning to late at night, it’s filled with the sounds of traders hawking their wares and the laughing shrieks of children running between the wooden stalls and makeshift tents that line the square.</em></p>
 	<p><em>There’s a large notice board with job postings, announcements from the People’s Council and messages from families searching for lost items or loved ones. In the center, statues of Elias Thorne of Mercy’s Wake and Anara Greaves of Golden Wave―the officers who sailed the surviving ships through the Seas of Chaos―look over the ocean to the horizon. A small bronze plaque reads, “Stormbreakers.” Around the statues’ plinth, political propagandists and proselytizing faithful make their cases in overlapping oratory that is largely drowned out by the other sounds of Market Square.</em></p>
 	</blockquote>
-- Despite her best efforts, Rowan Mercer, lead propagandist of the resistance movement and Elena's intermittent romantic partner, catches her eye. He's one of the orators competing for the market goers' attention.
+- Despite her best efforts, [Rowan Mercer](rowan-mercer), lead propagandist of the resistance movement and Elena's intermittent romantic partner, catches her eye. He's one of the orators competing for the market goers' attention.
 - Rowan tries to get the attention of the crowd.
 	- "Can’t you feel it? Can’t you feel the weight of our exile still pressing on our souls? Some people say we should forget our past, forgive our oppressors and live in quiet exile. But I ask you: how can we forget the boot that crushed our ancestors' dreams, the storms that were meant to drown us, the distant tyranny that haunts us still today? No, my friends! We remember, and with memory comes a duty to act!"
-- Meanwhile, Gideon Thorne, the well-known street preacher is calling for a return to belief in the Elemental Trinity on the other side of the statue.
+- Meanwhile, [Gideon Thorne](gideon-thorne), the well-known street preacher is calling for a return to belief in the [Elemental Trinity](elemental-trinity) on the other side of the statue.
 	- "I have long spoken of faith, of the need to return to the Trinity’s grace―but now I see that mere words are not enough! Faith without action is meaningless! Glennon demands strength, Caelus demands vigilance, Thalasson demands purity. We must root out the weak and the faithless. Only then will we be ready to prove our worth, our devotion to the gods who shaped this world."
 - Rowan rather abruptly ends his speech and rushes over to greet Elena. It's … awkward.
 - The conversation with Rowan is a bit more intense than usual; he's more aggressive than Elena  remembers. Before he made resistance seem romantic, but now it's just ranting: 
-	- He complains about the fat cats in Port J;
+	- He complains about the fat cats in [Port J](port-j);
 	- He suggests that rising food prices are a scheme to starve the people; and
-	- He boasts about plans to steal a Wayfinders' Union ship to return to Rosslyn and lead an uprising (an obvious lie).
+	- He boasts about plans to steal a [Wayfinders' Union](the-wayfinders-union) ship to return to [Rosslyn](rosslyn) and lead an uprising (an obvious lie).
 - Erastis leaves to go fishing, and Elena manages to avoid committing to a date with Rowan.
 ## Erastis
 - Just a couple blocks away from Market Square, Erastis feels a clumsy hand lift his purse.
@@ -72,7 +72,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	<p><em>Nell has short, choppy brown hair tucked under a cap. Her face is gaunt and weathered. But, when she meets Erastis' eyes, there’s a familiar glint there. The woman Erastis sees today is thinner than the plump little girl he ran the streets with―and not in a healthy way.</em></p>
 	</blockquote>
 - There's some brief reminiscing. Nell asks Erastis whether he's still chasing that girl … Lena? Lana? (She's referring to Elena.)
-- Feeling a bit self-conscious, Nell tells Erastis that he's not so special, that the Shades (street slang for members of the Haven Syndicate) are recruiting everyone now.
+- Feeling a bit self-conscious, Nell tells Erastis that he's not so special, that the Shades (street slang for members of the [Haven Syndicate](the-haven-syndicate)) are recruiting everyone now.
 	- "You know, they’re taking everyone now. Word is they’re staffin’ up proper like and heading down south your way, I’m guessing."
 	- "Rip, Snail, Little Danny … they’re like your―what’s that word?―your colleagues now. Y’all are coworkers."
 - Erastis decides to investigate Nell's claim about the Syndicate and heads to the Syndicate offices.
@@ -95,7 +95,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- "Listen, I asked you a while ago to think about coming in full time, cutting out this contractor shit. Give any thought to that?"
 	- "Times are changing, man. This ain’t a good look any more. Folks higher up are looking for … commitment."
 ## Ella
-- Before she left Gendron’s Post, her blacksmithing mentor, Marcus Stone, gave her the name of a blacksmith in Fairhaven.
+- Before she left Gendron’s Post, her blacksmithing mentor, [Marcus Stone](marcus-stone), gave her the name of a blacksmith in Fairhaven.
 	- “Mara Alder. She taught me most of what I know. I’ll send a ‘dactyl ahead with an introduction.”
 - <p>Ella finds Mara’s smithy in the transition area between the main body of Fairhaven and the shipyard and docks, where you start to see more warehouses than shops, taverns or homes.</p>
 	<blockquote>
@@ -122,7 +122,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The sheriff tells Hicks that she doesn't have anything solid about the situation leading to his dismissal from service.
 	- "I got names I could float―feel pretty confident about them too―but I’m not 100 percent yet, and you know I don’t work that way."
 - She says she can share some things she's come to believe.
-	- "I think that there are more agents of the Consortium on the Council than just the representatives from Port J and the councilwoman from Scotsglen."
+	- "I think that there are more agents of the [Consortium](the-consortium) on the Council than just the representatives from Port J and the councilwoman from [Scotsglen](scotsglen)."
 	- "I think they’re moving past the usual maneuverings to block just about anything they can. I think they’re starting to actively pursue an agenda of their own."
 	- "I think part of that is slowly, but surely, pushing out anyone who might get in their way. I think that’s what happened to you."
 - The sheriff asks Hicks whether anyone asked him anything or offered him anything before he was dismissed.
@@ -131,7 +131,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- "Look, I’m an agent of the Council. Any authority I have they’ve given me. If that goes away, I’m just a cranky old lady with a gun."
 # 14 Oct. 1864
 - After a week or so, Sheriff Drayton has a job for her irregulars.
-- She's sending them to Kapama. For months, small animals―cats, dogs, the occasional goat―have gone missing periodically. Then it was cattle. Farmers began barn feeding their hadrosaurs instead of letting them loose to graze out in the pastures. Most recently, a farm hand has gone missing.
+- She's sending them to [Kapama](kapama). For months, small animals―cats, dogs, the occasional goat―have gone missing periodically. Then it was cattle. Farmers began barn feeding their hadrosaurs instead of letting them loose to graze out in the pastures. Most recently, a farm hand has gone missing.
 - The train to Kapama is already running again, not even two weeks after the Scour event, but the sheriff arranges mounts for the party so they are free to move about during their investigation.
 - <p>Between Fairhaven and Gendron's Post, the party sees the effects of the Scour.</p>
 	<blockquote>
@@ -192,13 +192,15 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Elena and Himari go to the farmers' market to investigate.
 - They split up. Elena approaches the booth of a butcher, while Himari tries to slip behind the vendors wagons and blend in the the workers there.
 	- Elena is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-- Elena asks the butcher if he has any hadrosaur jerky.
+- Elena asks the butcher if he has any hadrosaur jerky[^5].
 - Meanwhile, Himari makes his way behind the row of vendor stalls and wagons and attempts to blend in.
 - When that doesn't work, he talks plainly with one of the vendors.
 	- Himari is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
 	- Himari offers the party's assistance to the town.
 	- The vendor is thankful and slightly nonplussed. Himari is told the best place to find people in charge is the Agricultural Hall, where the Kapama Farmers’ Collective co-op board meets.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
+
+[^5]: It would be like asking a butcher back in Rosslyn whether their meat had any horse in it.
 ## Erastis
 - <p>Erastis goes to the local Panacea clinic where he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.</p>
 	<blockquote>
@@ -208,8 +210,8 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Talking afterward, Erastis learns several things.
 	- Erastis is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
 	- This clinic was originally built as a small research outpost. While it now serves as Kapama’s primary source of medical care, this clinic still serves as a base of operations for expeditions to the south. Promising samples are returned here as well to be packaged for transport to back to Fairhaven.
-	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been running the clinic alone since the expedition went missing.
-- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes Gabrielle Foster as an agent of the Haven Syndicate.
+	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and [Thoren Kael](thoren-kael). Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been running the clinic alone since the expedition went missing.
+- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes [Gabrielle Foster](gabrielle-foster) as an agent of the Haven Syndicate.
 - Erastis surreptitiously follows her to a home on the edge of town. There is a short gravel drive that leads to a two-story farmhouse with a wrap-around porch situated on the edge of a large wheat field.
 - The agent walks up the front step, opens the front door and goes inside. As she does, Erastis catches a glimpse of two gun hands who definitely aren't farmers.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
