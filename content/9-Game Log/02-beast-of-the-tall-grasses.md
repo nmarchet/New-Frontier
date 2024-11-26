@@ -71,7 +71,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	<blockquote>
 	<p><em>Nell has short, choppy brown hair tucked under a cap. Her face is gaunt and weathered. But, when she meets Erastis' eyes, there’s a familiar glint there. The woman Erastis sees today is thinner than the plump little girl he ran the streets with―and not in a healthy way.</em></p>
 	</blockquote>
-- There's some brief reminiscing. Nell asks Erastis whether he's still chasing that girl … Lena? Lana? (She's referring to Elena.)
+- There's some brief reminiscing. [Nell](nell-nipper-hayes) asks Erastis whether he's still chasing that girl … Lena? Lana? (She's referring to Elena.)
 - Feeling a bit self-conscious, Nell tells Erastis that he's not so special, that the Shades (street slang for members of the [Haven Syndicate](the-haven-syndicate)) are recruiting everyone now.
 	- "You know, they’re taking everyone now. Word is they’re staffin’ up proper like and heading down south your way, I’m guessing."
 	- "Rip, Snail, Little Danny … they’re like your―what’s that word?―your colleagues now. Y’all are coworkers."
