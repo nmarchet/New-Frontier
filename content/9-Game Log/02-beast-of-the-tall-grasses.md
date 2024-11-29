@@ -22,7 +22,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	<p><em>The inn is a two-story, timber framed structure. Worn stone steps lead up to the entrance, which is framed by thick beams carved with symbols of local spirits. Leaded glass windows glow with flickering fire light.</em></p>
 	<p><em>The front entrance opens into the inn’s main hall and dining room. Hull ribs from one or both of the founding ships have been repurposed as trusses for a vaulted ceiling. Several tables have been arranged around a large stone fireplace. There is a long bar to the left with a door behind it leading back to a kitchen. On the right, a narrow staircase leads up to a mezzanine overlooking the dining room with a hallway leading back to guest rooms. Under the stairs, a doorway leads to another room.</em></p>
 	</blockquote>
-- The owner of the Settlers’ Rest Inn, Martha Trelawney is behind the bar when the party arrives. She directs them to a doorway under the stairs. In the evening there is a fairly exclusive poker game in this room, but today Sheriff Drayton sits in the corner in an overstuffed armchair sipping tea.
+- The owner of the Settlers’ Rest Inn, [Martha Trelawney](martha-trelawney) is behind the bar when the party arrives. She directs them to a doorway under the stairs. In the evening there is a fairly exclusive poker game in this room, but today Sheriff Drayton sits in the corner in an overstuffed armchair sipping tea.
 - The sheriff thanks everyone for coming. She briefly discusses the events in Gendron's Post with Hicks and explains to the rest of the party that they seem to be part of a larger pattern.
 	- "As I wrote Hicks, I've been seeing a pattern of escalating violence in my deputies’ reports for a year or so now."
 	- "I think your report about the incident in [Gendron’s Post](gendrons-post) is the worst yet. Assault, theft, murder―all from a healer of Panacea."
@@ -95,8 +95,8 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- "Listen, I asked you a while ago to think about coming in full time, cutting out this contractor shit. Give any thought to that?"
 	- "Times are changing, man. This ain’t a good look any more. Folks higher up are looking for … commitment."
 ## Ella
-- Before she left Gendron’s Post, her blacksmithing mentor, [Marcus Stone](marcus-stone), gave her the name of a blacksmith in Fairhaven.
-	- “Mara Alder. She taught me most of what I know. I’ll send a ‘dactyl ahead with an introduction.”
+- Before she left Gendron’s Post, her blacksmithing mentor, [Marcus Stone](marcus-stone), gave her the name of a blacksmith in Fairhaven: [Mara Alder](mara-alder).
+	- “She taught me most of what I know. I’ll send a ‘dactyl ahead with an introduction.”
 - <p>Ella finds Mara’s smithy in the transition area between the main body of Fairhaven and the shipyard and docks, where you start to see more warehouses than shops, taverns or homes.</p>
 	<blockquote>
 	<p><em>The building is a long, low structure of weathered stone and timber. A small iron sign hangs above the door with just the initials, M.A. On one side of the building, the eaves have been extended 10 or 12 feet. The area underneath is filled with pallets of bar stock and barrels of scrap metal―remnants of past projects to reuse someday. A chimney pours out a steady trail of smoke that floats away and disperses over the sea.</em></p>
