@@ -7,7 +7,8 @@ tags:
 In which the players are hired as Sheriff Drayton's irregulars and head to Kapama to investigate reports of dead and missing animals and the death of a farmhand.
 <a name="session-1"></a>
 - - -
-# Session 1## 7 Oct. 1864
+# Session 1
+## 7 Oct. 1864
 - The party leaves Gendron's Post 
 - Hicks passes on [Sheriff Drayton](mariah-drayton)’s offer, and they agree to return with him to [Fairhaven](fairhaven). Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to [Panacea](panacea) headquarters. Himari should meet back up with his handler, [Thaddeus Cole](thaddeus-cole), for the usual debrief.
 ## 8 Oct. 1864
