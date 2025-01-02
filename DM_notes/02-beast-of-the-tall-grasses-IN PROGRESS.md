@@ -3,14 +3,12 @@ title: Adventure 02 | Beast of the Tall Grasses
 draft: false
 tags:
   - game_log
-  - dm_notes
 ---
 In which the players are hired as Sheriff Drayton's irregulars and head to Kapama to investigate reports of dead and missing animals and the death of a farmhand.
-
-**Note:** The players are unaware of ==highlighted events==.
 <a name="session-1"></a>
 - - -
-# Session 1## 7 Oct. 1864
+# Session 1
+## 7 Oct. 1864
 - The party leaves Gendron's Post 
 - Hicks passes on [Sheriff Drayton](mariah-drayton)’s offer, and they agree to return with him to [Fairhaven](fairhaven). Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to [Panacea](panacea) headquarters. Himari should meet back up with his handler, [Thaddeus Cole](thaddeus-cole), for the usual debrief.
 ## 8 Oct. 1864
@@ -166,31 +164,27 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- The man dangling from the windmill is Ivor Nyberg, an engineer from the Wayfinders’ Union.
 	- The man by the fence is Emmett Harlow. He’s in charge of the storage and distribution center (colloquially the Grainery) for the Kapama Farmers’ Collective, which negotiates standard rates for the settlement’s produce. He also stocks and guards the collective’s seed library.
 	- Ivor is here retrofitting the old windmill to generate something called electricity. He and Emmett are using it to enhance the Grainery's fence. The effort is part of the Wayfarers’ Union holding up its end of the original agreement with the People’s Council.
-	- There was a break in at the Grainery last week. Two shipments worth of grain were stolen as well as samples of several rare Whakatāne native species from the collective’s seed library. ==The samples included: Fireleaf Pepper[^5], Stonebloom[^6], Skybell[^7], Ironstem Fern[^8], Ashleaf Clover[^9] and Mistshade Orchid[^10].==
+	- There was a break in at the Grainery last week. Two shipments worth of grain were stolen as well as samples of several rare Whakatāne native species from the collective’s seed library.
 	- The men also confirmed the general information the party received from Sheriff Drayton about the missing animals and a farm hand who was killed.
-- The players reach Kapama.
-	*Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.*
-	*The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.*
-- ==Gabrielle Foster, a Haven Syndicate agent in disguise here as Lucy Beaumont, is notified of the party's arrival by a lookout/runner. She is pretending to be a farm wife who just took over the old Hickory farm with her "husband." Her job is to be mission's eyes and ears in town and to redirect anyone who comes looking around. The Hickorys are imprisoned in their home's root cellar.==
+- <p>The players reach Kapama.</p>
+	<blockquote>
+	<p><em>Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.</em></p>
+	<p><em>The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.</em></p>
+	</blockquote>
 - In town, the players split up.
-
-[^5]: A small, bright red pepper with a unique smoky, spicy flavor and high heat level. Known for its medicinal properties and ability to thrive in the volcanic soil around the Shards, Fireleaf Pepper seeds are highly prized by herbalists and chefs alike.
-[^6]: A hardy root vegetable with a grayish skin and vibrant purple flesh, often used as a nutrient-dense food source by settlers. Its unique mineral-rich flavor and high nutritional value make it an essential crop, especially valuable for homesteaders in remote areas.
-[^7]: A delicate herb with pale blue flowers, known for producing a calming tea. Indigenous to Whakatāne’s southern valleys, it’s particularly valuable because of its soothing effects and mild medicinal properties. The herb is also difficult to cultivate outside its natural habitat, increasing demand for its seeds.
-[^8]: A rare fern with a tough, woody stalk that grows well in rocky terrains. Known for its resilience, the Ironstem can be used for fibers in rope-making or woven mats, and settlers have found that its stems are highly resistant to pests, making it valuable for practical applications.
-[^9]: A native clover with silvery-green leaves, known for its ability to enrich the soil with nitrogen. Kapama farmers use it to improve soil quality and as forage for livestock. Due to its rarity and specialized growing needs, Ashleaf seeds are highly sought after by both farmers and naturalists.
-[^10]: A small, dark green orchid with black-veined leaves and dusky purple flowers. Known for its beauty, the Mistshade is also valued by healers, as it produces a rare resin that has wound-healing properties. Difficult to cultivate outside Whakatāne
 ### Hicks and Ella
 - Hicks and Ella begin their investigation at the Harvest Inn.[^1]
 - Hicks seamlessly ingratiates himself with the regulars at the bar.[^2]
-- A heavily intoxicated man stumbles into the inn, interrupting Hicks' attempts at human conversation.
+- A heavily intoxicated man, who the bartender addresses as Old Tom, stumbles into the inn, interrupting Hicks' attempts at human conversation.
 - The bartender kicks the man out immediately, telling him he won't be welcome until he pays his tab.
-- Hicks slides some wheels over to the bartender to cover a portion of the man's tab, which breaks the ice with the bartender where his previous conversational forays failed. 
+- After the man leaves, Hicks slides some wheels over to the bartender to cover a portion of the man's tab, which breaks the ice with the bartender where his previous conversational forays failed.
+- The bartender is also the owner of the Harvest Inn, Martha Gatto. Apparently, a new barkeep Martha hired named Leo didn't cut off Old Tom like he should have, which led to the inflated tab.
 - Hicks and Ella are able to get some information about events of the last week.
 	- Twenty head of hadrosaur were stolen from the Swinton farm.
 	- Parts of several animals were found strewn around the back 40 of the Thompson farm.
 	- A farm hand named Jed Danfers was killed. He had been camping in the Commons,[^3] but didn't come back one night. His body was found a couple weeks ago in a field between the Commons and the Kapama Dairy, where he worked.
 	- The drunkard is Old Tom, the ferryman, who claims to have seen an enormous beast out on Kagan’s Neck[^4] a week ago. 
+- Martha thanks Hicks again for covering some of the tab, and says to tell Leo to fuck off if they see him.
 - Hicks and Ella head out to meet back with the rest of the party in front of the Agricultural Hall.
 
 [^1]: A cozy inn near the center of Kapama that offers comfortable rooms and hearty meals made from local ingredients. It's a popular spot for travelers and visiting merchants.
@@ -201,29 +195,29 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Elena and Himari go to the farmers' market to investigate.
 - They split up. Elena approaches the booth of a butcher, while Himari tries to slip behind the vendors wagons and blend in the the workers there.
 	- Elena is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-- Elena asks the butcher if he has any hadrosaur jerky.
+- Elena asks the butcher if he has any hadrosaur jerky[^5].
 - Meanwhile, Himari makes his way behind the row of vendor stalls and wagons and attempts to blend in.
 - When that doesn't work, he talks plainly with one of the vendors.
 	- Himari is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
 	- Himari offers the party's assistance to the town.
 	- The vendor is thankful and slightly nonplussed. Himari is told the best place to find people in charge is the Agricultural Hall, where the Kapama Farmers’ Collective co-op board meets.
-- ==Gabrielle Foster visits the farmers' market in disguise here as Lucy Beaumont. She recognizes Himari and follows him when he and Elena split up. She is able to overhear his full conversation with the vendor.==
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
+
+[^5]: It would be like asking a butcher back in Rosslyn whether their meat had any horse in it.
 ### Erastis
-- Erastis goes to the local Panacea clinic[^11].
-	*The clinic is a old house. The exterior is plain except for a small sign bearing the Panacea emblem―a stylized sprig of herbs crossed with a feather.*
-- Inside he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.
-	*Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.*
+- <p>Erastis goes to the local Panacea clinic where he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.</p>
+	<blockquote>
+	<p><em>Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.</em></p>
+	</blockquote>
 - Erastis pitches in and is able to help the healer work through the waiting patients quickly.
 - Talking afterward, Erastis learns several things.
 	- Erastis is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been  running the clinic alone since the expedition went missing.
-- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes Gabrielle Foster as an agent of the Haven Syndicate.
+	- This clinic was originally built as a small research outpost. While it now serves as Kapama’s primary source of medical care, this clinic still serves as a base of operations for expeditions to the south. Promising samples are returned here as well to be packaged for transport to back to Fairhaven.
+	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and [Thoren Kael](thoren-kael). Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been running the clinic alone since the expedition went missing.
+- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes [Gabrielle Foster](gabrielle-foster) as an agent of the Haven Syndicate.
 - Erastis surreptitiously follows her to a home on the edge of town. There is a short gravel drive that leads to a two-story farmhouse with a wrap-around porch situated on the edge of a large wheat field.
 - The agent walks up the front step, opens the front door and goes inside. As she does, Erastis catches a glimpse of two gun hands who definitely aren't farmers.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
-
-[^11]: Originally built as a small research outpost and treatment center, the clinic now serves as Kapama’s primary source of medical care. This Panacea clinic does still serve as a base of operations for expeditions to the south. Promising samples are returned here to be packaged for transport to Fairhaven.
 ### Together again
 - The party reunites in front of the Agricultural Hall around dinner time. 
 - They quickly exchange information and decide to find Old Tom and ask him about the beast he saw.

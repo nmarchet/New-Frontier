@@ -7,10 +7,10 @@ tags:
 In which the players are hired as Sheriff Drayton's irregulars and head to Kapama to investigate reports of dead and missing animals and the death of a farmhand.
 <a name="session-1"></a>
 - - -
-# 7 Oct. 1864
+# Session 1## 7 Oct. 1864
 - The party leaves Gendron's Post 
 - Hicks passes on [Sheriff Drayton](mariah-drayton)’s offer, and they agree to return with him to [Fairhaven](fairhaven). Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to [Panacea](panacea) headquarters. Himari should meet back up with his handler, [Thaddeus Cole](thaddeus-cole), for the usual debrief.
-# 8 Oct. 1864
+## 8 Oct. 1864
 - The party arrives in Fairhaven.
 - <p>They head to the Civic Hall at the center of Fairhaven, across from the bustling Market Square.</p> 
 	<blockquote>
@@ -35,9 +35,9 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- "You all handled yourselves well in Gendron’s Post. You’ve got ability and courage."
 	- "I’d like you to work for me―unofficially. I’d like you to go out when things happen and be my eyes and ears―and maybe even my hand from time to time."
 - The party agrees to work for Sheriff Drayton as her irregulars―on a trial basis after Himari and Erastis raised some concerns about conflicts of interest. The pay is 50 wheels each per mission, with shared accommodations available here at the Settlers' Rest Inn between jobs.
-# 8-13 Oct. 1864
+## 8-13 Oct. 1864
 - A week or so passed before Sheriff Drayton has a job for the party. In the meantime, the party members take care of whatever personal business they might have.
-## Elena
+### Elena
 - <p>Elena and Erastis make their way to Panacea headquarters.</p>
 	<blockquote>
 	<p><em>The main building recalls the old edifices of Rosslyn, but smaller and with a mix of materials that marks sharp deviation from the homogeneous stone facades of its inspiration. It's a classical structure with fluted oak pillars and broad, widely spaced steps leading up to a Scotsglen granite plinth and intricately carved double doors. Panacea's original clinic is right next door, with a line of sick and injured outside waiting to be seen.</em></p>
@@ -65,7 +65,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- He suggests that rising food prices are a scheme to starve the people; and
 	- He boasts about plans to steal a [Wayfinders' Union](the-wayfinders-union) ship to return to [Rosslyn](rosslyn) and lead an uprising (an obvious lie).
 - Erastis leaves to go fishing, and Elena manages to avoid committing to a date with Rowan.
-## Erastis
+### Erastis
 - Just a couple blocks away from Market Square, Erastis feels a clumsy hand lift his purse.
 - <p>Instinctively, he grabs the wrist of the would be cutpurse. It's Nell Hayes―Nelly―one of kids Erastis used to run around with, all grown up.</p>
 	<blockquote>
@@ -80,7 +80,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Paulic confirms that the Syndicate is recruiting heavily and that there is plenty of work available down south, if Erastis wants to give up his absurd attachment to the protection detail for Elena.
 - Erastis indicates he may be interested. He thanks Paulic and promises to let him know what he decides within a week.
 - He heads down to the docks to go fishing. (No lobster traps are involved, an important detail for some reason.)
-## Himari
+### Himari
 - Himari lives in his father's old house, a small cottage near the train terminal at Station Plaza. So, he doesn't make use of Sheriff Drayton's offer of lodging.
 - He checks in on the house; everything seems to be as he left it.
 - As Himari makes his way around town, he works in his usual routes that take him past those key locations looking for signs. He sees three small stones stacked on a certain windowsill: it looks like a walk on the beach.
@@ -94,7 +94,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Cole warns Himari that his status as a contractor may become hazardous to his career.
 	- "Listen, I asked you a while ago to think about coming in full time, cutting out this contractor shit. Give any thought to that?"
 	- "Times are changing, man. This ain’t a good look any more. Folks higher up are looking for … commitment."
-## Ella
+### Ella
 - Before she left Gendron’s Post, her blacksmithing mentor, [Marcus Stone](marcus-stone), gave her the name of a blacksmith in Fairhaven: [Mara Alder](mara-alder).
 	- “She taught me most of what I know. I’ll send a ‘dactyl ahead with an introduction.”
 - <p>Ella finds Mara’s smithy in the transition area between the main body of Fairhaven and the shipyard and docks, where you start to see more warehouses than shops, taverns or homes.</p>
@@ -115,7 +115,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Ella asks her about working on some type of armor with the plate she harvested from the burrowing creature the party killed.
 - Mara agrees to help and let Ella use her forge as long as she doesn't make weapons.
 	- "No, no weapons here. I’ve done that already. Now I’m doing this."
-## Hicks
+### Hicks
 - Later in the week, Sheriff Drayton asks Hicks to meet her in the back room of the Settlers' Rest Inn, which seems to be her preferred location for unofficial business.
 - She asks him what he thinks of the group.
 - Hicks is somewhat guarded about it. He allows that the party seems solid, but they'll have to see whether the Syndicate connections of Himari and Erastis will hinder things.
@@ -129,7 +129,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Hicks doesn't recall anything like that, but both agreed that's inconclusive. Whoever the Consortium agents might be, may just have assumed Hicks wouldn't play along.
 - They discuss the what the future holds if power swings fully the Consortium's way.
 	- "Look, I’m an agent of the Council. Any authority I have they’ve given me. If that goes away, I’m just a cranky old lady with a gun."
-# 14 Oct. 1864
+## 14 Oct. 1864
 - After a week or so, Sheriff Drayton has a job for her irregulars.
 - She's sending them to [Kapama](kapama). For months, small animals―cats, dogs, the occasional goat―have gone missing periodically. Then it was cattle. Farmers began barn feeding their hadrosaurs instead of letting them loose to graze out in the pastures. Most recently, a farm hand has gone missing.
 - The train to Kapama is already running again, not even two weeks after the Scour event, but the sheriff arranges mounts for the party so they are free to move about during their investigation.
@@ -142,7 +142,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The party makes it Gendron's Post without incident.
 - Hicks takes the opportunity to bully Eliot, who is on duty at the well in Hicks' absence.
 - The party stays the night in Gendron's Post
-# 15 Oct. 1864
+## 15 Oct. 1864
 - In the morning, they continue on to Kapama.
 - <p>South of Gendron’s Post, the landscape returns to normal, and soon the party is walking their hadrosaurs through a valley of high grasses.</p>
 	<blockquote>
@@ -165,13 +165,18 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- Ivor is here retrofitting the old windmill to generate something called electricity. He and Emmett are using it to enhance the Grainery's fence. The effort is part of the Wayfarers’ Union holding up its end of the original agreement with the People’s Council.
 	- There was a break in at the Grainery last week. Two shipments worth of grain were stolen as well as samples of several rare Whakatāne native species from the collective’s seed library.
 	- The men also confirmed the general information the party received from Sheriff Drayton about the missing animals and a farm hand who was killed.
-- <p>The players reach Kapama.</p>
-	<blockquote>
-	<p><em>Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.</em></p>
-	<p><em>The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.</em></p>
-	</blockquote>
+- The players reach Kapama.
+	*Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.*
+	*The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.*
 - In town, the players split up.
-## Hicks and Ella
+
+[^5]: A small, bright red pepper with a unique smoky, spicy flavor and high heat level. Known for its medicinal properties and ability to thrive in the volcanic soil around the Shards, Fireleaf Pepper seeds are highly prized by herbalists and chefs alike.
+[^6]: A hardy root vegetable with a grayish skin and vibrant purple flesh, often used as a nutrient-dense food source by settlers. Its unique mineral-rich flavor and high nutritional value make it an essential crop, especially valuable for homesteaders in remote areas.
+[^7]: A delicate herb with pale blue flowers, known for producing a calming tea. Indigenous to Whakatāne’s southern valleys, it’s particularly valuable because of its soothing effects and mild medicinal properties. The herb is also difficult to cultivate outside its natural habitat, increasing demand for its seeds.
+[^8]: A rare fern with a tough, woody stalk that grows well in rocky terrains. Known for its resilience, the Ironstem can be used for fibers in rope-making or woven mats, and settlers have found that its stems are highly resistant to pests, making it valuable for practical applications.
+[^9]: A native clover with silvery-green leaves, known for its ability to enrich the soil with nitrogen. Kapama farmers use it to improve soil quality and as forage for livestock. Due to its rarity and specialized growing needs, Ashleaf seeds are highly sought after by both farmers and naturalists.
+[^10]: A small, dark green orchid with black-veined leaves and dusky purple flowers. Known for its beauty, the Mistshade is also valued by healers, as it produces a rare resin that has wound-healing properties. Difficult to cultivate outside Whakatāne
+### Hicks and Ella
 - Hicks and Ella begin their investigation at the Harvest Inn.[^1]
 - Hicks seamlessly ingratiates himself with the regulars at the bar.[^2]
 - A heavily intoxicated man stumbles into the inn, interrupting Hicks' attempts at human conversation.
@@ -188,34 +193,33 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 [^2]: He does not.
 [^3]: Fields just outside of town, where folks set up camp or park a wagon for a short stay in town. Farmhands and laborers who can’t afford formal accommodations also pitch tents here or just sleep under the stars.
 [^4]: The strip of land between the Vein River and River Romul.
-## Elena and Himari
+### Elena and Himari
 - Elena and Himari go to the farmers' market to investigate.
 - They split up. Elena approaches the booth of a butcher, while Himari tries to slip behind the vendors wagons and blend in the the workers there.
 	- Elena is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-- Elena asks the butcher if he has any hadrosaur jerky[^5].
+- Elena asks the butcher if he has any hadrosaur jerky.
 - Meanwhile, Himari makes his way behind the row of vendor stalls and wagons and attempts to blend in.
 - When that doesn't work, he talks plainly with one of the vendors.
 	- Himari is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
 	- Himari offers the party's assistance to the town.
 	- The vendor is thankful and slightly nonplussed. Himari is told the best place to find people in charge is the Agricultural Hall, where the Kapama Farmers’ Collective co-op board meets.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
-
-[^5]: It would be like asking a butcher back in Rosslyn whether their meat had any horse in it.
-## Erastis
-- <p>Erastis goes to the local Panacea clinic where he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.</p>
-	<blockquote>
-	<p><em>Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.</em></p>
-	</blockquote>
+### Erastis
+- Erastis goes to the local Panacea clinic[^11].
+	*The clinic is a old house. The exterior is plain except for a small sign bearing the Panacea emblem―a stylized sprig of herbs crossed with a feather.*
+- Inside he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.
+	*Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.*
 - Erastis pitches in and is able to help the healer work through the waiting patients quickly.
 - Talking afterward, Erastis learns several things.
 	- Erastis is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
-	- This clinic was originally built as a small research outpost. While it now serves as Kapama’s primary source of medical care, this clinic still serves as a base of operations for expeditions to the south. Promising samples are returned here as well to be packaged for transport to back to Fairhaven.
-	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and [Thoren Kael](thoren-kael). Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been running the clinic alone since the expedition went missing.
-- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes [Gabrielle Foster](gabrielle-foster) as an agent of the Haven Syndicate.
+	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been  running the clinic alone since the expedition went missing.
+- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes Gabrielle Foster as an agent of the Haven Syndicate.
 - Erastis surreptitiously follows her to a home on the edge of town. There is a short gravel drive that leads to a two-story farmhouse with a wrap-around porch situated on the edge of a large wheat field.
 - The agent walks up the front step, opens the front door and goes inside. As she does, Erastis catches a glimpse of two gun hands who definitely aren't farmers.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
-## Together again
+
+[^11]: Originally built as a small research outpost and treatment center, the clinic now serves as Kapama’s primary source of medical care. This Panacea clinic does still serve as a base of operations for expeditions to the south. Promising samples are returned here to be packaged for transport to Fairhaven.
+### Together again
 - The party reunites in front of the Agricultural Hall around dinner time. 
 - They quickly exchange information and decide to find Old Tom and ask him about the beast he saw.
 - Old Tom has not gotten far since he was kicked out of the Harvest Inn. He's been wandering around the center of town talking to himself.
@@ -225,4 +229,135 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Eventually, about three miles down the river, Old Tom stops the ferry and points to the far side of the river.
 	- "Yup, that's where I saw it. Big as a house with red, angry eyes."
 - The party decides not to swim across the river to investigate tonight. Instead, they plan to come back the next day and ford the river further upstream.
-- Back in Kapama, the party decides to head to the Commons to ask around about the missing farmhand, Jed Danfers, and maybe to camp for the night.
+
+<a name="session-2"></a>
+- - -
+# Session 2
+## 15 Oct. 1864 (continued)
+- <p>Back in Kapama, the party decides to head to the Commons to ask around about the missing farmhand, Jed Danfers, and maybe to camp for the night.</p>
+	<blockquote>
+	<p><em>The Commons are some fields that had fallen out of use. The remnants of the loose stacked-stone walls that used to divide the fields are still visible. Some people have pulled up wagons here and there. Others are camped out under under simple tents. Many others have just thrown down bed rolls down for the night.</em></p>
+	<p><em>Throughout the Commons, there are campfires where workers have circled round to cook dinner or just pass the time. There is a makeshift paddock, where several hadrosaurs have been left to graze and rest.</em></p>
+	</blockquote>
+- At the Commons, the group splits up again.
+### Elena and Himari
+- Elena and Himari grab a seat on a log around one of the campfires.
+- Himari bluntly opens the conversation with, "So, has anyone seen a  dead body?"
+- They are told that "the beast" killed Jed Danvers. He was found all slashed up in Taggart's corn field.
+- Taggart brought in the co-op board, who determined the beast killed him.
+- Elena notices a woman look away when the rest of the campers talked about the beast killing Jed.
+- She pretends to be an old family friend of Jed's family, and strikes up a conversation with a woman named Lenore.
+- Lenore isn't buying the act, but talks to Elena nonetheless. They step away from the fire to talk more privately.
+	- Lenore doesn't believe Jed was killed by the beast.
+	- She is a shepherd, and she grazes a flock for one of the farmers in a field across the farm-to-market road from Taggart's corn field where Jed was found.
+	- The day before Jed was found, Lenore is pretty sure she heard a gun shot and saw a bunch of birds scatter.
+	- Jed worked for the Kapama Dairy, and most people think he was cutting through Taggart's field on the way to work.
+	- The Eckelson family sold their farm recently to a woman and her sons.
+### Ella and Hicks
+- Ella takes Hicks to walk around the Commons, looking for anything suspicious.
+- They don't find anything out of the ordinary. 
+### Erastis
+- Erastis attempts to wander from fire to fire, surreptitiously listening in conversation to try to pick up any gossip or information of interest. Unfortunately, everyone stops talking as Erastis approaches and obviously attempts to listen in.
+- He decides to visit a wagon, where someone is selling sundries for the camp.
+- Erastis buys some fire pepper wine and shares it with the proprietor, a woman named Anya.
+- As they share a drink, Erastis finds out more about the circumstances of Jed Danvers' death.
+	- Once again Erastis is told the beast killed Jed.
+	- Other people were interested in Jed's death. A couple men with think Fairhaven accents came to the Commons looking for his belongings.
+	- However, the co-op had donated his possessions to the Helping Hand Kitchen.
+	- Regarding the beast, folks here are mostly farmers. A few have tried to track it but didn't have any luck.
+### Together again
+- The group reconvenes around a campfire, shares information and discusses next steps.
+- Most of the group beds down in the Commons for the night.
+- Erastis excuses himself and spends the night with Anya.
+## 16 Oct. 1864
+- The group makes their way about an hour out of town to the field where Jed's body was found.
+- It's a corn field just off the farm-to-market road that heads east out of town.
+- They recognize landmarks that Lenore gave Elena, and there's a patch of corn ten or so feet off the road that is trampled down.
+- It's been two weeks since Jed died, and at least a dozen people have trampled through here in the aftermath, but the group is able to learn a couple things.
+	- Elena finds a set of footprints that stands out. They came in from the southeast and left to the same way (to the road).
+	- Ella finds a series of corns stalks that all have been clipped off at chest height, seeming to indicate a bullet's trajectory from where the footsteps Elena found stopped to where Ella see traces of brown-red residue where the body was.
+	- Ella and Elena find a rifle shell casing. Erastis identifies it as a Syndicate casing.
+- The group decides to check in at the dairy and look into what kind of person Jed Danvers was.
+- They follow the path through Taggart's field, and arrive at the Kapama Dairy in short order.
+- Ella splits off from the group to see what she can find out.
+- She makes her way to one particularly long barn to talk with the workers. The barn has a long central aisle lined with stanchions. Several of them are holding sheep or goats still while farm hands milk them.
+- Ella strikes up a conversation with a man talking a break from milking. The man turns out to be Dell Taggart, owner of the Kapama Dairy and the corn field where Jed was found. She learns a few things.
+	- Jed is generally well regarded, helpful and easy to work with.
+	- Jed apparently grew up in Port J and wandered widely. He spent some time at Sand Lake before coming to Kapama a couple years ago.
+	- Dell is the one who found Jed. He contacted the co-op board from the Kapama Farmers' Collective.
+	- They came out and declared Jed was a victim of the beast.
+	- The board members said Jed was all slashed from head to toe, but Dell doesn't remember Jed being slashed up.
+	- He suspects the board is covering up the real cause of death, because leaning into the existing story of the beast is easier for folks to handle that hearing there's a murderer around.
+	- Kapama hasn't had a murder in the 30 years Dell has lived here.
+- Ella rejoins the rest of the group who had dithered out in front of the dairy, trying to decide what to do.
+- The group heads back into town and splits up. Himari and Hicks go to re-question Old Tom, and the rest of the group pay another visit to Nora Pelham at the Panacea clinic.
+### Himari and Hicks
+- Himari and Hicks find Old Tom sitting outside the Harvest Inn. He's been kicked out again.
+- After plying Old Tom with drinks, they have a very fruitful conversation.
+	- Old Tom did not see anyone in any corn field.
+	- He *did* see a beast as big as a house out on Kagan's Neck.
+	- Old Tom believes Himari killed a man in a corn field, and urges him to turn himself in.
+### Erastis, Elena and Ella
+- Erastis, Elena and Ella head back to the Panacea clinic, where they find Nora still overwhelmed with the town's injured and sick and still very much alone.
+- Elena offers to take over for Nora for an entire day.
+- Elena and Erastis do help Nora get through the current cluster of patients. 
+- Ella leaves and sits down outside the clinic while Elena and Erastis help Nora.
+- Soon, Hicks and Himari, fresh off their productive interview of Old Tom, rejoin the group at the clinic. Hicks stays outside with Ella and Himari heads in to join Elena and Erastis.
+- After two hours or so, the four of them manage to get through the patients and sit down to have a talk with Nora.
+	- Nora was not involved in any sort of posthumous investigation of Jed Danvers' death.
+	- She did offer her services, but the co-op board said what killed Jed was fairly obvious.
+	- There hasn't been anything unusual lately, except the talk of the beast and the dead and missing animals.
+	- The missing expedition was intended to go south along the River Romul to collect and study new plant and animal specimens.
+	- Members of the expedition were:
+		- Dr. Meridith Veska, expedition leader
+		- Thoren Kael, field research coordinator
+		- Cassie Finch, student
+		- Corvus Wilder, student
+		- Hazel Rivers, student
+		- Jasper Green, student
+		- Rowan Sterling, student
+- After their conversation, Elena takes back her offer to spell Nora for a day's work at the clinic. Then, seeing the utter disappointment and exhaustion in her face, Elena offers to finish out the current day's work.
+- Himari hands Nora a calling card that reads, "Himari, Esq." Nora seems flattered, but lets Himari know that she doesn't really have much time for dating.
+- However, Erastis steps in, reminds Nora that she has the rest of the day free, and takes her out to the Harvest Inn for a date.
+- For the next five hours, Ella and Hick entertain themselves with card games and Himari meets up with Old Tom again to drink.
+- Erastis and Nora have a very nice afternoon date. Erastis spends five wheels on many drinks, a some very nice food for lunch, and lots of appetizers. They do *not* run into Anya, the merchant from the Commons, with whom Erastis spent the previous night.
+- Everyone meets up at the Panacea clinic around dinnertime, and Nora gives Erastis a peck on the cheek goodbye.
+- That evening, the group decides they need to get to the bottom of the Syndicate's presence here in Kapama. They decide to surveil the farmhouse that Erastis found by following Syndicate agent Gabrielle Foster.
+- That evening, while Erastis sobers up following his day drinking date, Ella and Hicks go into town to try to find out more about the house from folks who might have known the Eckelsons. They decide to visit the Harvest Inn and ask around. Ella ends up speaking again with the inn's owner, Martha Gatto.
+	- She didn't see the Eckelsons leave town. Most just figure they had the deal in the works for a while. There's been no sign or word from them since they sold their farm.
+	- The Eckelsons were Kimmy and Derek and their kids, Nico and Lucy.
+	- The new owner, Lucy Beaumont, seems nice. She moved in with her brothers. She dines at the Harvest Inn occasionally.
+	- Posing as a potential buyer, Ella asks Martha for a description of the house. There are a couple bedrooms, a bathroom, a kitchen, a dining room and a root cellar. The root cellar is accessed from inside the house.
+	- Martha promises to let Lucy Beaumont know she may have an interested buyer the next time Martha sees her.
+- They meet back up with the rest of the group to plan their surveillance of the farmhouse.
+- That night, Elena sets up among the trees across the road from the farmhouse to watch the front of the house, while Erastis sneaks a full circuit around the house looking for possible entrances and other vantage points for surveillance.
+- There is the front door. There's a door on the right-hand side of the house. There are lots of windows all around the house. And, the chimney looks quite large. If they left their gear behind, one of the party members could probably fit down it. There's a large wheat field behind the house that would be good cover for spying.
+- Around midnight. Erastis reports his findings, and the group decides to call it for the night. Looking back at the house, Erastis can see a bit of a glow through the curtains of the large bay window in the front of the house―like a flicker of lamp light or a banked fire, maybe.
+- The group spends the night at the Commons.
+## 17 Oct. 1864
+- In the morning, the group finds a secluded tree with a crotch that's fairly comfortable for sitting. It offers a pretty good view of the house. Both the front and side doors are visible, so the group should be able to see people come and go.
+- Elena and Erastis take the morning shift. No one comes to or goes from the house until just before lunch. A single man leaves. He's dressed as a farmer in overalls, but Erastis notices the bulge of a gun. Then, 15 minutes later, another man comes out, then a woman 15 minutes after that (not Gabrielle Foster, who Erastis previously recognized).
+- Elena follows the group along the road toward the ferry. However, instead of going to the ferry, they turn a little farther upriver, where they cross the Vein River at a shallow fording over to Kagan's Neck.
+- While Elena follows the Syndicate agents and comes back, Himari and Hicks take the afternoon watch. It was uneventful.
+- After his morning watch, Erastis goes into farmers market in town. He buys a basket and some nice linens to assemble a picnic lunch. He takes Nora out on her lunch break.
+- Meanwhile, Ella and Hicks take the afternoon shift. The three people come back a little after dinnertime. They are grumbling to themselves.
+	- "She said they would be there, and we just sat in a fucking swampy neck all day. It's bullshit. This is the worst assignment we've ever had."
+	- "You got that out of your system? Because, you're not gonna be talking like that in the house, are you? She'll kill you."
+- Himari and Erastis take the evening shift. Toward the end of their shift, Erastis sees the glow in the bay window again. But, this time, he sees the curtain move, and he catches a glint of fire light reflecting off binoculars or a telescope. It seems like at least the front entrance to the farmhouse is watched.
+- That night, the group decides to ambush the Syndicate agents out on Kagan's Neck.
+## 18 Oct. 1864
+- First thing in the morning, the group retraces the route the Syndicate agents took the previous day and find a hiding place across the river on Kagan's Neck.
+- Shortly after they settle in, the three agents pass the group's hiding place seemingly without noticing them.
+- The group emerges and follows the Syndicate agents at a distance.
+- The agents make their way along the swampy neck to about where Old Tom said he saw the beast.
+- There's an awful smell of rot and excrement. The group begins to notice scraps of animal bones and rotting flesh scattered around the ground.
+- Himari steps into a large puddle and realizes it's actually a footprint.
+- Erastis notices someone coming up behind them.
+- The group takes cover behind some nearby trees and among the marsh grasses.
+- Three more Syndicate agents pass by wielding a shotgun, a rifle and a revolver. They are moving slowly and very obviously looking for the group. But they pass the group by without noticing them.
+- The group plans to set an ambush to attack all six agents when they head back into town.
+
+<a name="session-3"></a>
+- - -
+# Session 3
+## 18 Oct. 1864 (continued)
