@@ -10,7 +10,7 @@ tags:
 **Role:** Panacea healer<br>
 **Primary Location:** [Gendron's Post](gendrons-post)
 
-Eliza Brooks was dispatched from [Panacea](panacea) headquarters in [Fairhaven](fairhaven) to establish a clinic at the rapidly growing settlement of Gendron's Post.
+Eliza Brooks was dispatched from [Panacea](panacea) headquarters in [Fairhaven](fairhaven) to establish a clinic at the rapidly growing settlement of Gendron's Post. She died in the most recent Scour event while fleeing the settlement following a murder in which she was suspected.
 
 **Personality:** Eliza does not have the best bedside manner. Her patients often endure sarcastic asides or outright lectures about primitive home remedies or untimely treatment of an illness. Eliza is also serious, pragmatic and fiercely independent, and these are the qualities that earned her the daunting task of establishing the new clinic.
 

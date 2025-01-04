@@ -9,7 +9,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - - -
 # Session 1
 ## 7 Oct. 1864
-- The party leaves Gendron's Post 
+- The party leaves [Gendron's Post](gendrons-post). 
 - Hicks passes on [Sheriff Drayton](mariah-drayton)’s offer, and they agree to return with him to [Fairhaven](fairhaven). Most of them have business there anyway. Elena and Erastis should report the issue with Eliza to [Panacea](panacea) headquarters. Himari should meet back up with his handler, [Thaddeus Cole](thaddeus-cole), for the usual debrief.
 ## 8 Oct. 1864
 - The party arrives in Fairhaven.
@@ -26,7 +26,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The owner of the Settlers’ Rest Inn, [Martha Trelawney](martha-trelawney) is behind the bar when the party arrives. She directs them to a doorway under the stairs. In the evening there is a fairly exclusive poker game in this room, but today Sheriff Drayton sits in the corner in an overstuffed armchair sipping tea.
 - The sheriff thanks everyone for coming. She briefly discusses the events in Gendron's Post with Hicks and explains to the rest of the party that they seem to be part of a larger pattern.
 	- "As I wrote Hicks, I've been seeing a pattern of escalating violence in my deputies’ reports for a year or so now."
-	- "I think your report about the incident in [Gendron’s Post](gendrons-post) is the worst yet. Assault, theft, murder―all from a healer of Panacea."
+	- "I think your report about the incident in Gendron’s Post is the worst yet. Assault, theft, murder―all from a healer of Panacea."
 	- "It’s like this colony is suddenly a boiler with no release valve."
 	- "Then, just for good measure, add in another Scour event and whatever that creature is you encountered."
 	- "I don’t know what it all means, or if it’s even connected to any one thing. But it’s feeling less and less like coincidence."
