@@ -77,7 +77,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- "You know, they’re taking everyone now. Word is they’re staffin’ up proper like and heading down south your way, I’m guessing."
 	- "Rip, Snail, Little Danny … they’re like your―what’s that word?―your colleagues now. Y’all are coworkers."
 - Erastis decides to investigate Nell's claim about the Syndicate and heads to the Syndicate offices.
-- The Syndicate offices are certainly busy. Erastis finds his handler, Paulic Sossei.
+- The Syndicate offices are certainly busy. Erastis finds his handler, [Paulic Sossei](paulic-sossei).
 - Paulic confirms that the Syndicate is recruiting heavily and that there is plenty of work available down south, if Erastis wants to give up his absurd attachment to the protection detail for Elena.
 - Erastis indicates he may be interested. He thanks Paulic and promises to let him know what he decides within a week.
 - He heads down to the docks to go fishing. (No lobster traps are involved, an important detail for some reason.)
@@ -141,7 +141,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	<p><em>On the edge of the Wastes, the shape of the land has changed. Hills of sand rise up where it used to be flat. Small pools of murky water have collected where the altered terrain has left nowhere for rain to drain.</em></p>
 	</blockquote>
 - The party makes it Gendron's Post without incident.
-- Hicks takes the opportunity to bully Eliot, who is on duty at the well in Hicks' absence.
+- Hicks takes the opportunity to bully [Eliot](eliot), who is on duty at the well in Hicks' absence.
 - The party stays the night in Gendron's Post
 ## 15 Oct. 1864
 - In the morning, they continue on to Kapama.
@@ -161,8 +161,8 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- “I know. If this is going to feed power steadily, we’ll need a battery bank and a charge controller. Otherwise, the output’s going to fluctuate with every gust.”
 - The man by the fence shouts as he touches the fence and is knocked back. 
 - The party stops to help and talks (mostly with the other man). They find out:
-	- The man dangling from the windmill is Ivor Nyberg, an engineer from the Wayfinders’ Union.
-	- The man by the fence is Emmett Harlow. He’s in charge of the storage and distribution center (colloquially the Grainery) for the Kapama Farmers’ Collective, which negotiates standard rates for the settlement’s produce. He also stocks and guards the collective’s seed library.
+	- The man dangling from the windmill is [Ivor Nyberg](ivor-nyberg), an engineer from the [Wayfinders’ Union](the-wayfinders-union).
+	- The man by the fence is [Emmett Harlow](emmett-harlow). He’s in charge of the storage and distribution center (colloquially the Grainery) for the Kapama Farmers’ Collective, which negotiates standard rates for the settlement’s produce. He also stocks and guards the collective’s seed library.
 	- Ivor is here retrofitting the old windmill to generate something called electricity. He and Emmett are using it to enhance the Grainery's fence. The effort is part of the Wayfarers’ Union holding up its end of the original agreement with the People’s Council.
 	- There was a break in at the Grainery last week. Two shipments worth of grain were stolen as well as samples of several rare Whakatāne native species from the collective’s seed library.
 	- The men also confirmed the general information the party received from Sheriff Drayton about the missing animals and a farm hand who was killed.
@@ -170,13 +170,6 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	*Kapama sits in a broad, open dale surrounded by gentle hills. Dozens of farms with barns and other outbuildings are scattered around the valley, connected by well-worn paths that converge on the central town of Kapama. The farms are a patchwork of fields neatly sectioned off by wooden fences, with rows of wheat, barley and vegetables growing. In some fields, goats and chickens graze.*
 	*The town center is a few blocks of buildings nestled around a crossroads where the Haven Road intersects with a farm-to-market road. Shops and small workshops and houses make up most of the buildings. A few larger buildings stand out―gathering places or storehouses.*
 - In town, the players split up.
-
-[^5]: A small, bright red pepper with a unique smoky, spicy flavor and high heat level. Known for its medicinal properties and ability to thrive in the volcanic soil around the Shards, Fireleaf Pepper seeds are highly prized by herbalists and chefs alike.
-[^6]: A hardy root vegetable with a grayish skin and vibrant purple flesh, often used as a nutrient-dense food source by settlers. Its unique mineral-rich flavor and high nutritional value make it an essential crop, especially valuable for homesteaders in remote areas.
-[^7]: A delicate herb with pale blue flowers, known for producing a calming tea. Indigenous to Whakatāne’s southern valleys, it’s particularly valuable because of its soothing effects and mild medicinal properties. The herb is also difficult to cultivate outside its natural habitat, increasing demand for its seeds.
-[^8]: A rare fern with a tough, woody stalk that grows well in rocky terrains. Known for its resilience, the Ironstem can be used for fibers in rope-making or woven mats, and settlers have found that its stems are highly resistant to pests, making it valuable for practical applications.
-[^9]: A native clover with silvery-green leaves, known for its ability to enrich the soil with nitrogen. Kapama farmers use it to improve soil quality and as forage for livestock. Due to its rarity and specialized growing needs, Ashleaf seeds are highly sought after by both farmers and naturalists.
-[^10]: A small, dark green orchid with black-veined leaves and dusky purple flowers. Known for its beauty, the Mistshade is also valued by healers, as it produces a rare resin that has wound-healing properties. Difficult to cultivate outside Whakatāne
 ### Hicks and Ella
 - Hicks and Ella begin their investigation at the Harvest Inn.[^1]
 - Hicks seamlessly ingratiates himself with the regulars at the bar.[^2]
@@ -187,7 +180,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 	- Twenty head of hadrosaur were stolen from the Swinton farm.
 	- Parts of several animals were found strewn around the back 40 of the Thompson farm.
 	- A farm hand named Jed Danfers was killed. He had been camping in the Commons,[^3] but didn't come back one night. His body was found a couple weeks ago in a field between the Commons and the Kapama Dairy, where he worked.
-	- The drunkard is Old Tom, the ferryman, who claims to have seen an enormous beast out on Kagan’s Neck[^4] a week ago. 
+	- The drunkard is [Old Tom](old-tom), the ferryman, who claims to have seen an enormous beast out on Kagan’s Neck[^4] a week ago. 
 - Hicks and Ella head out to meet back with the rest of the party in front of the Agricultural Hall.
 
 [^1]: A cozy inn near the center of Kapama that offers comfortable rooms and hearty meals made from local ingredients. It's a popular spot for travelers and visiting merchants.
@@ -208,13 +201,13 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 ### Erastis
 - Erastis goes to the local Panacea clinic[^11].
 	*The clinic is a old house. The exterior is plain except for a small sign bearing the Panacea emblem―a stylized sprig of herbs crossed with a feather.*
-- Inside he finds an overwhelmed healer, Nora Pelham. She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.
+- Inside he finds an overwhelmed healer, [Nora Pelham](nora-pelham). She seems to have been left alone to manage the clinic, and there are several sick and wounded waiting for her attention.
 	*Nora Pelham is a woman in her thirties with shoulder-length brown hair pulled back in a loose pony tail. She has tired hazel eyes with dark circles under them. She wears simple dark clothes and an apron with a satchel around her waist.*
 - Erastis pitches in and is able to help the healer work through the waiting patients quickly.
 - Talking afterward, Erastis learns several things.
 	- Erastis is able to get mostly the same run down of recent happenings Hicks and Ella got (sans information about Old Tom).
 	- Panacea's most recent expedition to the south is overdue. It was led by Dr. Meridith Veska and Thoren Kael. Dr. Veska took several young botanists out into the field to find and study undiscovered plants. Nora has been  running the clinic alone since the expedition went missing.
-- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes Gabrielle Foster as an agent of the Haven Syndicate.
+- As Erastis exits the clinic, he sees someone familiar. He sees through her Lucy Beaumont disguise and recognizes [Gabrielle Foster](gabrielle-foster) as an agent of the Haven Syndicate.
 - Erastis surreptitiously follows her to a home on the edge of town. There is a short gravel drive that leads to a two-story farmhouse with a wrap-around porch situated on the edge of a large wheat field.
 - The agent walks up the front step, opens the front door and goes inside. As she does, Erastis catches a glimpse of two gun hands who definitely aren't farmers.
 - Elena and Himari head back to meet up with the rest of the party in front of the Agricultural Hall.
@@ -247,7 +240,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - They are told that "the beast" killed Jed Danvers. He was found all slashed up in Taggart's corn field.
 - Taggart brought in the co-op board, who determined the beast killed him.
 - Elena notices a woman look away when the rest of the campers talked about the beast killing Jed.
-- She pretends to be an old family friend of Jed's family, and strikes up a conversation with a woman named Lenore.
+- She pretends to be an old family friend of Jed's family, and strikes up a conversation with a woman named [Lenore](npc-lenore-alden.jpg).
 - Lenore isn't buying the act, but talks to Elena nonetheless. They step away from the fire to talk more privately.
 	- Lenore doesn't believe Jed was killed by the beast.
 	- She is a shepherd, and she grazes a flock for one of the farmers in a field across the farm-to-market road from Taggart's corn field where Jed was found.
@@ -260,7 +253,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 ### Erastis
 - Erastis attempts to wander from fire to fire, surreptitiously listening in conversation to try to pick up any gossip or information of interest. Unfortunately, everyone stops talking as Erastis approaches and obviously attempts to listen in.
 - He decides to visit a wagon, where someone is selling sundries for the camp.
-- Erastis buys some fire pepper wine and shares it with the proprietor, a woman named Anya.
+- Erastis buys some fire pepper wine and shares it with the proprietor, a woman named [Anya](anya-greer).
 - As they share a drink, Erastis finds out more about the circumstances of Jed Danvers' death.
 	- Once again Erastis is told the beast killed Jed.
 	- Other people were interested in Jed's death. A couple men with think Fairhaven accents came to the Commons looking for his belongings.
@@ -282,7 +275,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - They follow the path through Taggart's field, and arrive at the Kapama Dairy in short order.
 - Ella splits off from the group to see what she can find out.
 - She makes her way to one particularly long barn to talk with the workers. The barn has a long central aisle lined with stanchions. Several of them are holding sheep or goats still while farm hands milk them.
-- Ella strikes up a conversation with a man talking a break from milking. The man turns out to be Dell Taggart, owner of the Kapama Dairy and the corn field where Jed was found. She learns a few things.
+- Ella strikes up a conversation with a man talking a break from milking. The man turns out to be [Dell Taggart](npc-dell-taggart.jpg), owner of the Kapama Dairy and the corn field where Jed was found. She learns a few things.
 	- Jed is generally well regarded, helpful and easy to work with.
 	- Jed apparently grew up in Port J and wandered widely. He spent some time at Sand Lake before coming to Kapama a couple years ago.
 	- Dell is the one who found Jed. He contacted the co-op board from the Kapama Farmers' Collective.

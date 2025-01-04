@@ -10,7 +10,7 @@ In which Dr. Ezekiel Horne’s Miracle Tonic Medicine Show arrives in Gendron’
 # Session 1
 ## 28 Sept. 1864
 ### Midday
-* [Dr. Ezekiel Horne](npc-dr-ezekiel-horne.jpg)’s Miracle Tonic traveling medicine show arrives in [Gendron’s Post](gendrons-post).
+* [Dr. Ezekiel Horne](dr-ezekiel-horne.md)’s Miracle Tonic traveling medicine show arrives in [Gendron’s Post](gendrons-post).
 * [Eliza Brooks](eliza-brooks), the local [Panacea](panacea) healer sends for investigators from headquarters in [Fairhaven](fairhaven).
 ### Evening
 * Elena and Erastis receive a telegraph order to go to Gendron’s Post. They set out that evening.
@@ -33,7 +33,7 @@ In which Dr. Ezekiel Horne’s Miracle Tonic Medicine Show arrives in Gendron’
 * Ella checks in with Hicks. She’s noticed him keeping tabs on assorted people around town, but Hicks doesn’t clue her in on what’s going on yet.
 * Ella heads to the Rusty Spur for some sarsaparilla.
 * Elena and Erastis drop off the unconscious fan of Dr. Horne’s tonic at the Panacea clinic.
-* They talk with the healer there, Eliza Brooks.
+* They talk with the healer there, [Eliza Brooks](eliza-brooks).
 * She is very insistent that Dr. Horne is a menace, a huckster and that he’s going to get people hurt.
 * They decide to get a sample of the tonic for testing as a first step of the investigation.
 ### Afternoon
