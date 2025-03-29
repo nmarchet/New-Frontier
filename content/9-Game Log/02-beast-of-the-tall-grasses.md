@@ -345,7 +345,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The group emerges and follows the Syndicate agents at a distance.
 - The agents make their way along the swampy neck to about where Old Tom said he saw the beast.
 - There's an awful smell of rot and excrement. The group begins to notice scraps of animal bones and rotting flesh scattered around the ground.
-- Himari steps into a large puddle and realizes it's actually a footprint.
+- Himari steps into a large puddle and realizes it's actually an enormous footprint.
 - Erastis notices someone coming up behind them.
 - The group takes cover behind some nearby trees and among the marsh grasses.
 - Three more Syndicate agents pass by wielding a shotgun, a rifle and a revolver. They are moving slowly and very obviously looking for the group. But they pass the group by without noticing them.
@@ -355,3 +355,35 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - - -
 # Session 3
 ## 18 Oct. 1864 (continued)
+- The group finds a place to hide just before the river fording back into Kapama.
+- After a couple hours, the six Syndicate agents come back, and the players launch their ambush.
+- With only a couple near-death experiences and one header from a tree, the players kill four of the agents and take two captive.
+- While most of the party stood around deciding whether kill the captives, question and kill the captives, release the captives or get the captives addicted to opioids, Erastis decides scout ahead further into Kagan's Neck.
+- Near the end of the neck, where the Vein River and River Romul merge, Erastis finds signs of a huge creature―like Old Tom described.
+	- More massive footprints
+	- Person-high mounds of excrement
+	- Scraps of rotting flesh and bone
+	- Signs of a struggle and drag marks
+- There is a chaotic mix of footprints from dozens of people and Old Tom's beast, which seems to walk on two legs. There are brown patches where pools of blood dried. 
+- Leading away from the scene of the fight, the ground is disturbed, with broken branches, uprooted plants, and gouges in the earth. The marks suggest something large and heavy being dragged from the area. The drag marks lead down to the shore of River Romul.
+- When Erastis returns, the rest of the party has decided to question the hostages and leave them tied up but alive. They figure the time it takes the Syndicate agents to escape will give the players time to search the old Eckelson house.
+- The captives confirm that they came here to kill the players. They are part of a team assigned to be eyes and ears in town and to redirect/eliminate anyone who comes looking around the Syndicate's operations in and around Kapama. Their leader is Gabrielle Foster, in disguise as Lucy Beaumont who purportedly bought the Eckelsons' house. They seem more afraid of Gabrielle than of the players who have them tied up. 
+- The players loot guns and leather dusters from the dead agents, and then head back to search the old Eckelson house.
+- The Eckleson house is abandoned. Gabrielle seems to have learned of her crew's defeat and left her post.
+- Inside the house, the players find:
+	- A pair of binoculars
+	- A map of the area around Kapama with several points and routes marked. (Ella noticed her family’ farm is marked)
+	- A supply request for an operation at Isaac’s Knob. In another hand, someone has crossed out “Isaac’s Knob” and written in “Twin River Rise”
+	- A book―The Midnight Ledger by Isabelle Durand, with a list of challenge and response phrases tucked inside
+- The also find the Ecklesons (Derrick, Kimberly, Nico and Lucy) locked in the root cellar.
+- They’d been kept down there for nearly three months. From what they've overheard, Gabrielle's orders were to leave no witnesses, but she couldn’t bring herself to kill the family in cold blood. She’s kept them alive and brings each of them up daily, one at a time to get out of the damp and stretch their legs.
+- One of the kids, Lucy, heard the agents talking about “heading back down the river.”
+- The players decide to press on to what appears to be a major Syndicate base at "Issac's Knob."
+- According to the map the players found, Issac's Knob is a hill where the Vein River and River Romul diverge again.
+- The players rest for the evening.
+
+<a name="session-4"></a>
+- - -
+# Session 3
+## 19 Oct. 1864
+- The party procures a basic row boat for their travels down river.
