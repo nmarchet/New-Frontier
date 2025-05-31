@@ -387,3 +387,104 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 # Session 3
 ## 19 Oct. 1864
 - The party procures a basic row boat for their travels down river.
+- They travel east to the end of Kagan's Neck, where they again see the heavy drag marks Erastis had found leading down to the river.
+- They continue along the merged Vein River/River Romul until the rivers split again. At the divide, the party sees a solitary hill. They decide this must be the "Isaac's Knob/Twin River Rise" noted on the Syndicate map recovered from the Eckleson house.
+- Exploring along the shore of the southern branch of River Romul, the party finds a natural landing with heavy drag marks leading up away from shore that match those they found on Kagan's Neck.
+- There is a very obvious path running from the shore the leads inland toward the southern side of Isaac’s Knob. 
+- The party splits up. 
+### Himari
+- Himari takes the row boat down the river a few hundred feet. He hitches it to a tree on the bank of the river and sets up camp.
+- The plan is for Himari to light a fire and use the smoke to signal the rest of the party of any danger coming up from behind.
+- If any of the Syndicate agents find him, he is posing as an innocent fisherman on the edge of the frontier.
+- The fish are really biting this morning, and Himari soon reels in five nice trout.
+
+### Erastis, Elena, Ella and Hicks
+- Meanwhile the rest of the party cautiously follows the path from the river. About 100 feet in, they spot a tree stand off the side of the path. It’s manned by two Syndicate agents.
+- They quietly slip off the path, taking cover among the scrub pines and brush as they slip unnoticed around the guard post.
+- <p>Once clear of the post, they party heads back to the trail and follows it to a clearing around the foot of Isaac's Knob.</p>
+	<blockquote>
+	<p><em>A single-story wooden building with a pitched roof sits at the center of the clearing, in front of the large, irregularly shaped hill. It blends into the landscape with earth-toned paint. A wide porch wraps around three sides, offering view of the surrounding terrain for the Syndicate agents standing guard. There are windows around the building, but they are high up on the wall and fairly small.</em></p>
+	<p><em>The trail splits, with one fork heading to the building and the the other swinging to the right around the knob.</p></em> 
+	</blockquote> 
+- The party slips around to follow the path heading around the knob.
+- As they reach the far side of the knob, they come upon at least one guard, maybe two.
+- <p>Ella throws a stone as a distraction to draw the guard she sees away from whatever they're guarding. It works, though there is another guard, and only fast thinking and another stone leave Ella unnoticed as she sneaks around to what the guards were protecting.</p>
+	<blockquote>
+	<p><em>There is a cavern on the eastern face of Isaac’s Knob. It’s a large, natural cave, about 15 feet wide and 10 feet tall. The opening is blocked off by thick bars cemented into the stone, forming a heavy-duty gate. Within the larger gate, there is a standard door. The gate shows signs of recent damage, with several bars bent and twisted, and the ground immediately past the gate is scored with deep gouges. A trickling stream flows out of the cavern entrance.</em></p>
+	</blockquote>
+- <p>The rest of the team join Ella at the cavern entrance, where it become instantly clear the Syndicate has captured the beast of Kapama, and they are keeping it here.</p>
+	<blockquote>
+	<p><em>The air coming out of the caver smells of damp, rot and excrement. A couple dozen feet in, there is a massive iron cage. It’s open and laying on its side. Many of the bars are bent, twisted and even broken. There is a huge pile of excrement and shredded carcasses scattered around the cavern floor. Nearby, an enormous beast sleeps.</em></p>
+	</blockquote>
+- There's a shout from behind the party; the guards have returned. Ella bluffs aggressively, presenting the party as senior Syndicate agents on inspection duty. Her lies were well supported by the clothing and gear they liberated from the hit squad they defeated.
+- The ruse works, and they guards Ella bullied feel genuinely lucky to get off with a warning as the party heads back to the Syndicate base.
+- At the base, the successfully use the pass phrases to get past the guard at the front door.
+- They tell the guard Isaac sent for them. Isaac isn't back yet, but he should be soon, and the party is allowed to wait inside.
+### Himari
+- As Himari pulls in a sixth trout, he sees a boat tie up at the landing. Looking through his spyglass, he sees two men with loaded backpacks and a third man, who appears to be in charge―ruffled hair, dark eyes and hint of facial hair.
+- They start to head up the trail to the Syndicate base.
+- Himari lights his signal fire. He fillets a fish and begins cooking it to continue his simple fisherman ruse.
+### Erastis, Elena, Ella and Hicks
+- The rest of the party begins looking around the Syndicate base.
+- <p>The front door opens into a dining room with a long table. There’s a door to the kitchen on the left and a central hallway opposite of the front door. The other rooms in the building open off of the hallway―one at the far end and one to the left and right.</p>
+	<blockquote>
+	<p><em>A long wooden table and benches fills most of the dining room. There is a single oil lamp on the table, and someone has left a plate with some food scraps next to it. notice labelled “Asset Feeding Duty” is pinned to the wall. The rest of the walls here are decorated with hunting trophies, but you don’t recognize any of the creatures. A single Syndicate agent is asleep at the table and snoring fairly loudly.</em></p>
+	</blockquote>
+- <p>Elena heads to the door on the right-hand side of the hallway, which opens to a small barracks.</p>
+	<blockquote>
+	<p><em>It’s a spartan barracks with rows of steel-frame bunk beds lining the walls. Each bed has a thin mattress, rough wool blankets, with two footlockers crammed beneath each pair. The air smells of sweat and gun oil. Six Syndicate agents are sitting on the edge of beds, gathered around a footlocker and playing cards.</em></p>
+	</blockquote>
+- As Elena looks in a fight breaks out among the agents. Apparently someone tried to steal from the pot.
+- Erastis, Ella and Hicks head to the door at the end of the hallway.
+- Erastis tries unsuccessfully to pick the lock, and someone inside calls out, "Hey, who's there?"
+- Erastis steps back to the door on the left-hand side of the hallway, which he finds is also locked.
+- Giving up, Erastis starts to head back to the dining room, but he tried to pick at the end of the hallway opens.
+- An agent holding a clipboard says to the group, "Oh, are you my relief?"
+- Erastis confirms he is, and Ella is able to complete the pass phrase challenge from the agent, who hands Erastis his clipboard and heads out the front entrance.
+- Ella fumbles an attempt to lift the agent's key, but she's able to pass it off as hungover clumsiness.
+### Himari
+- Himari leaves his fire to return to the landing and follow the new arrivals up the path.
+- He encounters the same tree stand/guard tower the rest of the party did earlier and tried to sneak around it as well. However, he's spotted almost immediately.
+- Himari did not have any pass phrases memorized, so the guards move to capture him.
+- In the fight that follows, multiple shots are fired. Himari kills both guards.
+- Himari climbs the watchtower, where he can see the leader and his men at the edge of the clearing around the base.
+- The leader waves the other two men back, and they start running back toward the watchtower. Meanwhile, the leader heads toward the base.
+- Running to outpace the returning agents, Himari heads back to the boat landing. He slashes the mooring lines with his katana and leaps aboard. He quickly takes the rudder and steers the boat into the center of River Romul and lets the current carry him south.
+- After a couple miles, out of sight of the knob and with no sign of pursuit, Himari runs the boat aground.
+### Erastis, Elena, Ella and Hicks
+- Back in the Syndicate base, Elena and Ella hear the gunshots from Himari's fight with the watchtower agents.
+- So do the guards who were playing cards in the barracks. They come running out past the party.
+- The group receives a couple sidelong looks, but the agents seem to be trusting in their security protocols and don't trouble Erastis, Elena, Ella and Hicks.
+- <p>The party decides to take advantage of the chaos and look around the base more thoroughly. Erastis starts in what turns out to be a storage room at the end of the hallway.</p>
+	<blockquote>
+	<p><em>This is the largest room in the building; it probably accounts for half of the square footage. It’s crammed with crates, barrels and assorted expedition gear (rope, climbing tools, lanterns, and the like). Lanterns hang from hooks on the walls, casting a dim glow over the room’s contents.</em></p>
+	</blockquote>
+- The clipboard Erastis had been handed has a checklist on it. It appears the agents are in the middle of provisioning a new expedition―presumably like the three others outlined on the map the party found at the safe house in Kapama.
+- Returning to the hallway, Erastis meets with the other three. Ella lets him know something is going on and that they don't have much time.
+- <p>Erastis quickly picks the lock to the remaining door in the hallway. It's an office.</p>
+	<blockquote>
+	<p><em>This office is sparsely furnished. It’s dominated by a sturdy oak desk with a roll-top compartment. There is a map of Whakatāne taped to the desktop marked with pins and notes. Behind the desk, there is a 3 × 3 ft hatch in the floor. There is a gun safe in the corner.</em></p>
+	</blockquote>
+- The map on the desktop is similar to the one the players find in Gabrielle Foster’s possession, with one exception: there is a fourth expedition route penciled in here. It largely follows the second expedition into the Shards.
+- In the margin, there is a note that reads, “Second expedition may not have been a complete loss. Carson Grundy’s return last month―even raving as he was―suggests something valuable may be waiting for us.” Then, there are phrases in quotation marks: “forgotten paths,” “the sacred fire,” and “signs hidden in shadows.”
+- Ella checks the desk. She pulls the marked up map up from the desktop. And, inside the roll-top desk, she finds a small stack of papers and takes those as well.
+- Erastis pick the lock to the gun safe. He finds a purse with 100 wheels, a revolver, a box of 20 rounds of ammunition.
+- Elena opens the hatch, and the party climbs down a ladder into the tunnel below.
+	<blockquote>
+	<p><em>The ladder leads down about 15 ft, from the office hatch to a rough-hewn tunnel reinforced with wooden beams. There are three torches leaning against a wall next to a quenching bucket, half full with brackish water.</em></p>
+	<p><em>The tunnel leads to a thick wooden door set into a stone face. It is barred shut from this side. There is a small sliding opening toward the top of the door. You can hear a trickle of running water, like a natural spring, and an irregular dripping sound. Hanging next to the door is a fairly large bell.</em></p>
+	</blockquote>
+- After some hemming and hawing, the party opens the door and enters the cavern beyond. It's clear this is the same cavern they'd found previously; they're just seeing it from the other side.
+- The party moves further into the cavern and sees an enormous lizard sleeping in the center of the space―the beast.
+- Then, they hear the sound of a door shutting behind them and a bar dropping into place.
+- Looking back, Ella is close enough to see a face in the window of the door. It's Pedro, the husband she thought was dead.
+- Pedro meets her eyes. He smiles and says, "Hey, gumdrop." Then, he reaches up and rings the bell.
+- The beast begins stirring.
+- The party makes a run for the front of the cavern, where they find the two guards they met earlier. However, the guards realize they've been deceived and refuse to open the gate.
+- The beast is awake now and looking for food. It finds the party instead.
+- Elena is by the gate negotiating/fighting with the guards. Meanwhile, Erastis and Ella have take higher ground on some rocky outcroppings. 
+- Unfortunately, Hicks is caught out by the beast as it lumbers to its feet. He dodges a tails swipe and gets off a couple shots, but it's no use.
+- The beast stands over Hicks and roars. Then, in a single bite swallows Hicks down.
+- Ella screams defiance and unloads shot after shot into the creature along with Erastis.
+- The fight is fast and bloody. By the end, the creature and guards are dead and Hicks is gone.
+- Gunshots are still reverberating in the cavern and ringing in the party's ears. There's little time to mourn Hicks; they need to decide what to do, and fast.
