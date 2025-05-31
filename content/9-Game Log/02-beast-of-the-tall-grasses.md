@@ -5,7 +5,6 @@ tags:
   - game_log
 ---
 In which the players are hired as Sheriff Drayton's irregulars and head to Kapama to investigate reports of dead and missing animals and the death of a farmhand.
-<a name="session-1"></a>
 - - -
 # Session 1
 ## 7 Oct. 1864
@@ -223,8 +222,6 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - Eventually, about three miles down the river, Old Tom stops the ferry and points to the far side of the river.
 	- "Yup, that's where I saw it. Big as a house with red, angry eyes."
 - The party decides not to swim across the river to investigate tonight. Instead, they plan to come back the next day and ford the river further upstream.
-
-<a name="session-2"></a>
 - - -
 # Session 2
 ## 15 Oct. 1864 (continued)
@@ -350,8 +347,6 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The group takes cover behind some nearby trees and among the marsh grasses.
 - Three more Syndicate agents pass by wielding a shotgun, a rifle and a revolver. They are moving slowly and very obviously looking for the group. But they pass the group by without noticing them.
 - The group plans to set an ambush to attack all six agents when they head back into town.
-
-<a name="session-3"></a>
 - - -
 # Session 3
 ## 18 Oct. 1864 (continued)
@@ -381,10 +376,8 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The players decide to press on to what appears to be a major Syndicate base at "Issac's Knob."
 - According to the map the players found, Issac's Knob is a hill where the Vein River and River Romul diverge again.
 - The players rest for the evening.
-
-<a name="session-4"></a>
 - - -
-# Session 3
+# Session 4
 ## 19 Oct. 1864
 - The party procures a basic row boat for their travels down river.
 - They travel east to the end of Kagan's Neck, where they again see the heavy drag marks Erastis had found leading down to the river.
@@ -397,7 +390,6 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The plan is for Himari to light a fire and use the smoke to signal the rest of the party of any danger coming up from behind.
 - If any of the Syndicate agents find him, he is posing as an innocent fisherman on the edge of the frontier.
 - The fish are really biting this morning, and Himari soon reels in five nice trout.
-
 ### Erastis, Elena, Ella and Hicks
 - Meanwhile the rest of the party cautiously follows the path from the river. About 100 feet in, they spot a tree stand off the side of the path. It’s manned by two Syndicate agents.
 - They quietly slip off the path, taking cover among the scrub pines and brush as they slip unnoticed around the guard post.
