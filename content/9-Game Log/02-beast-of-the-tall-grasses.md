@@ -379,7 +379,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - - -
 # Session 4
 ## 19 Oct. 1864
-- The party procures a basic row boat for their travels down river.
+- The party procures a basic poll boat for their travels down river.
 - They travel east to the end of Kagan's Neck, where they again see the heavy drag marks Erastis had found leading down to the river.
 - They continue along the merged Vein River/River Romul until the rivers split again. At the divide, the party sees a solitary hill. They decide this must be the "Isaac's Knob/Twin River Rise" noted on the Syndicate map recovered from the Eckleson house.
 - Exploring along the shore of the southern branch of River Romul, the party finds a natural landing with heavy drag marks leading up away from shore that match those they found on Kagan's Neck.
@@ -479,4 +479,4 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The beast stands over Hicks and roars. Then, in a single bite, it swallows Hicks down.
 - Ella screams and unloads shot after shot into the creature along with Erastis.
 - The fight is fast and bloody. By the end, the creature and guards are dead and Hicks is gone.
-- The cavern is oddly quiet as the echos of gunshots fade. There's little time to mourn Hicks; they need to decide what to do, and fast.
+- The cavern is oddly quiet as the echos of gunshots and the final roar of the beast fade. There's likely little time to mourn Hicks; they need to decide what to do, and fast.
