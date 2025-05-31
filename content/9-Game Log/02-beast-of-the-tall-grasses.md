@@ -474,9 +474,9 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The beast begins stirring.
 - The party makes a run for the front of the cavern, where they find the two guards they met earlier. However, the guards realize they've been deceived and refuse to open the gate.
 - The beast is awake now and looking for food. It finds the party instead.
-- Elena is by the gate negotiating/fighting with the guards. Meanwhile, Erastis and Ella have take higher ground on some rocky outcroppings. 
+- By the gate, Elena is negotiating/fighting with the guards. Meanwhile, Erastis and Ella have take higher ground on some rocky outcroppings. 
 - Unfortunately, Hicks is caught out by the beast as it lumbers to its feet. He dodges a tails swipe and gets off a couple shots, but it's no use.
-- The beast stands over Hicks and roars. Then, in a single bite swallows Hicks down.
-- Ella screams defiance and unloads shot after shot into the creature along with Erastis.
+- The beast stands over Hicks and roars. Then, in a single bite, it swallows Hicks down.
+- Ella screams and unloads shot after shot into the creature along with Erastis.
 - The fight is fast and bloody. By the end, the creature and guards are dead and Hicks is gone.
-- Gunshots are still reverberating in the cavern and ringing in the party's ears. There's little time to mourn Hicks; they need to decide what to do, and fast.
+- The cavern is oddly quiet as the echos of gunshots fade. There's little time to mourn Hicks; they need to decide what to do, and fast.
