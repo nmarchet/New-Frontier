@@ -470,7 +470,7 @@ In which the players are hired as Sheriff Drayton's irregulars and head to Kapam
 - The party moves further into the cavern and sees an enormous lizard sleeping in the center of the space―the beast.
 - Then, they hear the sound of a door shutting behind them and a bar dropping into place.
 - Looking back, Ella is close enough to see a face in the window of the door. It's Pedro, the husband she thought was dead.
-- Pedro meets her eyes. He smiles and says, "Hey, gumdrop." Then, he reaches up and rings the bell.
+- Pedro meets her eyes. He smiles and says, "Hey, lemon drop." Then, he reaches up and rings the bell.
 - The beast begins stirring.
 - The party makes a run for the front of the cavern, where they find the two guards they met earlier. However, the guards realize they've been deceived and refuse to open the gate.
 - The beast is awake now and looking for food. It finds the party instead.

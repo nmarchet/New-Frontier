@@ -54,3 +54,4 @@ tags:
 ## Game Log
 * [Miracle Tonic Medicine Show](01-medicine-show)
 * [Beast of the Tall Grasses](02-beast-of-the-tall-grasses)
+* [The Pursuit](03-the-pursuit)
