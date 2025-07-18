@@ -113,3 +113,14 @@ In which the players regroup following the death of Hicks and chase after the Sy
 - There is a blast of warmth as first yellow energy, then red energy fill the room―swirling, whirling around, touching everything in the room, permeating every*one*. 
 - The figures in the scene are moving too. The two women lunge toward the central figure, who throws them off with wild haymakers.
 - Then they vanish, leaving the light behind. The yellow light pours into Himari, Erastis, Elena and Ella. The red light pushes into Pedro, but then shoots out of him. It races back down the crevasse and out of sight.
+# Session 2
+## 22 Oct. 1864 (continued)
+- As the yellow light fills Himari, Erastis, Elena and Ella, each member of the party feels a voice inside them. It asks three questions.
+	- What is your strength?
+	- What is your weakness?
+	- What is your heart?
+- As the last traces of inner luminescence fade, the party discovers they all seem to have some strange new abilities.
+- While experimenting with a new magical sight ([Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic)), Ella notices some crystals embedded here and there in the rock of the crevasse and points them out to the group.
+- Himari is able to chip out one. It's about an inch wide as its widest and shines slightly sea green with some internal light.
+- While Himari chips out the odd gem, Ella gathers the rest of the group and convinces them to behead and burn the body of Pedro/Isaac.
+- As the body burns, the group heads out for the long trek down from the mountains.

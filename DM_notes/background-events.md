@@ -50,6 +50,39 @@ The Consortium in Port J has been looking to reestablish trade and influence wit
 
 
 
+What happens with the anti-social behavior from Glennon's seeping influence now that he's free? He returned to Rosslyn and inhabited the body of Merrick Golden, patriarch of House Golden. Where Caelus and Thalasson diffused themselves across several avatars (the players), Glennon would never. His relationship with Merrick Golden is more like possession.
+
+Glennon still wants to destroy humanity for Avarion's arrogance and blasphemy. However, after the thousands of years of imprisonment by Caelus and Thalasson, he wants to hurt them now too. He's going to target the people they're so fond of, people they would turn against their own to save. He's going to sow war, distrust and destruction among them and let them destroy themselves.
+
+So, Glennon's influence, the anti-social behavior the players first encountered in Gendron's Post, will spread.
+
+
+Miranda Hawke, owner of Silverpeak Mining Co., mines silver, copper and quartz from a mine outside the settlement at Scotsglen. 
+
+The ship in the harbor is complete 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

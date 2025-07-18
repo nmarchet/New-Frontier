@@ -1,10 +1,10 @@
 ---
-title: Sunstone
+title: Sparkstones
 draft: false
 tags:
   - dm_notes
 ---
-Sparkstones ([á la Dinotopia's sunstones](https://dinotopia.fandom.com/wiki/Sunstones)) are brilliant, hexagonal crystals found deep under the Shards. They are the results of Glennon's efforts to escape his prison. The tremendous energies involved have imbued crystals deep under the mountain range with unique properties.
+Sparkstones ([á la Dinotopia's sunstones](https://dinotopia.fandom.com/wiki/Sunstones)) are brilliant, hexagonal crystals found in lodes throughout the Shards. They are the results of the wide-ranging battle between Glennon, Caelus and Thalasson. The tremendous energies involved have imbued crystals deep under the mountain range with unique properties.
 
 The stones are incredibly hard. The crystals are vividly opalescent, but seem to come in three varieties, each marked by a dominant color.
 
