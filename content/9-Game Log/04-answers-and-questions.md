@@ -4,7 +4,7 @@ draft: false
 tags:
   - game_log
 ---
-In which the players return to Fairhaven and begin to realize the repercussions of the event in Kapama and beyond.
+In which the players return to Fairhaven and begin to realize the repercussions of the events in Kapama and beyond.
 - - -
 # Session 1
 ## 22-26 Oct. 1864
@@ -42,7 +42,7 @@ In which the players return to Fairhaven and begin to realize the repercussions 
 ## 29 Oct. 1864
 - The journey takes longer than the original trip south, because the party need to double up on their newly summoned mounts. Plus, as they travel north, the lands are more and more affected by the Scour. Close to Gendron's Post, whole swaths of the trail are obliterated.
 - After a couple days, the party does arrive in Gendron's Post. The small settlement is all but buried. Outside the settlement, dunes of sand have replaced the rolling grassland. In town, the buildings along the street are buried up to their roofs. Even the watchtower is only a few feet above the ground now.
-- Only a couple residents remain digging out the settlement one building at a time―[Jane Gendron](jane-gendron); her ward, [Eliot](eliot); and [Marcus Stone](marcus-stone), Ella former intermittent employer and mentor. 
+- Only a couple residents remain digging out the settlement one building at a time―[Jane Gendron](jane-gendron); her ward, [Eliot](eliot); and [Marcus Stone](marcus-stone), Ella's former intermittent employer and mentor. 
 - Ella checks in with Stone while the others head to the watchtower and break the news of Hicks' death to Eliot and Jane.
 ## 31 Oct. 1864
 - In Fairhaven, the party briefly stops at the Settlers’ Rest Inn to freshen up before heading out into the city on their personal business.
