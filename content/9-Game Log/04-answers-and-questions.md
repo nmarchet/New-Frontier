@@ -52,8 +52,8 @@ In which the players return to Fairhaven and begin to realize the repercussions 
 - Elena goes to the Panacea headquarters and finds herself reporting to [Liora Arden](liora-arden), who oversees day-to-day operations for Panacea, for a second time.
 - Liora had been aware of the delayed expedition and the staffing shortage. In fact, she'd arranged for a trio of "compadres" to relieve Nora in Kapama. They were currently en route.
 - However, when Elena presents the retrieved pendant with a sting of dramatic music and explains exactly where and how it was recovered, the Panacea head recognizes the gravity of the situation.
-- She rings a bell on her desk and summons her assistant, a long-suffering woman named Ellen, and tells her to arrange a full cohort of "compadres" to travel to Kapama.
-- Liora asks Elena to give her full statement to Ellen, who is also a bit of an artist and does a composite sketch based on her description.
+- She rings a bell on her desk and summons her assistant, a long-suffering woman named Helen, and tells her to arrange a full cohort of "compadres" to travel to Kapama.
+- Liora asks Elena to give her full statement to Helen, who is also a bit of an artist and does a composite sketch based on her description.
 - Afterward, Elena refreshes her medical kit supplies.
 ### Himari
 - Himari checks in on his father's house. Everything is as he left it.
@@ -70,3 +70,60 @@ In which the players return to Fairhaven and begin to realize the repercussions 
 - As she arrives, there's no smoke coming from Mara's smithy, which is unusual. In the brief time Ella knew Mara, she would never let the forage go cold.
 - Ella draws a revolver and steps into the smithy.
 - The orderly shop Ella remembers is a disaster. She can't tell whether there's been a fight or it's just been tossed.
+# Session 2
+## 31 Oct. 1864
+### Erastis
+- <p>Erastis heads down toward the docks of Fairhaven itching for a fight. He winds up at a dockside stand called the Lusty Siren.</p> 
+	<blockquote>
+	<p><em>Tucked between a warehouse and the water's edge, The Lusty Siren is less a tavern; it's more a glorified shack that happens to serve booze. Built from salvaged crates and tar-stained canvas, there's no dinning room, just a wide outfacing counter where the lone barkeep serves drinks in dented metal mugs and greasy food on torn squares of parchment.</em></p>
+	</blockquote>
+- As he approaches, Erastis sees a bunch of dockworkers out front. From the snippets of conversation he can make out, they seem to be celebrating the completion of Whakatāne's first ocean-going ship.
+- The ship is visible further down the shore. The tide is out and passersby can clearly see the elaborate blocking and shoring that has supported the ship during construction.
+- His interest is piqued, and Erastis abandons his original plan of instigating fights and approaches a couple of the groups milling around out in front of The Lusty Siren.
+- After a couple conversational gambits―some more successful than others―Erastis finds out the ship is, in fact, finished.
+- Erastis asks whether he could get a closer look at the ship. He's told, "Fuck no. They got fucking guards and shit. Fucking Syndicate guards." The workers estimate one "shitload" of guards have been assigned to protect the new vessel.
+- The workers aren't sure what the ship will be used for or when it will launch. It has a huge cargo hold apparently. The workers say the launch date depends on "her fucking majesty" over in Port J―apparently alluding to a woman in the Consortium, which commissioned the ship.
+- As he is wrapping up his conversation with the dockworkers, Erastis notices someone familiar sitting against the far wall of the Lusty Siren. Hunched there in the shadows is [Old Tom](old-tom), the ferryman from Kapama.
+- Erastis buys Old Tom several drinks, but it doesn't take much to get him talking. Old Tom says he has been let go from his previous ferrying gig, because he's too old.
+- Erastis commiserates and share his own tale of woe, but Old Tom doesn't seem especially interested in Erastis' trouble with women.
+- After wheedling a third drink out of Erastis, Old Tom struggles to his feet to take his leave. But, he slips and falls―still holding his glass, which shatters and slashes his hand.
+- Old Tom insists he's OK and limps away toward the back of the building clutching his hand. He round the corner to the back of the building leaving a significant trail of blood.
+- Erastis follows quickly, but, as he rounds the corner, the trail of blood stops abruptly, and Old Tom is gone.
+- Erastis looks around. He notices that the trail of blood ends first. The bloody footprints continue a bit farther, then they stop suddenly too.
+- Giving up on the mystery for now, Erastis heads toward the shipyards―or, rather, ship*yard*.
+- There's a single quay that leads out to the ocean. At the end, the settlement's first ocean-going ship has been built on blocking designed to be knocked out at a full tide to let the finished ship simply sail out.
+- There are several guards, both on the ship and on the quay leading to it. 
+- With an emotional breakdown, mysterious reunion and initial reconnoitering complete, Erastis heads back to the Settlers’ Rest Inn to get some sleep.
+### Elena
+- Elena finishes giving her statement about the events in and around Kapama to her superiors at Panacea.
+- She looks around the city for a bar where other Panacea members drink, but doesn't find any.
+- And, back at the Settlers' Rest Inn, she doesn't see any familiar faces either.
+### Ella
+- Ella looks around the trashed smithy of her most recent mentor, [Mara Alder](mara-alder).
+- After getting over the initial shock at the scene, Ella takes time to investigate properly:
+	- The forge is fully cold―something no smith would allow to happen―so it's been at least 24 hours since Mara was taken.
+	- At first, Ella wasn't sure whether the upheaval in the smithy was from a fight or someone tossing the room. Now she's sure it was both. First, there was a fight. Then someone tore Mara's workshop apart looking for something specific.
+	- There's a heavy hammer on the floor with blood on it.
+	- A curious rock was kicked under a potbelly stove in the corner. It's a hunk of ore with a crystal embedded in it. The crystal looks a lot like the one Himari found in the wall of the cavern where the group received their powers.
+- Ella recognizes the ore surrounding the crystal, but can't quite place where she's seen it before.
+- Later, as Ella is picking up the mess in the smithy, she finds one of Mara's workbooks containing notes about materials, processes and formulas for alloys.
+- With it, Ella is able to identify the source of ore with the embedded crystal―it's a fairly rare ore out of [Scotsglen](scotsglen), one they've only found in their deepest mines.
+- Ella leaves as the sun is setting, still holding the curious ore-crystal aggregate. As the crystal catches a glint of the last sunlight, it gives her a shock. However, out of the sunlight, it acts like a normal rock.
+- Ella makes her way back to the Settlers' Rest Inn.
+- Along the way, she summons her steed. She and Derek (maybe) discuss names, friendship, betrayal and opposable thumbs.
+### Himari
+- Having dramatically ended his conversation with his handler, Himari disappears and reappears behind a stack of barrels in a nearby alley.
+- Himari crouches down out of sight. From here, he sees the resulting scene unfold: a woman screams; others shout; and Thaddeus spins around in the busy street bewildered. As Himari sneaks away, Thaddeus is doing his best to slip back into the crowd and get away from the growing public disturbance.
+- Anticipating a forthcoming manhunt by Syndicate agents, Himari heads back to his father's house to retrieve some personal items, including an old daguerreotype of his father. 
+- He leaves a note with a name: Malcolm Graves. Then a message: "The beginning of a list. Please don't add yourself to it."
+- Himari surreptitiously heads back to the Settlers' Rest Inn.
+### Together again
+- Eventually, everyone arrives back at the inn for a mutual debriefing in the backroom.
+- Shortly after midnight, Sheriff Drayton arrives. She's not happy. She says, "So, did anyone want to let me know you're back in town or Maybe give me the courtesy of a fucking report for the job that I'm paying you all for?"
+- She wants a report about Kapama; she wants to know where Hicks is; and she wants to know if any of the party know anything about the disappearance in the marketplace.
+- The group explains what happened in Kapama and how Hicks died. Even though he's drunk―or, perhaps, because he's drunk―Erastis manages to convince the sheriff that the party's hadrosaurs were also eaten by the beast.
+- After Himari accidentally creates a minor image of the beast of Kapama, the party members all reveal their powers to Sheriff Drayton. They tell her the full story of their encounter with the gods in the Shards.
+- As they mention the red light flying away after their encounter in the cavern in the Shards, something clicks for the sheriff. She tells the party that she's received reports of a red light streaking north across the sky several nights ago.
+- The sheriff also notes that the events in the Shards seem to line up with the latest Scour event.
+- Ella inadvertently casts [Zone of Truth](https://www.dndbeyond.com/spells/2619221-zone-of-truth) for the first time out of a desire to be able to truly trust the sheriff, to whom they all were confessing so much.
+- In the end, Sheriff Drayton suggests that the party stays hidden away at the inn for a few days. That will give them time to explore their powers and the sheriff time to investigate a few things―including what information about recent events has found a broader audience.
