@@ -4,6 +4,7 @@ draft: false
 tags:
   - game_log
 ---
+
 In which the players return to Fairhaven and begin to realize the repercussions of the events in Kapama and beyond.
 - - -
 # Session 1
@@ -127,3 +128,77 @@ In which the players return to Fairhaven and begin to realize the repercussions 
 - The sheriff also notes that the events in the Shards seem to line up with the latest Scour event.
 - Ella inadvertently casts [Zone of Truth](https://www.dndbeyond.com/spells/2619221-zone-of-truth) for the first time out of a desire to be able to truly trust the sheriff, to whom they all were confessing so much.
 - In the end, Sheriff Drayton suggests that the party stays hidden away at the inn for a few days. That will give them time to explore their powers and the sheriff time to investigate a few things―including what information about recent events has found a broader audience.
+# Session 3
+## 1-3 Nov. 1864
+- For three days the party sequesters themselves in the Settlers' Rest Inn as they rest up and explore their new powers―including Erastis' ability to cast [Find Familiar](https://www.dndbeyond.com/spells/2618877-find-familiar). He summons a cat named Nora.
+- In that time, they also put together a list of the various lines of investigation open to them:
+	- The disappearance of Old Tom
+	- The murder of Himari's father
+	- The kidnapping of Mara the blacksmith
+	- The purpose of the Consortium's ship
+	- Revenge for the death of Ella's family
+- Sheriff Drayton comes back to the inn to check on their progress.
+- The party demonstrates some of their new abilities. 
+- The sheriff reports that the public seems to have dismissed the reports of magic―Himari's disappearance in the public market and the supernatural sphere of red light racing north―as overblown gossip. 
+- Though she doesn't elaborate much, the sheriff also indicates that there are some political maneuverings afoot on the People's Council, something to do with the Consortium-allied members.
+## 4-5 Nov. 1864
+### Finding Old Tom
+- The party decides to tackle finding Old Tom first.
+- Before setting out, they attempt to disguise Himari, who―after magically disappearing in the town square―threatened the life of Syndicate partner Malcolm Graves.
+- The disguise is somewhat effective, insofar as Himari doesn't look like Himari any more. However, he does have a distracting―one might even say an attention-drawing―amount of rouge on his cheeks.
+- Himari decides to wear a deep cloak with the hood up and drawn forward. Somehow this is less distracting than his overly ruddy cheeks.
+- The group's first stop is the Lusty Siren, where Erastis met Old Tom the other night.
+- The proprietor there hasn't seen Old Tom and doesn't know where he might go other than maybe to another establishment that's open during the day.
+- The party spends the morning and a good bit of the afternoon going from inn to inn, where they were often received with suspicion once the staff caught a look at Himari.
+- No one had seen Old Tom.
+- Their final stop, left to last because of how unlikely it seemed, is the Wayfarer’s Refuge. This inn is about as upscale as possible for a colony on the edge of the world, catering to visiting Wayfinders’ Union members and wealthy traders.
+- There they find Old Tom―cleaned up and looking far more dapper than they've ever seen him. He's stationed at the host stand, seating guests and taking reservations.
+- Tom takes a reservation for the party, but promptly leads them through the dining room, through the kitchen and out the back door.
+- He seems to be worried the group is going to get him fired from this job he apparently just got.
+- When the party asks Tom about injuring his hand, he denies it vehemently―so vehemently that everyone except Ella thinks Erastis was lying about the other night. Even Erastis begins to doubt himself. 
+- Ella, on the other hand, is quite certain Tom is lying to them. She grabs Tom by the shirt,  shoves him against the wall of the Wayfarer’s Refuge and demands he drop his act.
+- Tom does drop the act and grudgingly begins to open up.
+- He laments that things did not go so well the last time he talked about magic.
+- As they question Tom, they come to find out several things:
+	- He has had magical abilities for a very long time―longer than most people have been alive.
+	- He was self-taught, learning through trial-and-error.
+	- He believes the figures the group encountered in the cave under the Shards were likely the gods―Caelus and Thalasson fighting Glennon.
+	- Tom has good reason to believe this, because he is, in fact, Averion. He is the man who many, many generations ago [brought the wrath of Glennon down on the world](elemental-trinity) by daring to learn the gods' art for himself.
+	- "Old Tom" is the latest character Averion has taken on to remain hidden from the gods.
+### The Consortium's ship
+- The party leaves Avarion to his job and returns to the Settlers’ Rest Inn. 
+- Having begun the day discovering a real-life figure from myth and legend, they decide to check out a boat next.
+- As Erastis had previously discovered, the Consortium ship is finished. The colony's first ocean-going vessel stands on blocking far from shore, at the end of a long quay. The ship has been constructed where the high tide is deep enough to float it out to sea once the blocking is removed.
+- There are Syndicate guards hired by the Consortium on the quay and on the ship itself.
+- After briefly considering blatant use of their new powers to "sneak" onto the ship, the group decides to impersonate Syndicate guards and bluff their way aboard.
+- But, first, the party decided to check in with Sheriff Drayton. 
+- <p>It is late at night, and they find her asleep at her desk in her office at the Civic Hall.</p>
+	<blockquote>
+	<p><em>The People’s Council at the Civic Hall to make decisions and oversee the administration of the colony. It was one of the first structures of the young colony. First it served as overcrowded community housing, then it became a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, several additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></p>
+	</blockquote>
+
+- When the party asks what has her working so late, the sheriff explains she's been busy resisting efforts by a faction on the People's Council that is pushing to eliminate the current system of sheriff/deputies to instead let individual settlements handle their own law enforcement.
+- The effort is led by a Consortium ally, Councilman Anton Fillmore.
+- The sheriff isn't overly worried. The Consortium has always chaffed against centralized control out of Fairhaven. However, the current political climate does mean that the party's work as the sheriff's irregulars will have to be especially discreet going forward.
+- The group explains their plan to investigate the new Consortium ship.
+- The sheriff tentatively approves the plan but again emphasizes discretion. She says, "But here's what I'll say: if you get push back, don't push back on the push back"
+- This has the group rethinking their plan, and they decide to send in Erastis' new familiar instead.
+- <p>Erastis' telepathic connection with Nora is limited in range, so Erastis has to give him specific instructions:</p> 
+
+	<blockquote>
+	<p><em>"All right, I want you to go onto the ship. Get a sense of the layout of the ship. Get a sense of the guards―how many there are, their movements, how they cover the ship and if they avoid any areas. I would like you to locate the captain's quarters and get in there if you can. See if it is already stocked with information, such as books, maps, charts and so on. If you can get to the hold, see if there's anything in there already. Find out what it is, as much as you can. And keep an eye out for anything odd or any extra people beyond security."</em></p>
+	</blockquote>
+
+- Erastis and Nora head down to the docks district, and Erastis post up by a warehouse within sight of the quay.
+- Nora walks up along the quay past the guards onto the ship.
+- About an hour and a half later Nora comes back. His report isn't super informative:
+	- The ship already has some rats.
+	- There's a big area for cargo with several crates loaded already, some of which smelled of spices.
+	- There are some rooms to the front and some rooms to the back. Most were locked.
+	- There are people on every deck―five out front, four on the main deck, another four on each of the three decks below.
+- The next day the party decides to try to bluff their way onto the ship.
+- Elena forges a letter from [Miranda Hawke](miranda-hawke), owner of Silverpeak Mining Co. and an influential member of the Consortium’s board.
+- The letter purports to be a notice of a forthcoming inspection.
+- However, when Erastis presents it to the guards at the quay, the lack of an official seal leaves them unconvinced, and they turn him away.
+- Remembering Sheriff Drayton's admonition for discretion, Erastis doesn't press the matter and returns to the group at the Settlers' Rest Inn.
+- The party decides that the secrets of the ship aren't an urgent matter. They decide to visit a temple and attempt to commune with the gods, after which they will track down Mara the missing blacksmith.
