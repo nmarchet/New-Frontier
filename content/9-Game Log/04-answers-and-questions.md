@@ -171,10 +171,10 @@ In which the players return to Fairhaven and begin to realize the repercussions 
 - As Erastis had previously discovered, the Consortium ship is finished. The colony's first ocean-going vessel stands on blocking far from shore, at the end of a long quay. The ship has been constructed where the high tide is deep enough to float it out to sea once the blocking is removed.
 - There are Syndicate guards hired by the Consortium on the quay and on the ship itself.
 - After briefly considering blatant use of their new powers to "sneak" onto the ship, the group decides to impersonate Syndicate guards and bluff their way aboard.
-- But, first, the party decided to check in with Sheriff Drayton. 
+- But, first, the party decides to check in with Sheriff Drayton. 
 - <p>It is late at night, and they find her asleep at her desk in her office at the Civic Hall.</p>
 	<blockquote>
-	<p><em>The People’s Council at the Civic Hall to make decisions and oversee the administration of the colony. It was one of the first structures of the young colony. First it served as overcrowded community housing, then it became a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, several additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></p>
+	<p><em>The Civic Hall is where the People’s Council convenes to make decisions and oversee the administration of the colony. It was one of the first structures of the young colony. Originally, it served as overcrowded community housing, then it became a tavern called the Second Chance Saloon. Now it is the seat of Whakatāne’s government. Over nearly four decades, several additions―including a bell tower―have been built with stone from the quarries of Scotsglen, but parts of the original tavern sided in tar-stained hull planks are still visible.</em></p>
 	</blockquote>
 
 - When the party asks what has her working so late, the sheriff explains she's been busy resisting efforts by a faction on the People's Council that is pushing to eliminate the current system of sheriff/deputies to instead let individual settlements handle their own law enforcement.
